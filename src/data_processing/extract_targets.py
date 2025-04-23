@@ -2,7 +2,7 @@ import pandas as pd
 import os 
 import json
 
-def generate_targets(mapping_path: str = os.path.join("data", "maps.csv"), save_path: str = os.path.join("data", "targets.json")):
+def generate_targets(mapping_path: str = os.path.join("data", "maps.csv"), save_path: str = os.path.join("results", "targets.json")):
     """
     Load the CSV data from Refinitiv Internal Database and get the sub-targets for each sustainable development goal 
     Args:

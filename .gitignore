@@ -175,7 +175,5 @@ cython_debug/
 
 
 # rag_esg
-data/reports
-data/txts
-data/maps.csv
+data
 NOTES

@@ -9,10 +9,10 @@ from langchain_text_splitters import CharacterTextSplitter
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 
 
-class Classify():
+class Retrieve():
 
     """
-    Get binary classifications for a particular sub-target for a particular PDF
+    Extract Relevant passages for each sub-target for a particular PDF
     """
 
     def __init__(self, embeddings = OpenAIEmbeddings(), weaviate_client = None, targets_path: str = os.path.join("data", "targets.json")):
@@ -48,15 +48,15 @@ class Classify():
 
         return db
     
-    @staticmethod
-    def retriever_query():
-        pass
+    # @staticmethod
+    # def retriever_query():
+    #     pass
 
-    @staticmethod
-    def classification_query():
-        pass
+    # @staticmethod
+    # def classification_query():
+    #     pass
     
-    def get_classifications(self, db: WeaviateVectorStore = None) -> Dict:
+    def retrieve_docs(self, db: WeaviateVectorStore = None) -> Dict:
         """
         Return a Dict object containing T/F Classifications of each Sub-Target for a given annual report
 
@@ -77,10 +77,9 @@ if __name__ == '__main__':
     weaviate_client = weaviate.connect_to_local()
     openai_embeddings = OpenAIEmbeddings()
     
-    classifier = Classify(embeddings=openai_embeddings, weaviate_client=weaviate_client, targets_path=os.path.join("data", "targets.json"))
+    classifier = Retrieve(embeddings=openai_embeddings, weaviate_client=weaviate_client, targets_path=os.path.join("data", "targets.json"))
     txt_pth = os.path.join("data", "txts", "14.BASF_$42.93 B_Industrials", "2023", "results.txt")
     db = classifier.get_db(txt_pth)
-    classifications = classifier.get_classifications(db)
 
     # Close client connection
     weaviate_client.close()
