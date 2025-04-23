@@ -177,3 +177,6 @@ cython_debug/
 # rag_esg
 data
 NOTES
+
+#MAC OS
+*.DS_Store
