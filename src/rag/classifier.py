@@ -138,12 +138,12 @@ if __name__=='__main__':
             years = os.listdir(os.path.join(RET_DIR, company))
             for y in tqdm(years, desc=f"Classifications for {company}"):
                 if os.path.isdir(os.path.join(RET_DIR, company, y)):
-                    retrieved_json = os.path.join(RET_DIR, company, y, "passages.json")
+                    retrieved_json = os.path.join(RET_DIR, company, y, "ai_sdg_passages.json")
 
                     classifier = Classify(retrieved_json)
                     classifications = classifier.get_classifications()
 
-                    save_path = os.path.join(RET_DIR, company, y, "classifications.json")
+                    save_path = os.path.join(RET_DIR, company, y, "ai_sdg_classifications.json")
                     with open(save_path, 'w') as f:
                         json.dump(classifications, f, indent=4)
 
