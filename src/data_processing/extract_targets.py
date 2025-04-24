@@ -39,3 +39,7 @@ def generate_targets(mapping_path: str = os.path.join("data", "maps.csv"), save_
 
 if __name__ == '__main__':
     generate_targets()
+
+"""
+Note - Refinitiv Dataset is missing "Goal 14" sub-targets, manually adjust this
+"""
