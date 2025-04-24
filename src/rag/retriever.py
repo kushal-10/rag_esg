@@ -95,6 +95,29 @@ class Retrieve():
 
         logger.info(f"Retrieved {len(retrieved_docs)} Documents")
         return retrieved_docs
+    
+    def retrieve_docs_ai(self, db: WeaviateVectorStore = None, similarity_threshold: float = 0.75) -> Dict:
+        """
+        Return a dict containing extracted passages of each Sub-Target
+        for a given annual report.
+        """
+        logger.info(f"Retrieving Docs with threshold: {similarity_threshold}")
+        retrieved_docs = []
+        keywords = ["Artificial Intelligence"]
+        for k in keywords:
+        
+            docs = db.similarity_search_with_score(k, k=50)
+            count = 0
+            for doc, score in docs:
+                if score >= similarity_threshold:
+                    count += 1
+                    retrieved_docs.append({
+                        "keyword": k,
+                        "page_content": doc.page_content
+                    })
+
+        logger.info(f"Retrieved {len(retrieved_docs)} Documents")
+        return retrieved_docs
 
 
 if __name__ == "__main__":
@@ -114,13 +137,13 @@ if __name__ == "__main__":
         if os.path.isdir(year_dir):
             result_file = os.path.join(year_dir, "results.txt")
             db = retriever.get_db(result_file)
-            retrieved = retriever.retrieve_docs(db=db, similarity_threshold=0.75)
+            retrieved = retriever.retrieve_docs_ai(db=db, similarity_threshold=0.6)
 
             save_dir = os.path.join("results", "retrieve", company, year)
             os.makedirs(save_dir, exist_ok=True)
             # with open(os.path.join(save_dir, "passages.json"), "w") as f:
             #     json.dump(retrieved, f, indent=4)
-            with open(os.path.join(save_dir, "ai_sdg_passages.json"), "w") as f:
+            with open(os.path.join(save_dir, "ai_passages.json"), "w") as f:
                 json.dump(retrieved, f, indent=4)
 
     weaviate_client.close()

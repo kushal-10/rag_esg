@@ -57,3 +57,18 @@ def sdg_query(sub_target: str, extracted_passage: str):
     """
 
     return sdg_q
+
+def ai_solo_query(extracted_passage: str):
+
+    ai_sq = f"""
+    You are given a PASSAGE from an annual report of a company. 
+    Your task is to check if the extracted PASSAGE actually relates to any of the 17 Sustainable Goals defined by the UN.
+    If the extracted PASSAGE is related to an of the 17 SDGs or helps towards achieving one of those goals then respond with YES and nothing else.
+    If not then respond with NO and nothing else.
+
+    So respond only with either YES or NO depending §on the above situation.
+
+    Here is the PASSAGE - {extracted_passage}
+    """
+
+    return ai_sq

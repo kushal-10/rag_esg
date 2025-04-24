@@ -5,7 +5,7 @@ import logging
 import os
 from tqdm import tqdm
 
-from src.rag.queries import ai_query, sdg_query
+from src.rag.queries import ai_query, sdg_query, ai_solo_query
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(
@@ -127,6 +127,27 @@ class Classify():
             classifications.append(classification_obj)
         
         return classifications
+    
+    def get_ai_classifications(self) -> Dict:
+        """
+        TODO
+        """
+
+        classifications = []
+        for json_obj in tqdm(self.json_data):
+            ai_q = ai_solo_query(extracted_passage=json_obj["page_content"])
+            ai_response = self.generate_response(ai_q)
+
+            # Rebuild over json object
+            classification_obj = {
+                "keyword": json_obj["keyword"],
+                "passage": json_obj["page_content"],
+                "ai": ai_response
+            }
+
+            classifications.append(classification_obj)
+        
+        return classifications
 
 
 if __name__=='__main__':
@@ -138,12 +159,14 @@ if __name__=='__main__':
             years = os.listdir(os.path.join(RET_DIR, company))
             for y in tqdm(years, desc=f"Classifications for {company}"):
                 if os.path.isdir(os.path.join(RET_DIR, company, y)):
-                    retrieved_json = os.path.join(RET_DIR, company, y, "ai_sdg_passages.json")
+                    retrieved_json = os.path.join(RET_DIR, company, y, "ai_passages.json")
 
                     classifier = Classify(retrieved_json)
-                    classifications = classifier.get_classifications()
+                    # classifications = classifier.get_classifications()
+                    classifications = classifier.get_ai_classifications()
 
-                    save_path = os.path.join(RET_DIR, company, y, "ai_sdg_classifications.json")
+
+                    save_path = os.path.join(RET_DIR, company, y, "ai_classifications.json")
                     with open(save_path, 'w') as f:
                         json.dump(classifications, f, indent=4)
 
