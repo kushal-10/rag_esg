@@ -80,9 +80,9 @@ class Retrieve():
 
                 # Update defn to include AI + SDG
                 # Comment the following line to only include SDG results
-                ai_sdg_defn = defn + " Are Artificial Intelligence or similar techonologies (keywords - Machine Learning, Data Science, Computer Vision) used towards this?"
+                # ai_sdg_defn = defn + " Are Artificial Intelligence or similar techonologies (keywords - Machine Learning, Data Science, Computer Vision) used towards this?"
 
-                docs = db.similarity_search_with_score(ai_sdg_defn, k=50)
+                docs = db.similarity_search_with_score(defn, k=50)
                 count = 0
                 for doc, score in docs:
                     if score >= similarity_threshold:
@@ -137,13 +137,13 @@ if __name__ == "__main__":
         if os.path.isdir(year_dir):
             result_file = os.path.join(year_dir, "results.txt")
             db = retriever.get_db(result_file)
-            retrieved = retriever.retrieve_docs_ai(db=db, similarity_threshold=0.6)
+            retrieved = retriever.retrieve_docs(db=db, similarity_threshold=0.6)
 
             save_dir = os.path.join("results", "retrieve", company, year)
             os.makedirs(save_dir, exist_ok=True)
-            # with open(os.path.join(save_dir, "passages.json"), "w") as f:
-            #     json.dump(retrieved, f, indent=4)
-            with open(os.path.join(save_dir, "ai_passages.json"), "w") as f:
+            with open(os.path.join(save_dir, "passages.json"), "w") as f:
                 json.dump(retrieved, f, indent=4)
+            # with open(os.path.join(save_dir, "ai_passages.json"), "w") as f:
+            #     json.dump(retrieved, f, indent=4)
 
     weaviate_client.close()
