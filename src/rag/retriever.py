@@ -76,22 +76,29 @@ class Retrieve():
         retrieved_docs = []
         for i in range(1, 18):
             sub_target_defs = self.targets[str(i)]
-            for defn in sub_target_defs:
 
+            sub_target = 1
+            sub_docs = {}
+            for defn in sub_target_defs:
+            
                 # Update defn to include AI + SDG
                 # Comment the following line to only include SDG results
                 # ai_sdg_defn = defn + " Are Artificial Intelligence or similar techonologies (keywords - Machine Learning, Data Science, Computer Vision) used towards this?"
-
+                doc_contents = []
+                # Retrieve top 50 docs and then filter by score
                 docs = db.similarity_search_with_score(defn, k=50)
                 count = 0
                 for doc, score in docs:
                     if score >= similarity_threshold:
                         count += 1
-                        retrieved_docs.append({
-                            "goal": i,
-                            "sub_target": defn,
-                            "page_content": doc.page_content
-                        })
+                        doc_contents.append(doc.page_content)
+                
+                sub_docs[str(sub_target)] = count
+                sub_docs[str(sub_target)+"_docs"] = doc_contents
+                sub_target += 1
+
+            retrieved_docs.append(sub_docs)
+
 
         logger.info(f"Retrieved {len(retrieved_docs)} Documents")
         return retrieved_docs
@@ -131,19 +138,23 @@ if __name__ == "__main__":
     )
 
     TXT_DIR = os.path.join("data", "txts")
-    company = "14.BASF_$42.93 B_Industrials"
-    for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
-        year_dir = os.path.join(TXT_DIR, company, year)
-        if os.path.isdir(year_dir):
-            result_file = os.path.join(year_dir, "results.txt")
-            db = retriever.get_db(result_file)
-            retrieved = retriever.retrieve_docs(db=db, similarity_threshold=0.6)
-
-            save_dir = os.path.join("results", "retrieve", company, year)
-            os.makedirs(save_dir, exist_ok=True)
-            with open(os.path.join(save_dir, "passages.json"), "w") as f:
-                json.dump(retrieved, f, indent=4)
-            # with open(os.path.join(save_dir, "ai_passages.json"), "w") as f:
-            #     json.dump(retrieved, f, indent=4)
+    for company in os.listdir(TXT_DIR):
+    #     company = "14.BASF_$42.93 B_Industrials"
+        company_dir = os.path.join(TXT_DIR, company)
+        save_path = os.path.join("results", "retrieve", company)
+        if os.path.isdir(company_dir):
+            if not os.path.exists(save_path):
+                os.makedirs(save_path)
+            df = {}
+            for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
+                year_dir = os.path.join(TXT_DIR, company, year)
+                if os.path.isdir(year_dir):
+                    result_file = os.path.join(year_dir, "results.txt")
+                    db = retriever.get_db(result_file)
+                    retrieved = retriever.retrieve_docs(db=db, similarity_threshold=0.6)
+                    df[year] = retrieved
+      
+            with open(os.path.join(save_path, "results.json"), 'w') as f:
+                json.dump(df, f, indent=4) 
 
     weaviate_client.close()
