@@ -91,7 +91,7 @@ class Retrieve():
                 for doc, score in docs:
                     if score >= similarity_threshold:
                         count += 1
-                        doc_contents.append(doc.page_content)
+                        doc_contents.append([score, doc.page_content])
                 
                 sub_docs[str(sub_target)] = count
                 sub_docs[str(sub_target)+"_docs"] = doc_contents
@@ -109,22 +109,21 @@ class Retrieve():
         for a given annual report.
         """
         logger.info(f"Retrieving Docs with threshold: {similarity_threshold}")
-        retrieved_docs = []
+    
         keywords = ["Artificial Intelligence"]
         for k in keywords:
-        
-            docs = db.similarity_search_with_score(k, k=50)
+            retrieved_docs = []
+            docs = db.similarity_search_with_score(k, k=20)
             count = 0
             for doc, score in docs:
                 if score >= similarity_threshold:
                     count += 1
-                    retrieved_docs.append({
-                        "keyword": k,
-                        "page_content": doc.page_content
-                    })
+                    retrieved_docs.append([score, doc.page_content])
+            
+        return {str(count): retrieved_docs}
 
-        logger.info(f"Retrieved {len(retrieved_docs)} Documents")
-        return retrieved_docs
+        # logger.info(f"Retrieved {len(retrieved_docs)} Documents")
+        # return retrieved_docs
 
 
 if __name__ == "__main__":
@@ -138,23 +137,29 @@ if __name__ == "__main__":
     )
 
     TXT_DIR = os.path.join("data", "txts")
+    donelist = [
+        "11.BMW_$55.03 B_Industrials",
+        "13.Adidas_$244.57_Consumer Discretionary",
+        "9.Siemens Healthineers_$58.91 B_Health Care"
+    ]
     for company in os.listdir(TXT_DIR):
     #     company = "14.BASF_$42.93 B_Industrials"
-        company_dir = os.path.join(TXT_DIR, company)
-        save_path = os.path.join("results", "retrieve", company)
-        if os.path.isdir(company_dir):
-            if not os.path.exists(save_path):
-                os.makedirs(save_path)
-            df = {}
-            for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
-                year_dir = os.path.join(TXT_DIR, company, year)
-                if os.path.isdir(year_dir):
-                    result_file = os.path.join(year_dir, "results.txt")
-                    db = retriever.get_db(result_file)
-                    retrieved = retriever.retrieve_docs(db=db, similarity_threshold=0.6)
-                    df[year] = retrieved
-      
-            with open(os.path.join(save_path, "results.json"), 'w') as f:
-                json.dump(df, f, indent=4) 
+        if company not in donelist:
+            company_dir = os.path.join(TXT_DIR, company)
+            save_path = os.path.join("results", "retrieve", company)
+            if os.path.isdir(company_dir):
+                if not os.path.exists(save_path):
+                    os.makedirs(save_path)
+                df = {}
+                for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
+                    year_dir = os.path.join(TXT_DIR, company, year)
+                    if os.path.isdir(year_dir):
+                        result_file = os.path.join(year_dir, "results.txt")
+                        db = retriever.get_db(result_file)
+                        retrieved = retriever.retrieve_docs_ai(db=db, similarity_threshold=0.6)
+                        df[year] = retrieved
+        
+                with open(os.path.join(save_path, "results_ai.json"), 'w') as f:
+                    json.dump(df, f, indent=4) 
 
     weaviate_client.close()
