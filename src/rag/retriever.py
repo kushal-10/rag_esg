@@ -138,9 +138,6 @@ if __name__ == "__main__":
 
     TXT_DIR = os.path.join("data", "txts")
     donelist = [
-        "11.BMW_$55.03 B_Industrials",
-        "13.Adidas_$244.57_Consumer Discretionary",
-        "9.Siemens Healthineers_$58.91 B_Health Care"
     ]
     for company in os.listdir(TXT_DIR):
     #     company = "14.BASF_$42.93 B_Industrials"
