@@ -56,5 +56,5 @@ def scan_txt_files(base_dir):
     return non_ascii_files
 
 if __name__ == '__main__':
-    txt_dir = "annual_txts_fitz"
+    txt_dir = os.path.join("data", "texts")
     bad_txts = scan_txt_files(txt_dir)

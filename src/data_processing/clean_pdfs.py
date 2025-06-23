@@ -73,7 +73,7 @@ for firm in firms:
                 total_files += 1
 
 # Fix remaining files manually
-# 1354 PDF files in total, 6 corrupted, fix manually
+# 1346 PDF files in total, 6 corrupted, fix manually
 """
 ['data/reports/auto1 group se/full_auto1_group_annual_report_en.pdf', 'data/reports/grenke ag/01d4eab9-cf54-49b9-a2d0-1b4b2e5e6011.pdf', 'data/reports/grenke ag/ba6fac9d33a24c12b970ecafbd39fc5c.pdf', 'data/reports/nagarro se/nagarro_se_ar_en.pdf', 'data/reports/delivery hero/final_secured_en.pdf', 'data/reports/redcare pharmacy/ar-shop-apotheke-europe.pdf']
 """
