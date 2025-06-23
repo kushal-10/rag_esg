@@ -1,0 +1,18 @@
+File data/cleaned_reports/data/reports/thyssenkrupp ag/2020.pdf already exists!
+File data/cleaned_reports/data/reports/deutsche pfandbriefbank ag/2020.pdf already exists!
+File data/cleaned_reports/data/reports/hensoldt/2020.pdf already exists!
+File data/cleaned_reports/data/reports/borussia dortmund gmbh & co kgaa/2020.pdf already exists! # Rename +1
+File data/cleaned_reports/data/reports/knorr bremse ag/2020.pdf already exists!
+File data/cleaned_reports/data/reports/hello fresh/2020.pdf already exists!
+File data/cleaned_reports/data/reports/draegerwerk/2022.pdf already exists!
+File data/cleaned_reports/data/reports/delivery hero/2020.pdf already exists!
+File data/cleaned_reports/data/reports/teamviewer/2020.pdf already exists!
+File data/cleaned_reports/data/reports/lanxess ag/2017.pdf already exists!
+File data/cleaned_reports/data/reports/dermapharm holding se/2023.pdf already exists!
+File data/cleaned_reports/data/reports/dermapharm holding se/2021.pdf already exists!
+File data/cleaned_reports/data/reports/jost werke se/2017.pdf already exists!
+File data/cleaned_reports/data/reports/flatexdegiro ag/2016.pdf already exists!
+File data/cleaned_reports/data/reports/compugroup medical se & co kgaa/2021.pdf already exists!
+File data/cleaned_reports/data/reports/ceconomy/2023.pdf already exists!
+File data/cleaned_reports/data/reports/pne ag/2021.pdf already exists!
+File data/cleaned_reports/data/reports/pne ag/2022.pdf already exists!
