@@ -6,3 +6,4 @@ langchain-weaviate==0.0.4
 langchain-openai==0.3.14
 langchain-community==0.3.22
 pandas==2.2.3
+langdetect==1.0.9
