@@ -80,7 +80,6 @@ class Retrieve():
             sub_target = 1
             sub_docs = {}
             for defn in sub_target_defs:
-            
                 # Update defn to include AI + SDG
                 # Comment the following line to only include SDG results
                 # ai_sdg_defn = defn + " Are Artificial Intelligence or similar techonologies (keywords - Machine Learning, Data Science, Computer Vision) used towards this?"
@@ -133,30 +132,27 @@ if __name__ == "__main__":
     retriever = Retrieve(
         embeddings=openai_embeddings,
         weaviate_client=weaviate_client,
-        targets_path=os.path.join("results", "targets.json")
+        targets_path=os.path.join("data", "targets.json")
     )
 
-    TXT_DIR = os.path.join("data", "txts")
-    donelist = [
-    ]
+    TXT_DIR = os.path.join("data", "texts")
+
     for company in os.listdir(TXT_DIR):
-    #     company = "14.BASF_$42.93 B_Industrials"
-        if company not in donelist:
-            company_dir = os.path.join(TXT_DIR, company)
-            save_path = os.path.join("results", "retrieve", company)
-            if os.path.isdir(company_dir):
-                if not os.path.exists(save_path):
-                    os.makedirs(save_path)
-                df = {}
-                for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
-                    year_dir = os.path.join(TXT_DIR, company, year)
-                    if os.path.isdir(year_dir):
-                        result_file = os.path.join(year_dir, "results.txt")
-                        db = retriever.get_db(result_file)
-                        retrieved = retriever.retrieve_docs_ai(db=db, similarity_threshold=0.6)
-                        df[year] = retrieved
-        
-                with open(os.path.join(save_path, "results_ai.json"), 'w') as f:
-                    json.dump(df, f, indent=4) 
+        company_dir = os.path.join(TXT_DIR, company)
+        save_path = os.path.join("results", "retrieve", company)
+        if os.path.isdir(company_dir):
+            if not os.path.exists(save_path):
+                os.makedirs(save_path)
+            df = {}
+            for year in tqdm(os.listdir(os.path.join(TXT_DIR, company)), desc=f"Extracting Docs for: {company}"):
+                year_dir = os.path.join(TXT_DIR, company, year)
+                if os.path.isdir(year_dir):
+                    result_file = os.path.join(year_dir, "results.txt")
+                    db = retriever.get_db(result_file)
+                    retrieved = retriever.retrieve_docs_ai(db=db, similarity_threshold=0.6)
+                    df[year] = retrieved
+
+            with open(os.path.join(save_path, "results_ai.json"), 'w') as f:
+                json.dump(df, f, indent=4)
 
     weaviate_client.close()

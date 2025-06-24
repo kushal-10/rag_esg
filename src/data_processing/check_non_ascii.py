@@ -7,12 +7,6 @@ from tqdm import tqdm
 from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0  # For consistent results across runs
 
-def detect_language(text):
-    try:
-        return detect(text)
-    except Exception:
-        return "unknown"
-
 logging.basicConfig(
     filename=os.path.join("src", "data_processing", "check_non_ascii.log"),
     level=logging.INFO,
@@ -35,7 +29,7 @@ def scan_txt_files(base_dir):
     non_ascii_files = []
     total_files = 0
     for root, _, files in tqdm(os.walk(base_dir)):
-        for file in tqdm(files, desc=f"Scanning {root}", leave=False):
+        for file in files:
             if file.endswith(".txt") and not file.endswith(".ascii.txt"):
                 total_files += 1
                 full_path = os.path.join(root, file)
@@ -43,7 +37,7 @@ def scan_txt_files(base_dir):
                     with open(full_path, 'r', encoding='utf-8') as f:
                         content = f.read()
                     if is_non_ascii(content):
-                        lang = detect_language(content)
+                        lang = detect(content)
                         preview = content[:100].replace("\n", " ").replace("\r", "")
                         logging.info(f"{full_path} — Detected language: {lang} — Preview: {preview}")
                         non_ascii_files.append(full_path)
