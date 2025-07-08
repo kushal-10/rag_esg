@@ -26,7 +26,7 @@ def split_text_with_overlap(text: str, chunk_size: int = 200, overlap: int = 20)
     step = chunk_size - overlap
     chunks: List[Document] = []
     for start in range(0, len(words), step):
-        chunk_words = words[start : start + chunk_size]
+        chunk_words = words[start: start + chunk_size]
         if not chunk_words:
             break
         chunk_text = " ".join(chunk_words)
@@ -40,12 +40,12 @@ class Retrieve():
     using a 200-word sliding window with 20-word overlap.
     """
 
-    def __init__(self, embeddings=OpenAIEmbeddings(), weaviate_client=None, targets_path: str = os.path.join("results", "targets.json")):
+    def __init__(self, embeddings=OpenAIEmbeddings(), weaviate_client=None,
+                 targets_path: str = os.path.join("results", "targets.json")):
         self.embeddings = embeddings
         self.weaviate_client = weaviate_client
         with open(targets_path, "r") as f:
             self.targets = json.load(f)
-
 
     def get_db(self, file_path: str) -> WeaviateVectorStore:
         """
@@ -65,7 +65,6 @@ class Retrieve():
             client=self.weaviate_client
         )
         return db
-    
 
     def retrieve_docs(self, db: WeaviateVectorStore = None, similarity_threshold: float = 0.75) -> Dict:
         """
@@ -91,24 +90,23 @@ class Retrieve():
                     if score >= similarity_threshold:
                         count += 1
                         doc_contents.append([score, doc.page_content])
-                
+
                 sub_docs[str(sub_target)] = count
-                sub_docs[str(sub_target)+"_docs"] = doc_contents
+                sub_docs[str(sub_target) + "_docs"] = doc_contents
                 sub_target += 1
 
             retrieved_docs.append(sub_docs)
 
-
         logger.info(f"Retrieved {len(retrieved_docs)} Documents")
         return retrieved_docs
-    
+
     def retrieve_docs_ai(self, db: WeaviateVectorStore = None, similarity_threshold: float = 0.75) -> Dict:
         """
         Return a dict containing extracted passages of each Sub-Target
         for a given annual report.
         """
         logger.info(f"Retrieving Docs with threshold: {similarity_threshold}")
-    
+
         keywords = ["Artificial Intelligence"]
         for k in keywords:
             retrieved_docs = []
@@ -118,7 +116,7 @@ class Retrieve():
                 if score >= similarity_threshold:
                     count += 1
                     retrieved_docs.append([score, doc.page_content])
-            
+
         return {str(count): retrieved_docs}
 
         # logger.info(f"Retrieved {len(retrieved_docs)} Documents")
