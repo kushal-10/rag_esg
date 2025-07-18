@@ -63,7 +63,7 @@ if __name__ == "__main__":
     key_embeds = embed_texts(model, keywords)
     # Find files
     json_files = []
-    for dirname, _, filenames in os.walk(os.path.join("data", "texts")):
+    for dirname, _, filenames in os.walk(os.path.join("data", "textsv2")):
         for filename in filenames:
             if filename.endswith("splits.json"):
                 json_files.append(os.path.join(dirname, filename))

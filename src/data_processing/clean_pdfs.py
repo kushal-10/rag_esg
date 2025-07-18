@@ -11,8 +11,8 @@ Classify each report into respective year.pdf based on regular patterns
 """
 
 base_years = list(range(2023,2013,-1)) # Usually reports are in 2014-2015 format, so we first try to match 2015
-base_years_trim = list(range(23, 13, -1))
-base_years += base_years_trim
+# base_years_trim = list(range(23, 13, -1))
+# base_years += base_years_trim
 patterns = []
 for year in base_years:
     patterns.append(str(year)+".pdf")
@@ -75,7 +75,12 @@ for firm in firms:
 # Fix remaining files manually
 # 1346 PDF files in total, 6 corrupted, fix manually
 """
-['data/reports/auto1 group se/full_auto1_group_annual_report_en.pdf', 'data/reports/grenke ag/01d4eab9-cf54-49b9-a2d0-1b4b2e5e6011.pdf', 'data/reports/grenke ag/ba6fac9d33a24c12b970ecafbd39fc5c.pdf', 'data/reports/nagarro se/nagarro_se_ar_en.pdf', 'data/reports/delivery hero/final_secured_en.pdf', 'data/reports/redcare pharmacy/ar-shop-apotheke-europe.pdf']
+['data/reports/auto1 group se/full_auto1_group_annual_report_en.pdf', 
+'data/reports/grenke ag/01d4eab9-cf54-49b9-a2d0-1b4b2e5e6011.pdf',
+ 'data/reports/grenke ag/ba6fac9d33a24c12b970ecafbd39fc5c.pdf', 
+ 'data/reports/nagarro se/nagarro_se_ar_en.pdf', 
+ 'data/reports/delivery hero/final_secured_en.pdf', 
+ 'data/reports/redcare pharmacy/ar-shop-apotheke-europe.pdf']
 """
 assert len(pattern_files) + len(remaining_files) == total_files
 print(total_files, len(remaining_files), len(pattern_files))

@@ -42,8 +42,8 @@ def write_txt(content: str = "temp", file: str = "temp.txt"):
 
 if __name__ == '__main__':
 
-    txt_dir = os.path.join("data", "texts")
-    dir = os.path.join("data", "cleaned_reports")
+    txt_dir = os.path.join("data", "textsv2")
+    dir = os.path.join("data", "v2reports")
 
     companies = os.listdir(os.path.join(dir))
     for company in tqdm(companies):

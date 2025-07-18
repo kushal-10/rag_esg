@@ -4,10 +4,10 @@ import json
 import os
 from tqdm import tqdm
 
-THRESHOLD = 0.4
+THRESHOLD = 0.5
 
 # Find all sentence_scores.csv files
-csv_paths = glob.glob("data/texts/*/*/sentence_scores.csv")
+csv_paths = glob.glob("data/textsv2/*/*/sentence_scores.csv")
 
 for csv_path in tqdm(csv_paths):
     dir_path = os.path.dirname(csv_path)

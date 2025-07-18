@@ -77,7 +77,7 @@ if __name__ == "__main__":
     )
 
     jsons = []
-    for dirname, _, filenames in os.walk("data/texts"):
+    for dirname, _, filenames in os.walk("data/textsv2"):
         for filename in filenames:
             if filename.endswith("embedding_filter.json"):
                 jsons.append(os.path.join(dirname, filename))

@@ -78,7 +78,7 @@ def split_texts(base_dir: str):
 
 
 if __name__ == "__main__":
-    BASE_DIR = "data"
+    BASE_DIR = "data/textsv2"
     split_texts(BASE_DIR)
 
 
