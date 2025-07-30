@@ -2,7 +2,7 @@ import duckdb
 import glob
 
 # Find one CSV to extract columns
-sample_file = glob.glob("data/texts/*/*/sentence_scores.csv")[0]
+sample_file = glob.glob("data/textsv2/*/*/sentence_scores.csv")[0]
 con = duckdb.connect()
 
 con.execute(f"CREATE VIEW temp_csv AS SELECT * FROM read_csv_auto('{sample_file}')")
