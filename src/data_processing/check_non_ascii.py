@@ -14,9 +14,9 @@ logging.basicConfig(
     filemode='a'
 )
 
-def is_non_ascii(text, threshold=0.05):
+def is_non_ascii(text, threshold=0.5):
     """
-    Return True if > %threshold of content in PDF is non_ascii/non-ascii
+    Return True if > %threshold of content in PDF is non-ascii
     """
     non_ascii = sum(1 for c in text if ord(c) > 127)
     return non_ascii / max(len(text), 1) > threshold

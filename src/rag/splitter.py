@@ -63,13 +63,13 @@ def split_texts(base_dir: str):
     txt_files = []
     for dirname, _, filenames in os.walk(base_dir):
         for filename in filenames:
-            if filename.endswith('results.txt'):
+            if filename.endswith('results.de.de.txt'):
                 file_path = os.path.join(dirname, filename)
                 txt_files.append(file_path)
 
 
     for file_path in tqdm(txt_files):
-        save_path = file_path.replace('results.txt', 'splits.json')
+        save_path = file_path.replace('results.de.de.txt', 'splits_de.json')
         sentences = sentence_splitter(file_path)
         save_splits_df(sentences, save_path)
 
@@ -78,7 +78,7 @@ def split_texts(base_dir: str):
 
 
 if __name__ == "__main__":
-    BASE_DIR = "data/textsv2"
+    BASE_DIR = "data/textsv3"
     split_texts(BASE_DIR)
 
 
