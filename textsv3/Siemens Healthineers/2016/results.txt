@@ -1,0 +1,7277 @@
+
+ 
+Combined Financial Statements 
+for the fiscal years ended  
+September 30, 2017, 2016 and 2015 
+ 
+in accordance with 
+International Financial Reporting Standards 
+(IFRS, as adopted by the EU) 
+ 
+ 
+Siemens Healthineers 
+ 
+ 
+ 
+ 
+
+ 
+F | 2 
+ 
+I. COMBINED STATEMENTS OF INCOME................................................................................................................. 3 
+II. COMBINED STATEMENTS OF COMPREHENSIVE INCOME .............................................................................. 4 
+III. COMBINED STATEMENTS OF FINANCIAL POSITION ...................................................................................... 5 
+IV. COMBINED STATEMENTS OF CASH FLOWS ..................................................................................................... 6 
+V. COMBINED STATEMENTS OF CHANGES IN EQUITY ......................................................................................... 7 
+ 
+NOTE 1 Basis of preparation ......................................................................................................................................... 8 
+NOTE 2 Significant accounting policies and critical accounting estimates.................................................................... 12 
+NOTE 3 Income taxes ................................................................................................................................................... 17 
+NOTE 4 Trade and other receivables ............................................................................................................................ 19 
+NOTE 5 Other current financial assets.......................................................................................................................... 20 
+NOTE 6 Other current assets ....................................................................................................................................... 21 
+NOTE 7 Inventories ...................................................................................................................................................... 21 
+NOTE 8 Goodwill ......................................................................................................................................................... 22 
+NOTE 9 Other intangible assets and property, plant and equipment ............................................................................ 23 
+NOTE 10 Other financial assets.................................................................................................................................... 25 
+NOTE 11 Other assets .................................................................................................................................................. 26 
+NOTE 12 Other current liabilities ................................................................................................................................ 27 
+NOTE 13 Other liabilities ............................................................................................................................................. 28 
+NOTE 14 Debt .............................................................................................................................................................. 28 
+NOTE 15 Provisions for pensions and similar obligations .............................................................................................. 29 
+NOTE 16 Provisions ..................................................................................................................................................... 35 
+NOTE 17 Equity ........................................................................................................................................................... 36 
+NOTE 18 Commitments and other financial obligations ................................................................................................ 37 
+NOTE 19 Financial instruments and hedging activities.................................................................................................. 38 
+NOTE 20 Financial risk management ........................................................................................................................... 40 
+NOTE 21 Share-based payments ................................................................................................................................... 44 
+NOTE 22 Personnel costs .............................................................................................................................................. 46 
+NOTE 23 Segment information ..................................................................................................................................... 47 
+NOTE 24 Information about geographies ...................................................................................................................... 50 
+NOTE 25 Related party transactions ............................................................................................................................. 51 
+NOTE 26 Effects from the adoption of IFRS 15 ............................................................................................................ 54 
+NOTE 27 Subsequent events ......................................................................................................................................... 56 
+NOTE 28 Scope of combination .................................................................................................................................... 57 
+ 
+ 
+ 
+
+ 
+F | 3 
+I. COMBINED STATEMENTS OF INCOME  
+COMBINED STATEMENTS OF INCOME 
+  
+  
+  
+  
+FOR THE FISCAL YEARS ENDED SEPTEMBER, 30, 2017, 2016 AND 2015 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(in millions of €) 
+Note 
+2017 
+2016 
+2015 
+  
+  
+  
+  
+  
+Revenue 
+  
+13,796 
+13,547 
+12,936 
+Cost of sales 
+  
+(8,034) 
+(8,080) 
+(7,867) 
+Gross profit 
+  
+5,762 
+5,467 
+5,069 
+Research and development expenses 
+  
+(1,253) 
+(1,145) 
+(1,055) 
+Selling and general administrative expenses 
+  
+(2,222) 
+(2,206) 
+(2,109) 
+Other operating income 
+  
+22 
+19 
+79 
+Other operating expenses 
+  
+(19) 
+(18) 
+(21) 
+Income from investments accounted for using the equity method, net 
+  
+9 
+6 
+9 
+Interest income 
+  
+12 
+14 
+19 
+Interest expenses 
+  
+(267) 
+(216) 
+(117) 
+Other financial income (expenses), net 
+  
+- 
+(3) 
+2 
+Income before income taxes 
+  
+2,044 
+1,918 
+1,876 
+Income tax expenses 
+3 
+(600) 
+(590) 
+(584) 
+Net income 
+  
+1,444 
+1,328 
+1,292 
+  
+  
+  
+  
+  
+Attributable to: 
+  
+  
+  
+  
+Non-controlling interests 
+  
+17 
+17 
+15 
+Siemens Group 
+  
+1,427 
+1,311 
+1,277 
+ 
+ 
+ 
+
+ 
+F | 4 
+II. COMBINED STATEMENTS OF COMPREHENSIVE INCOME 
+COMBINED STATEMENTS OF COMPREHENSIVE INCOME  
+  
+  
+  
+  
+FOR THE FISCAL YEARS ENDED SEPTEMBER 30, 2017, 2016 AND 2015 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(in millions of €) 
+Note 
+2017 
+2016 
+2015 
+  
+  
+  
+  
+  
+Net Income 
+  
+1,444 
+1,328 
+1,292 
+  
+  
+  
+  
+  
+Remeasurements of defined benefit plans 
+  
+277 
+(306) 
+(29) 
+Remeasurement - before income taxes 
+15 
+396 
+(426) 
+(59) 
+Income tax effects 
+  
+(119) 
+120 
+29 
+Items that will not be reclassified to profit or loss 
+  
+277 
+(306) 
+(29) 
+  
+  
+  
+  
+  
+Currency translation differences 
+  
+9 
+(59) 
+(402) 
+Available-for-sale financial assets 
+  
+- 
+(1) 
+1 
+therein: Income tax effects 
+  
+- 
+- 
+- 
+Derivative financial instruments 
+  
+(2) 
+(6) 
+28 
+therein: Income tax effects 
+  
+- 
+5 
+(14) 
+Items that may be reclassified subsequently to profit or loss 
+  
+7 
+(66) 
+(373) 
+  
+  
+  
+  
+  
+Other comprehensive income, net of income taxes 
+  
+284 
+(372) 
+(402) 
+  
+  
+  
+  
+  
+Total comprehensive income 
+  
+1,728 
+956 
+890 
+  
+  
+  
+  
+  
+Attributable to: 
+  
+  
+  
+  
+Non-controlling interests 
+  
+18 
+22 
+16 
+Siemens Group 
+  
+1,710 
+934 
+874 
+ 
+ 
+ 
+
+ 
+F | 5 
+III. COMBINED STATEMENTS OF FINANCIAL POSITION  
+COMBINED STATEMENTS OF FINANCIAL POSITION AS OF SEPTEMBER 30, 2017, 2016 AND 2015  
+ 
+(in millions of €) 
+Note 
+2017 
+2016 
+2015 
+ 
+ 
+ 
+ 
+ 
+Assets 
+ 
+ 
+ 
+ 
+Cash and cash equivalents 
+ 
+184 
+206 
+73 
+Trade and other receivables 
+4 
+2,200 
+2,080 
+1,875 
+Other current financial assets 
+5 
+57 
+70 
+78 
+Receivables from Siemens Group 
+25 
+2,991 
+3,952 
+4,056 
+Inventories 
+7 
+1,323 
+1,308 
+1,259 
+Current income tax assets 
+3 
+79 
+70 
+29 
+Other current assets 
+6 
+276 
+236 
+183 
+Total current assets 
+ 
+7,110 
+7,922 
+7,553 
+  
+ 
+ 
+ 
+ 
+Goodwill 
+8 
+7,992 
+8,301 
+8,273 
+Other intangible assets 
+9 
+1,525 
+1,585 
+1,599 
+Property, plant and equipment 
+9 
+1,566 
+1,524 
+1,305 
+Investments accounted for using the equity method  
+ 
+33 
+35 
+37 
+Other financial assets 
+10 
+162 
+151 
+147 
+Other receivables from Siemens Group 
+25 
+1,365 
+- 
+- 
+Deferred tax assets 
+ 
+419 
+524 
+299 
+Other assets 
+11 
+268 
+253 
+244 
+Total non-current assets 
+ 
+13,330 
+12,373 
+11,904 
+Total assets 
+ 
+20,440 
+20,295 
+19,457 
+  
+ 
+ 
+ 
+ 
+Liabilities and equity 
+ 
+ 
+ 
+ 
+Short-term debt and current maturities of long-term debt 
+14 
+55 
+45 
+8 
+Trade payables 
+ 
+1,120 
+996 
+942 
+Other current financial liabilities 
+ 
+72 
+105 
+94 
+Payables to Siemens Group 
+25 
+5,795 
+5,982 
+10,480 
+Current provisions 
+16 
+314 
+318 
+294 
+Current income tax liabilities 
+3 
+122 
+113 
+137 
+Other current liabilities 
+12 
+1,797 
+1,745 
+1,690 
+Total current liabilities 
+ 
+9,275 
+9,304 
+13,645 
+  
+ 
+ 
+ 
+ 
+Long-term debt 
+14 
+15 
+14 
+14 
+Provisions for pensions and similar obligations 
+15 
+1,732 
+2,132 
+1,245 
+Deferred tax liabilities 
+ 
+243 
+197 
+159 
+Provisions 
+16 
+153 
+148 
+145 
+Other financial liabilities 
+ 
+23 
+17 
+13 
+Other liabilities 
+13 
+590 
+591 
+495 
+Other liabilities to Siemens Group 
+25 
+5,167 
+5,485 
+13 
+Total non-current liabilities 
+ 
+7,923 
+8,584 
+2,084 
+Total liabilities 
+ 
+17,198 
+17,888 
+15,729 
+  
+ 
+ 
+ 
+ 
+Net assets attributable to Siemens Group 
+ 
+3,995 
+3,141 
+4,385 
+Other components of equity 
+ 
+(761) 
+(767) 
+(696) 
+Total equity attributable to Siemens Group 
+ 
+3,234 
+2,374 
+3,689 
+Non-controlling interests 
+ 
+8 
+33 
+39 
+Total equity 
+17 
+3,242 
+2,407 
+3,728 
+Total liabilities and equity 
+ 
+20,440 
+20,295 
+19,457 
+ 
+ 
+
+ 
+F | 6 
+IV. COMBINED STATEMENTS OF CASH FLOWS  
+COMBINED STATEMENTS OF CASH FLOWS 
+  
+  
+  
+FOR THE FISCAL YEARS ENDED SEPTEMBER 30, 2017, 2016 AND 2015 
+  
+  
+  
+  
+  
+  
+  
+(in millions of €) 
+2017 
+2016 
+2015 
+  
+  
+  
+  
+CASH FLOWS FROM OPERATING ACTIVITIES 
+  
+  
+  
+Net income 
+1,444 
+1,328 
+1,292 
+Adjustments to reconcile net income to cash flows from operating activities 
+  
+  
+  
+Amortization, depreciation and impairments 
+572 
+591 
+563 
+Income tax expenses 
+600 
+590 
+584 
+Interest expenses, net 
+255 
+202 
+99 
+Income related to investing activities 
+(12) 
+- 
+(69) 
+Other income from investments 
+(9) 
+(6) 
+(7) 
+Other non-cash (income) expenses 
+45 
+(2) 
+32 
+Change in current assets and liabilities 
+(123) 
+(49) 
+122 
+Change in other assets and liabilities 
+(34) 
+75 
+(40) 
+Additions to assets leased to others in operating leases 
+(220) 
+(216) 
+(190) 
+Income taxes paid 
+(192) 
+(264) 
+(143) 
+Income taxes paid by Siemens Group on behalf of Siemens Healthineers 
+(375) 
+(422) 
+(362) 
+Dividends received 
+9 
+7 
+6 
+Interest received 
+15 
+15 
+14 
+CASH FLOWS PROVIDED BY OPERATING ACTIVITIES 
+1,975 
+1,849 
+1,901 
+  
+  
+  
+  
+CASH FLOWS FROM INVESTING ACTIVITIES 
+  
+  
+  
+Additions to intangible assets and property, plant and equipment 
+(466) 
+(424) 
+(356) 
+Purchase of investments 
+- 
+(4) 
+(2) 
+Acquisitions of businesses, net of cash acquired 
+(6) 
+(15) 
+- 
+Disposal of investments, intangibles and property, plant and equipment 
+19 
+7 
+6 
+Disposal of businesses, net of cash disposed 
+- 
+- 
+363 
+CASH FLOWS PROVIDED BY / (USED IN) INVESTING ACTIVITIES 
+(453) 
+(436) 
+11 
+  
+  
+  
+  
+CASH FLOWS FROM FINANCING ACTIVITIES 
+  
+  
+  
+Change in short-term debt and other financing activities 
+6 
+22 
+(8) 
+Interest paid 
+(5) 
+(2) 
+(4) 
+Profit and loss transfers with Siemens Group 
+(815) 
+(909) 
+(806) 
+Dividends paid to Siemens Group 
+(352) 
+(377) 
+(148) 
+Dividends paid to non-controlling interest holders 
+(3) 
+(3) 
+(3) 
+Interest paid to Siemens Group 
+(245) 
+(177) 
+(82) 
+Other transactions/financing with Siemens Group 
+(118) 
+167 
+(802) 
+CASH FLOWS PROVIDED BY / (USED IN) FINANCING ACTIVITIES 
+(1,532) 
+(1,279) 
+(1,853) 
+  
+  
+  
+  
+EFFECT OF FOREIGN EXCHANGE RATES ON CASH AND CASH EQUIVALENTS 
+(12) 
+(1) 
+(5) 
+  
+  
+  
+  
+CHANGE IN CASH AND CASH EQUIVALENTS 
+(22) 
+133 
+54 
+  
+  
+  
+  
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 
+206 
+73 
+19 
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 
+184 
+206 
+73 
+ 
+ 
+ 
+
+ 
+F | 7 
+V. COMBINED STATEMENTS OF CHANGES IN EQUITY  
+COMBINED STATEMENTS OF CHANGES IN EQUITY   
+  
+  
+  
+  
+FOR THE FISCAL YEARS ENDED SEPTEMBER 30, 2017, 2016 AND 2015  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(in millions of €) 
+Net assets 
+attributable 
+to Siemens 
+Group 
+Currency 
+translation 
+differences 
+Siemens 
+Available- 
+for-sale 
+financial 
+assets 
+Derivative 
+financial 
+instruments 
+Total 
+equity 
+attributable 
+to Siemens 
+Group 
+Non-
+controlling 
+interests 
+Total 
+equity 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of October 1, 2014 
+5,629 
+(300) 
+- 
+(22) 
+5,307 
+47 
+5,354 
+  
+  
+  
+  
+  
+  
+  
+  
+Net income 
+1,277 
+- 
+- 
+- 
+1,277 
+15 
+1,292 
+Other comprehensive income 
+(29) 
+(403) 
+1 
+28 
+(403) 
+1 
+(402) 
+Total comprehensive income 
+1,248 
+(403) 
+1 
+28 
+874 
+16 
+890 
+Profit and loss transfer with Siemens Group 
+(806) 
+- 
+- 
+- 
+(806) 
+- 
+(806) 
+Dividends 
+(148) 
+- 
+- 
+- 
+(148) 
+(3) 
+(151) 
+Transfer of pension liabilities, net of tax 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Other changes in equity 
+(1,538) 
+- 
+- 
+- 
+(1,538) 
+(21) (1,559) 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of September 30, 2015 
+4,385 
+(703) 
+1 
+6 
+3,689 
+39 
+3,728 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of October 1, 2015 
+4,385 
+(703) 
+1 
+6 
+3,689 
+39 
+3,728 
+  
+  
+  
+  
+  
+  
+  
+  
+Net income 
+1,311 
+- 
+- 
+- 
+1,311 
+17 
+1,328 
+Other comprehensive income 
+(306) 
+(64) 
+(1) 
+(6) 
+(377) 
+5 
+(372) 
+Total comprehensive income 
+1,005 
+(64) 
+(1) 
+(6) 
+934 
+22 
+956 
+Profit and loss transfer with Siemens Group 
+(909) 
+- 
+- 
+- 
+(909) 
+- 
+(909) 
+Dividends 
+(377) 
+- 
+- 
+- 
+(377) 
+(3) 
+(380) 
+Transfer of pension liabilities, net of tax 
+(319) 
+- 
+- 
+- 
+(319) 
+- 
+(319) 
+Other changes in equity 
+(644) 
+- 
+- 
+- 
+(644) 
+(25) 
+(669) 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of September 30, 2016 
+3,141 
+(767) 
+- 
+- 
+2,374 
+33 
+2,407 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of October 1, 2016 
+3,141 
+(767) 
+- 
+- 
+2,374 
+33 
+2,407 
+  
+  
+  
+  
+  
+  
+  
+  
+Net income 
+1,427 
+- 
+- 
+- 
+1,427 
+17 
+1,444 
+Other comprehensive income 
+277 
+8 
+- 
+(2) 
+283 
+1 
+284 
+Total comprehensive income 
+1,704 
+8 
+- 
+(2) 
+1,710 
+18 
+1,728 
+Profit and loss transfer with Siemens Group 
+(815) 
+- 
+- 
+- 
+(815) 
+- 
+(815) 
+Dividends 
+(352) 
+- 
+- 
+- 
+(352) 
+(3) 
+(355) 
+Transfer of pension liabilities, net of tax 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Other changes in equity 
+317 
+- 
+- 
+- 
+317 
+(40) 
+277 
+  
+  
+  
+  
+  
+  
+  
+  
+Balance as of September 30, 2017 
+3,995 
+(759) 
+- 
+(2) 
+3,234 
+8 
+3,242 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 8 
+NOTE 1 Basis of preparation 
+Purpose and content of the Combined Financial Statements  
+On August 3, 2017, Siemens AG announced its plans to publicly list the Siemens Healthineers business in the form of an initial 
+public offering (“IPO”). The parent company of Siemens Healthineers and thus the issuer of shares for the planned initial public 
+offering will be Siemens Healthineers AG, located in Munich, Germany, a company which was established prior to the issuance of 
+the Combined Financial Statements, but had not been established by September 30, 2017. 
+Siemens Healthineers is to be separated from Siemens AG and its subsidiaries (“Siemens Group”) in two steps. In an initial 
+preparatory step, activities that had not been conducted by separate companies have been transferred to separate legal entities. In a 
+second step, all companies comprising the Siemens Healthineers business have been or will be bundled under Siemens Healthineers 
+AG, and its direct and indirect subsidiaries. 
+According to the European Prospectus Regulation No. 809/2004, as amended (“EPV”), an issuer must present historical financial 
+information covering the latest three fiscal years in its securities prospectus. Therefore, Siemens Healthineers presents historical 
+financial information for the fiscal years from October 1, 2016 to September 30, 2017 (“fiscal 2017”), from October 1, 2015 to 
+September 30, 2016 (“fiscal 2016”) and from October 1, 2014 to September 30, 2015 (“fiscal 2015”). According to the European 
+Prospectus Regulation No. 211/2007 Siemens Healthineers AG, as the issuer, has a “Complex Financial History” as of the share 
+issuance date. The historical financial information represents the Siemens Healthineers business (hereafter referred to as “Siemens 
+Healthineers”) under the control of Siemens AG and managed centrally by the Managing Board of Siemens Healthineers. 
+The Combined Financial Statements consist of Combined Statements of Income, Combined Statements of Comprehensive Income, 
+Combined Statements of Financial Position, Combined Statements of Cash Flows, Combined Statements of Changes in Equity and 
+Notes to the Combined Financial Statements for the fiscal years ended September 30, 2017, 2016 and 2015 (collectively referred to 
+hereafter as “Combined Financial Statements”). 
+The Combined Financial Statements have been prepared and published in millions of euro (€ million). Rounding differences may 
+occur in respect of individual amounts or percentages. 
+The Combined Financial Statements were prepared on January 8, 2018 by the Managing Board of Siemens Healthineers.  
+Definition of Siemens Healthineers  
+Siemens Healthineers is one of the world´s largest suppliers of technology to the healthcare industry and a leader in diagnostic 
+imaging and laboratory diagnostics. It provides medical technology and software solutions as well as clinical consulting services, 
+supported by a complete set of training and service offerings. This comprehensive portfolio supports customers along the continuum 
+of care – from prevention and early detection to diagnosis, treatment and follow-up care.  
+Siemens Healthineers’ operations include: 
+ Imaging, which offers diagnostic imaging products and a broad portfolio of advanced imaging and ultrasound systems and solutions; 
+ Diagnostics offers products, services and solutions, including a broad array of  testing applications, in the areas of laboratory, point of 
+care and molecular diagnostics; 
+ Advanced Therapies is a supplier of advanced therapy products, services and solutions to the therapy departments of healthcare 
+providers. 
+ 
+Combined Financial Statements 
+Siemens Healthineers has prepared these Combined Financial Statements in accordance with International Financial Reporting 
+Standards (“IFRS”) as adopted by the European Union (“EU”). 
+Since IFRS provides no guidelines for the preparation of Combined Financial Statements, rules given in IAS 8.12 have been used. 
+IAS 8.12 requires the consideration of the most recent pronouncements of other standard-setting bodies, other financial requirements 
+and recognized industry practices.  
+Following IAS 8.12, the predecessor accounting approach has been applied in the Combined Financial Statements of Siemens 
+Healthineers. The Combined Financial Statements of Siemens Healthineers reflect the Siemens Healthineers entities and the 
+operations assigned to Siemens Healthineers as historically included in the IFRS Consolidated Financial Statement of Siemens AG. 
+Siemens Healthineers applies the same accounting policies and measurement principles in preparing the Combined Financial 
+Statements as used by the Siemens Healthineers entities and operations in preparing their financial information for inclusion in the 
+IFRS Consolidated Financial Statements of Siemens AG.  
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 9 
+The Combined Financial Statements for Siemens Healthineers are derived from the segment reporting for Healthineers as presented 
+in the Consolidated Financial Statements of Siemens AG. This segment reporting included certain cost allocations for centrally 
+managed functions prior to the legal separation which afterwards are regulated by service level agreements. In addition, in order to 
+reflect the assets, liabilities, income and expenses that fall within the scope of Siemens Healthineers, the following combination rules 
+have been applied. The Management of Siemens Healthineers (as defined in Note 25 – Related party transactions) uses significant 
+judgment in determining these combination rules. Thus, the Combined Financial Statements presented here do not necessarily reflect 
+the financial position and results of operations that would have occurred if Siemens Healthineers had existed as a separate group in 
+the periods presented. 
+Scope of combination 
+The scope of combination for the Combined Financial Statements of Siemens Healthineers for the fiscal years ended September 30, 
+2017, September 30, 2016 and September 30, 2015 was determined on economic principles using the common management 
+approach, i.e. the assets and liabilities which have been managed by the Managing Board of Siemens Healthineers throughout the 
+periods presented were included in the scope of combination. Accordingly, the approach is not based on the legal structure of 
+Siemens Healthineers in the periods presented. However, it is reflective of the target legal structure which will be in place prior to the 
+IPO. Consequently, business operations classified as discontinued operations in the Consolidated Financial Statements of Siemens 
+AG during the periods presented and related to the Siemens Healthineers business have been excluded from the scope of combination 
+for all periods presented. This refers to the assets, liabilities and contingent liabilities as well as the proceeds from the sale of the 
+customer health service business unit to the US-based company Cerner Corp in 2014 and from the sale of the hearing aids business to 
+the investment company EQT in 2015.  
+For a list of legal entities fully included in the Combined Financial Statements as well as legal entities from which assets and 
+liabilities already under the responsibility of the Managing Board of Siemens Healthineers have been included in the Combined 
+Financial Statements prior to their actual legal transfer, please refer to Note 27 – Scope of combination. 
+During the period presented in the Combined Financial Statements, the following acquisitions and disposals occurred: 
+Acquisitions  
+Siemens Healthineers acquired the following businesses which were not material, either individually or in aggregate, and included 
+them in the Combined Financial Statements: 
+ 
+In March 2016, all shares of Neo New Oncology AG (“NEO”) were acquired. NEO provides a platform based on hybrid 
+capture-based next generation sequencing (NGS) technology, which facilitates analysis of tumor and therapy-relevant gene 
+segments in an efficient and time-saving multiplex procedure. 
+ 
+In October 2016, all shares of Conworx Technology GmbH (“Conworx”) were acquired. Conworx offers a complete point-
+of-care device network along with all associated data management.  
+ 
+In June 2017, Medicalis Corporation (“Medicalis”), a health care information technology company that provides clinical 
+workflow and decision support solution, was acquired. 
+Disposals  
+In January 2015, Siemens Healthineers sold its microbiology business to Beckman Coulter Inc., a wholly owned subsidiary of 
+Danaher Corporation. The activities of the microbiology business include systems for the identification and antibiotic susceptibility 
+testing of microorganisms. The sale resulted in a gain of €64 million which was recognized in the line item Other operating income. 
+The microbiology assets and liabilities were previously classified as held-for-sale.  
+Pensions and similar obligations  
+The Combined Financial Statements of Siemens Healthineers present the pension obligations and corresponding plan assets allocated 
+to Siemens Healthineers. The obligations were measured on the basis of expert actuarial valuations.  
+The pension obligations for active employees as well as for retirees were legally transferred mainly in line with the individual carve-
+outs from the Siemens Group to the newly founded Siemens Healthineers entities. Therefore, the majority of pension liabilities had 
+legally been transferred either during fiscal 2015 or at the beginning of fiscal 2016. To ensure comparability throughout all periods 
+presented in the Combined Financial Statements, pension obligations have retrospectively been allocated to Siemens Healthineers for 
+the period prior to the legal carve-outs. This allocation has been performed based on an allocation key derived from the first actuarial 
+reports after the carve-out. Pension obligations for retirees in Germany which were transferred to Siemens Healthineers in fiscal 2016 
+are included in the Combined Financial Statements from the legal transfer date onwards. 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 10 
+Plan assets have been allocated by taking into consideration specific legal requirements for the major relevant countries. Where the 
+respective employee has a right to claim a minimal funding or the plan assets were already allocated to individual employee 
+accounts, plan assets have been retrospectively allocated to Siemens Healthineers for the period prior to the legal transfer of the 
+assets. Due to the fact that the legal transfer of these plan assets has not yet been completed, the actual amounts of the plan assets to 
+be transferred may differ from the plan assets presented in the Combined Financial Statements. 
+For further details please also refer to Note 15 – Provisions for pensions and similar obligations.  
+Income Taxes and Deferred Taxes  
+In accordance with IAS 12, “Income Taxes”, current and deferred income taxes are recognized for the purposes of the Combined 
+Financial Statements taking into consideration local tax requirements. Income taxes are determined using the separate tax return 
+approach under the assumption that the entities and operations of Siemens Healthineers constitute separate taxable entities.  
+This assumption implies that current and deferred taxes for all companies and operations and tax groups within Siemens Healthineers 
+are calculated separately. The recoverability of deferred tax assets is assessed on this basis. In the Combined Financial Statements 
+deferred tax assets from tax loss carryforwards were recognized to extent it is probable that they can be offset with future taxable 
+income from the respective Siemens Healthineers’ entities.  
+Tax receivables and liabilities as well as deferred tax assets on loss carryforwards of Siemens Healthineers entities and operations 
+that did not constitute a separate tax payer in previous years were treated as contributions or transfers from reserves by shareholders, 
+and are not included in the Combined Financial Statements of Siemens Healthineers.  
+The Management of Siemens Healthineers deems the approach as appropriate though not necessarily indicative of the tax expenses or 
+income that would result for Siemens Healthineers as a separate group.  
+For further details please also refer to Note 3 – Income taxes.  
+Real Estate Assets 
+Assets that have been leased from Siemens Real Estate and transferred to Siemens Healthineers in line with the legal reorganization 
+have been included in the Combined Financial Statement from the occurrence of their legal transfer. 
+Capital Structure  
+The equity of Siemens Healthineers consists of the net assets attributable to Siemens Healthineers. The Combined Financial 
+Statements do not show any subscribed capital, because Siemens Healthineers does not constitute a legal group during the periods 
+presented. 
+The equity of Siemens Healthineers as presented in the Combined Financial Statements has been impacted mainly by the following 
+combination rules: 
+a) 
+any allocation of assets and liabilities to Siemens Healthineers in addition to those already included in the segment 
+reporting for Healthineers as presented in the Consolidated Financial Statements of Siemens AG and prior to their actual 
+legal transfer, was directly recognized in equity as withdrawal or contribution at the time of the allocation;   
+b) 
+any consideration given or received in the course of the formation of a group of entities either directly or indirectly 
+controlled by Siemens Healthineers AG, was directly recognized in equity as withdrawal or contribution at the time of the 
+transfer;  
+c) 
+any taxes paid from Siemens Group and related to Siemens Healthineers operations prior to the carve-out, were directly 
+recognized in equity; 
+d) 
+any changes in the conversion of receivables and payables to cash related to Siemens Healthineers operations prior to the 
+carve-out, were directly recognized in equity;  
+c) and d) are necessary because in the Consolidated Financial Statements of Siemens AG cash balances are not allocated to the 
+Siemens Group operating segments, but managed centrally. Additionally, in Siemens Group legal entities tax payments are not 
+assigned to operating segments. Therefore, taxes paid from Siemens Group and related to Siemens Healthineers operations as well as 
+conversions of receivables and payables to cash related to Siemens Healthineers operations prior to the carve-out of Siemens 
+Healthineers operations are presented in equity as deemed contributions or withdrawals. 
+As the formation of Siemens Healthineers Group has not been finalized as of September 30, 2017, further changes in the capital 
+structure may occur. 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 11 
+Related Party Transactions 
+Transactions between Siemens Healthineers and the remaining Siemens Group are recognized in accordance with IFRS and classified 
+as related party transactions. 
+For further details please also refer to Note 25 – Related party transactions.  
+Combined Statements of Cash Flows  
+According to IAS 7, Cash Flow Statements, the Combined Statements of Cash Flows of Siemens Healthineers contain operating, 
+investing and financing activities. Cash transactions resulting from the central cash management operated by the Siemens Group 
+throughout the period presented as well as cash transactions with other Siemens Group entities in conjunction with the formation of 
+the group of entities either directly or indirectly controlled by Siemens Healthineers AG, have been included in the line item Other 
+transactions/ financing with Siemens Group in the Cash Flows from Financing Activities of the Combined Statements of Cash Flows. 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 12 
+NOTE 2 Significant accounting policies and critical accounting estimates 
+The accounting principles set out below have, unless stated otherwise, been applied consistently for all periods presented in these 
+Combined Financial Statements.  
+Key accounting estimates and judgments – Certain of these accounting policies require critical accounting estimates that involve 
+complex and subjective judgments and the use of assumptions, some of which may be for matters that are inherently uncertain and 
+susceptible to change. Such critical accounting estimates could change from period to period and have a material impact on the 
+results of operations, financial positions and cash flows of Siemens Healthineers. Critical accounting estimates could also involve 
+estimates where Siemens Healthineers reasonably could have used a different estimate in the current accounting period. Siemens 
+Healthineers cautions that future events often vary from forecasts and that estimates routinely require adjustment. Estimates and 
+assumptions are reviewed on an on-going basis, and changes in estimates and assumptions are recognized in the period in which the 
+changes occur and in future periods impacted by the changes. 
+The estimates in accordance with the basis of preparation made in these Combined Financial Statements are consistent with estimates 
+made for the same date in accordance with the reporting requirements under IFRS as part of the consolidation group of Siemens AG, 
+unless there is objective evidence that those estimates are not in accordance with IFRS on a stand-alone basis. The areas involving a 
+high degree of judgment and where estimates and assumptions are significant to the Combined Financial Statements are disclosed. 
+Business combinations – Cost of an acquisition is measured at the fair value of the assets given and liabilities incurred or assumed 
+at the date of exchange. Identifiable assets acquired and liabilities assumed in a business combination (including contingent 
+liabilities) are measured initially at their fair values at the acquisition date, irrespective of the extent of any non-controlling interest.  
+Foreign currency translation – Assets and liabilities of foreign subsidiaries, where the functional currency is other than the euro, 
+are translated using the spot exchange rate at the end of the reporting period, while the Combined Statements of Income are 
+translated using average exchange rates of the respective periods. Differences arising from such translations are recognized within 
+equity and reclassified to net income when the gain or loss on disposal of the foreign operation is recognized. The Combined 
+Statements of Cash Flows are translated at average exchange rates of the respective periods, whereas cash and cash equivalents are 
+translated at the spot exchange rate at the end of the reporting period.  
+Foreign currency transaction – Transactions that are denominated in a currency other than the functional currency of an entity, are 
+recorded at that functional currency applying the spot exchange rate at the date when the underlying transactions are initially 
+recognized. At the end of the reporting period, foreign currency-denominated monetary assets and liabilities are revalued to 
+functional currency applying the spot exchange rate prevailing at that date. Gains and losses arising from these foreign currency 
+revaluations are recognized in net income. Those foreign currency-denominated transactions which are classified as non-monetary 
+are remeasured using the historical spot exchange rate. 
+Revenue recognition – Under the condition that persuasive evidence of an arrangement exists, revenue is recognized to the extent 
+that it is probable that the economic benefits will flow to Siemens Healthineers and the revenue can be reliably measured, regardless 
+of when the payment is being made. In cases where the inflow of economic benefits is not probable due to customer related credit 
+risks, the revenue recognized is subject to the amount of payments irrevocably received. 
+Sale of goods: Revenue is recognized when the significant risks and rewards of ownership of the goods have passed to the buyer, 
+usually on delivery of the goods.  
+Rendering of services: Revenue from services arises mainly from long-term service contracts recognized on a straight-line basis over 
+the term of the contract. 
+Sales from multiple element arrangements: Sales of goods and services as well as software arrangements often involve the provision 
+of multiple elements. In these cases Siemens Healthineers determines whether the contract or arrangement contains more than one 
+unit of accounting. If certain criteria are met, foremost if the delivered element(s) has (have) value to the customer on a stand-alone 
+basis, the arrangement is separated and the appropriate revenue recognition convention is then applied to each separate unit of 
+accounting. Generally, the total arrangement consideration is allocated to the separate units of accounting based on their relative fair 
+values. If the criteria for the separation of units of accounting are not met, revenue is deferred until such criteria are met or until the 
+period in which the last undelivered element is delivered.  
+Income from interest: Interest is recognized using the effective interest method.  
+Income from leases: Operating lease income for equipment rentals is recognized on a straight-line basis over the lease term. 
+Receivables from finance leases, in which Siemens Healthineers as lessor transfers substantially all the risks and rewards incidental 
+to ownership to the customer are recognized at an amount equal to the net investment in the lease. Finance income is subsequently 
+recognized based on a pattern reflecting a constant periodic rate of return on the net investment using the effective interest method. 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 13 
+Functional costs – In general, operating expenses by types are assigned to the functions following the functional area of the 
+corresponding profit and cost centers. Amortization, depreciation and impairment of intangible assets and property, plant and 
+equipment are included in functional costs depending on the use of the assets. 
+Product-related expenses – Provisions for estimated costs related to product warranties are recorded in line item Cost of sales at the 
+time the related sale is recognized. 
+Research and development costs – Costs of research activities are expensed as incurred. Costs of development activities are 
+capitalized when the recognition criteria in IAS 38 are met. Capitalized development costs are stated at cost less accumulated 
+amortization and impairment losses with an amortization period of generally three to 13 years.  
+Goodwill – Goodwill is not amortized, instead, goodwill is tested for impairment annually, as well as whenever there are events or 
+changes in circumstances (triggering events) which suggest that the carrying amount may not be recoverable. Goodwill is carried at 
+cost less accumulated impairment losses. The goodwill impairment test is performed at the level of a cash-generating unit or a group 
+of cash-generating units, represented by a segment. This is the lowest level at which goodwill is monitored for internal management 
+purposes. During the periods presented, goodwill was tested for impairment based on the cash-generating unit structure used at that 
+time by Siemens Group to monitor goodwill as Siemens Healthineers and the new reporting structure did not exist in the past. 
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the cash-generating unit or the 
+group of cash-generating units that is expected to benefit from the synergies of the business combination. If the carrying amount of 
+the cash-generating unit or the group of cash-generating units, to which the goodwill is allocated, exceeds its recoverable amount, an 
+impairment loss on goodwill allocated to this cash-generating unit or this group of cash-generating units is recognized. The 
+recoverable amount is the higher of the cash-generating unit’s or the group of cash-generating units’ fair value less costs to sell and 
+its value in use. If either of these values exceeds the carrying amount, it is not always necessary to determine both values. These 
+values are generally determined based on discounted cash flow calculations. Impairment losses on goodwill are not reversed in future 
+periods. 
+The determination of the recoverable amount of a cash-generating unit or a group of cash-generating units to which goodwill is 
+allocated involves the use of estimates by management. The outcome predicted by these estimates is influenced e.g. by the successful 
+integration of acquired entities, volatility of capital markets, interest rate developments, foreign exchange rate fluctuations and the 
+outlook on economic trends. In determining recoverable amounts, discounted cash flow calculations use five-year projections that are 
+based on financial forecasts. Cash flow projections take into account past experience and represent management’s best estimate about 
+future developments. Cash flows after the planning period are extrapolated using individual growth rates. Key assumptions on which 
+management has based its determination of fair value less costs to sell and value in use include estimated growth rates and weighted 
+average cost of capital. These estimates, including the methodology used, can have a material impact on the respective values and 
+ultimately the amount of any goodwill impairment.  
+Other intangible assets – Siemens Healthineers amortizes intangible assets with finite useful lives on a straight-line basis over their 
+respective estimated useful lives. Estimated useful lives for patents, licenses and other similar rights generally range from three to 
+five years, except for intangible assets with finite useful lives acquired in business combinations. Intangible assets acquired in 
+business combinations primarily consist of customer relationships and trademarks as well as technology. Useful lives in specific 
+acquisitions range from four to 15 years for customer relationships and trademarks and from five to 16 years for technology.  
+Property, plant and equipment –is valued at cost less accumulated depreciation and impairment losses. Depreciation expense is 
+recognized using the straight-line method. The following useful lives are assumed: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Factory and office buildings 
+20 to 50 years 
+Other buildings 
+ 
+5 to 10 years 
+Technical machinery & equipment  
+5 to 10 years 
+Furniture & office equipment 
+ 
+generally 5 years 
+Equipment leased to others 
+ 
+generally 5 to 8 years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impairment of property, plant and equipment and other intangible assets – Siemens Healthineers reviews property, plant and 
+equipment and other intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount 
+of an asset may not be recoverable. In addition, intangible assets not yet available for use are subject to an annual impairment test. 
+Impairment testing of property, plant and equipment and other intangible assets involves the use of estimates in determining the 
+assets’ recoverable amount which can have a material impact on the respective values and ultimately the amount of any impairment.  
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 14 
+Income taxes – Tax positions under respective local tax laws and tax authorities’ views can be complex and subject to different 
+interpretations of tax payers and local tax authorities. Different interpretations of tax laws may result in additional tax payments for 
+prior years and are taken into account based on management’s considerations. Under the liability method, deferred tax assets and 
+liabilities are recognized for future tax consequences attributable to differences between the financial statement carrying amounts of 
+existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured at the tax rates that are 
+expected to apply in the period in which the liability is settled or the asset realized, based on tax rates and tax laws that have been 
+enacted or substantively enacted at the Statement of Financial Position date in the respective jurisdiction. Deferred tax assets are 
+recognized if sufficient future taxable profit is available, including income from forecasted operating earnings, the reversal of 
+existing taxable temporary differences and established tax planning opportunities. As of each period-end, Siemens Healthineers 
+evaluates the recoverability of deferred tax assets, based on projected future taxable profits. Based upon the level of historical taxable 
+income and projections for future taxable income over the periods in which the deferred tax assets are deductible, Siemens 
+Healthineers believes it is probable to realize the benefits of these deductible differences. As future developments are uncertain and 
+partly beyond Siemens Healthineers’ control, assumptions are necessary to estimate future taxable profits as well as the period in 
+which deferred tax assets will recover. Estimates are revised in the period in which there is sufficient evidence to revise the 
+assumption. 
+Inventories – Inventories are valued at the lower of acquisition or production costs and net realizable value, costs being generally 
+determined on the basis of an average or first-in, first-out method. 
+Defined benefit plans – Siemens Healthineers measures the entitlements by applying the projected unit credit method. The approach 
+reflects an actuarially calculated net present value of the future benefit entitlement for services already rendered. In determining the 
+net present value of the future benefit entitlement for service already rendered (Defined Benefit Obligation (DBO)), the expected 
+rates of future salary increase and expected rates of future pension progression are considered. The assumptions used for the 
+calculation of the DBO as of the period-end of the preceding fiscal year are used to determine the calculation of service cost and 
+interest income and expense of the following year. The net interest income or expense for the fiscal year will be based on the 
+discount rates for the respective year multiplied by the net defined benefit liability (asset) at the preceding fiscal year’s period-end 
+date.  
+Service cost, past service cost and settlement gains (losses) for pensions and similar obligations as well as administration costs 
+unrelated to the management of plan assets are allocated among functional costs. Past service cost and settlement gains (losses) are 
+recognized immediately in profit or loss. For unfunded plans, the amount of the line item Provisions for pensions and similar 
+obligations equals the DBO. For funded plans, Siemens Healthineers offsets the fair value of the plan assets with the DBO. Siemens 
+Healthineers recognizes the net amount, after adjustments for effects relating to any asset ceiling. 
+Remeasurements comprise actuarial gains and losses as well as the difference between the return on plan assets and the amounts 
+included in net interest on the net defined benefit liability (asset). They are recognized in the line item Other comprehensive income, 
+net of income taxes. 
+Actuarial valuations rely on key assumptions including discount rates, expected compensation increases, rate of pension progression 
+and mortality rates. Discount rates used are determined by reference to yields on high-quality corporate bonds of appropriate duration 
+and currency at the end of the reporting period. In case such yields are not available, discount rates are based on government bond 
+yields. Due to changing market, economic and social conditions, the underlying key assumptions may differ from actual 
+developments. 
+Provisions – A provision is recognized in the Statement of Financial Position when it is probable that Siemens Healthineers has a 
+present legal or constructive obligation as a result of a past event, it is probable that an outflow of economic benefits will be required 
+to settle the obligation and a reliable estimate can be made of the amount of the obligation. If the effect is material, provisions are 
+recognized at present value by discounting the expected future cash flows at a pretax rate that reflects current market assessments of 
+the time value of money. When a contract becomes onerous, the present obligation under the contract is recognized as a provision. 
+Significant estimates are involved in the determination of provisions related to onerous contracts, warranty costs, asset retirement 
+obligations, legal and regulatory proceedings as well as governmental investigations (Legal Proceedings). Siemens Healthineers 
+records a provision for onerous sales contracts when current estimates of total contract costs exceed expected contract revenue.  
+Legal Proceedings often involve complex legal issues and are subject to substantial uncertainties. Accordingly, considerable 
+judgment is part of determining whether it is probable that there is a present obligation as a result of a past event at the end of the 
+reporting period, whether it is probable that such a Legal Proceeding will result in an outflow of resources and whether the amount of 
+the obligation can be reliably estimated. Internal and external counsels are generally part of the determination process. Due to new 
+developments, it may be necessary, to record a provision for an ongoing Legal Proceeding or to adjust the amount of a previously 
+recognized provision. Upon resolution of a Legal Proceeding, Siemens Healthineers may incur charges in excess of the recorded 
+provisions for such matters. The outcome of Legal Proceedings may have a material effect on Siemens Healthineers’ financial 
+position, its results of operations and/or its cash flows. 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 15 
+Termination benefits – Termination benefits are provided as a result of an entity’s offer made in order to encourage voluntary 
+redundancy before the normal retirement date or from an entity’s decision to terminate the employment. Termination benefits in 
+accordance with IAS 19, Employee Benefits, are recognized as a liability and an expense when the entity can no longer withdraw the 
+offer of those benefits. 
+Financial instruments – A financial instrument is any contract that gives rise to a financial asset of one entity and a financial 
+liability or equity instrument of another entity. Siemens Healthineers does not use the category held-to-maturity and does not use the 
+option to designate financial assets or financial liabilities at fair value through profit or loss at inception (Fair Value Option). Based 
+on their nature, financial instruments are classified as financial assets and financial liabilities measured at cost or amortized cost and 
+financial assets and financial liabilities measured at fair value and as receivables from finance leases. Regular way sales of financial 
+assets are accounted for at the trade date. Initially, financial instruments are recognized at their fair value. Transaction costs are only 
+included in determining the carrying amount, if the financial instruments are not measured at fair value through profit or loss. 
+Subsequently, financial assets and liabilities are measured according to the category to which they are assigned - cash and cash 
+equivalents, available-for-sale financial assets, loans and receivables, financial liabilities measured at amortized cost or financial 
+assets and liabilities classified as held for trading.  
+Cash and cash equivalents – Siemens Healthineers considers all highly liquid investments with less than three months maturity 
+from the date of acquisition to be cash equivalents. Cash and cash equivalents are measured at cost. 
+Loans and receivables – Financial assets classified as loans and receivables are measured at amortized cost using the effective 
+interest method less any impairment losses. Impairment losses on trade and other receivables are recognized using separate 
+allowance accounts. The allowance for doubtful accounts involves significant management judgment and review of individual 
+receivables based on individual customer creditworthiness, current economic trends and analysis of historical bad debts on a 
+portfolio basis. For the determination of the country-specific component of the individual allowance, Siemens Healthineers also 
+considers country credit ratings, which are based on information from external rating agencies. Regarding the determination of the 
+valuation allowance derived from a portfolio-based analysis of historical bad debts, a decline of receivables in volume results in a 
+corresponding reduction of such provisions and vice versa. 
+Financial liabilities – Siemens Healthineers measures financial liabilities, except for derivative financial instruments, at amortized 
+cost using the effective interest method.  
+Derivative financial instruments – Derivative financial instruments, such as foreign currency exchange contracts are measured at 
+fair value and classified as held for trading unless they are designated as hedging instruments, for which hedge accounting is applied. 
+Changes in the fair value of derivative financial instruments are recognized either in net income or, in the case of a cash flow hedge, 
+in line item Other comprehensive income, net of income taxes (applicable deferred income tax).  
+Cash flow hedges: The effective portion of changes in the fair value of derivative instruments designated as cash flow hedges are 
+recognized in line item Other comprehensive income, net of income taxes (applicable deferred income tax), and any ineffective 
+portion is recognized immediately in net income. Amounts accumulated in equity are reclassified into net income in the same periods 
+in which the hedged item affects net income.  
+Share-based payment – Share-based payment awards at Siemens Healthineers are predominately classified as cash-settled to fulfill 
+the specific requirements for share-based payment transactions among group entities. Fair value is measured at grant date, updated each 
+quarter and expensed over the vesting period. Fair value is determined as the market price of Siemens AG shares, considering 
+dividends during the vesting period the grantees are not entitled to and market conditions and non-vesting conditions, if applicable.  
+Expenses related to share-based payment awards for Siemens Healthineers employees, which were granted by a Siemens Group 
+entity and for which the contractual obligation to settle the shared-based payment liability has not been transferred to Siemens 
+Healthineers, are included in the Combined Financial Statements as equity-settled awards. 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 16 
+Recent accounting pronouncements, not yet adopted 
+The following pronouncements, issued by the International Accounting Standards Board (“IASB”),  are not yet effective and have not 
+yet been adopted by Siemens Healthineers:  
+In July 2014, the IASB issued IFRS 9, Financial Instruments. IFRS 9 introduces a single approach for the classification and 
+measurement of financial assets according to their cash flow characteristics and the business model they are managed in, and 
+provides a new impairment model based on expected credit losses. IFRS 9 also includes new regulations regarding the application of 
+hedge accounting to better reflect an entity’s risk management activities especially with regard to managing non-financial risks. The 
+new standard is effective for annual reporting periods beginning on or after January 1, 2018. Siemens Healthineers will adopt IFRS 9 
+for the fiscal year beginning as of October 1, 2018 and will not adjust comparative figures for the preceding fiscal year, in 
+accordance with IFRS 9 transitional provisions. Siemens Healthineers is currently assessing the effects of the adoption of IFRS 9 and 
+expects only limited impact on the financial statements. Siemens Healthineers will adopt the IFRS 9 hedge accounting rules 
+prospectively from October 1, 2018. It is expected that all existing hedge accounting relationships will also meet the hedge 
+accounting requirements under IFRS 9. 
+In May 2014, the IASB issued IFRS 15, Revenue from Contracts with Customers. For further details please refer to Note 26 – Effects 
+from the adoption of IFRS 15. 
+ 
+In January 2016, the IASB issued IFRS 16, Leases. IFRS 16 eliminates the current classification model for lessee’s lease contracts as 
+either operating or finance leases and, instead, introduces a single lessee accounting model requiring lessees to recognize right-of-use 
+assets and lease liabilities for leases with a term of more than twelve months. This brings the previous off-balance leases on the 
+balance sheet in a manner largely comparable to current finance lease accounting. IFRS 16 is effective for annual periods beginning 
+on or after January 1, 2019. Siemens Healthineers will adopt the standard for the fiscal year beginning as of October 1, 2019, 
+presumably by applying the modified retrospective approach, i.e. comparative figures for the preceding year would not be adjusted. 
+Currently, it is expected that the majority of the transition effect relates to real estate leased by Siemens Healthineers. Siemens 
+Healthineers is currently assessing the impact of adopting IFRS 16 on the financial statements. 
+In May 2017, the IASB issued IFRIC 23, Uncertainty over Income Tax Treatments. The interpretation clarifies the recognition and 
+measurement requirements when there is uncertainty over income tax treatments. In assessing the uncertainty, an entity shall 
+consider whether it is probable that a taxation authority will accept the uncertain tax treatment. IFRIC 23 is effective for annual 
+reporting periods beginning on or after January 1, 2019, while earlier application is permitted. Siemens Healthineers is currently 
+assessing the impacts of adopting the interpretation on the financial statements. 
+ 
+In addition to the standards presented above in detail, the IASB has issued further standards, interpretations and amendments to 
+standards and interpretations whose application is also not yet mandatory and which in part require EU endorsement before they can 
+be applied. Siemens Healthineers currently assumes that the application of these standards, interpretations and amendments will not 
+have a material impact on the presentation of the financial statements. 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 17 
+NOTE 3 Income taxes  
+Income tax expense consists of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Current tax 
+567 
+584 
+561 
+Deferred tax 
+33 
+6 
+23 
+Income tax expenses 
+600 
+590 
+584 
+ 
+The current income tax expenses in fiscal 2017, 2016 and 2015 include adjustments recognized for current tax of prior years in the 
+amount of €62 million, €38 million and €(18) million, respectively. The deferred tax expense (benefit) in fiscal 2017, 2016 and 2015 
+includes tax effects of the origination and reversal of temporary differences of €49 million, €6 million and €(7) million, respectively.  
+In Germany, the calculation of current tax is based on a combined tax rate of 31%, consisting of a corporate tax rate of 15%, a 
+solidarity surcharge thereon of 5.5% and an average trade tax rate of 15%. For foreign subsidiaries, current taxes are calculated based 
+on the local tax laws and applicable tax rates in the individual foreign countries. Deferred tax assets and liabilities in Germany and 
+abroad are measured at the tax rates that are expected to apply to the period when the asset is realized or the liability is settled. 
+Income tax expense (current and deferred) differs from the amounts computed by applying a combined statutory German income tax 
+rate of 31% as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+ 
+(in millions of €) 
+2017 
+2016 
+2015 
+Expected income tax expenses 
+634 
+595 
+581 
+  Increase (decrease) in income taxes resulting from: 
+ 
+ 
+ 
+Non-deductible losses and expenses 
+21 
+15 
+92 
+Tax-free income 
+(23) 
+(27) 
+(35) 
+    Taxes for prior years 
+ 
+43 
+67 
+(14) 
+    Change in realizability of deferred tax assets and tax credits 
+ 
+(7) 
+(8) 
+(5) 
+    Change in tax rates  
+2 
+7 
+(7) 
+    Foreign tax rate differential 
+ 
+(68) 
+(60) 
+(36) 
+    Other, net 
+ 
+(2) 
+1 
+8 
+Actual income tax expenses 
+600 
+590 
+584 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 18 
+Deferred income tax assets and liabilities on a gross basis are summarized as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Assets 
+ 
+ 
+ 
+Non-current and current assets 
+416 
+411 
+404 
+Liabilities and Post-employment benefits 
+757 
+851 
+702 
+Other 
+60 
+65 
+63 
+Tax loss and credit carryforward 
+88 
+70 
+62 
+  Deferred tax assets 
+1,321 
+1,397 
+1,231 
+ 
+ 
+ 
+ 
+Liabilities 
+ 
+ 
+ 
+Non-current and current assets 
+996 
+937 
+967 
+Liabilities 
+145 
+132 
+123 
+Other 
+3 
+1 
+1 
+  Deferred tax liabilities 
+1,145 
+1,071 
+1,091 
+Total deferred tax assets, net 
+176 
+327 
+140 
+ 
+Deferred tax assets have not been recognized with respect of the following items (gross amounts): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Deductible temporary differences 
+260 
+- 
+- 
+Tax loss carryforward 
+124 
+8 
+9 
+ 
+384 
+8 
+9 
+ 
+As of September 30, 2017, 2016 and 2015, €8 million, €5 million and €6 million of the unrecognized tax loss carryforwards expire 
+over the periods to 2026. 
+Siemens Healthineers has not recognized deferred tax liabilities for income taxes or foreign withholding taxes on the cumulative 
+earnings of subsidiaries of €3,003 million, €3,057 million and €2,614 million, respectively in fiscal 2017, 2016 and 2015 because the 
+earnings are intended to be permanently reinvested in the subsidiaries.  
+Income taxes included in the Combined Statements of Income and recognized directly in equity are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Income tax expenses  
+600 
+590 
+584 
+(Income) expenses recognized directly in equity 
+ 
+114 
+(234) 
+(15) 
+ 
+714 
+356 
+569 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 19 
+NOTE 4 Trade and other receivables 
+ 
+ 
+ 
+ 
+  
+  
+  
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Trade receivables from the sale of goods and services 
+2,174 
+2,050 
+1,845 
+Receivables from finance leases 
+26 
+29 
+30 
+2,200 
+2,080 
+1,875 
+ 
+ 
+ 
+In fiscal 2017, 2016 and 2015, the long-term portion of receivables from finance leases is reported in line item Other financial assets 
+amounting to €99 million, €83 million and €88 million, respectively.  
+Changes to the valuation allowance of current and non-current trade and other receivables which belong to the class of financial assets 
+measured at (amortized) costs are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Valuation allowance as of beginning of fiscal year 
+110 
+101 
+114 
+Increase in valuation allowances 
+31 
+24 
+25 
+Write-offs charged against the allowance 
+(15) 
+(16) 
+(39) 
+Recoveries of amounts previously written-off 
+1 
+1 
+2 
+Foreign exchange translation differences 
+(9) 
+(1) 
+- 
+Valuation allowance as of fiscal year-end 
+117 
+110 
+101 
+ 
+ 
+ 
+Minimum future lease payments from finance lease to be received are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Within one year 
+28 
+33 
+34 
+After one year but not more than five years 
+92 
+83 
+87 
+More than five years 
+32 
+18 
+23 
+ 
+151 
+135 
+143 
+ 
+ 
+ 
+ 
+The following table shows a reconciliation of minimum future lease payments to the gross and net investment in leases and to the present 
+value of the minimum future lease payments receivable:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Minimum future lease payments 
+151 
+135 
+143 
+Less: Unearned finance income 
+(25) 
+(22) 
+(25) 
+Net investment in leases 
+126 
+113 
+118 
+Less: Allowance for doubtful accounts 
+- 
+(1) 
+- 
+Present value of minimum future lease payments receivable 
+126 
+112 
+118 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 20 
+The present values of minimum future lease payments receivable are due as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Within one year 
+26 
+29 
+30 
+After one year but not more than five years 
+74 
+68 
+70 
+More than five years 
+26 
+15 
+19 
+ 
+126 
+112 
+118 
+ 
+ 
+ 
+ 
+Investments in finance leases predominantly relate to diagnostic imaging equipment. Actual cash flows will vary from contractual 
+maturities due to future sales of finance receivables, prepayments and write-offs. 
+ 
+ 
+NOTE 5 Other current financial assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Derivative financial instruments 
+11 
+17 
+37 
+Receivables from employees 
+20 
+20 
+14 
+Other 
+27 
+33 
+27 
+ 
+57 
+70 
+78 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 21 
+NOTE 6 Other current assets  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Miscellaneous tax receivables 
+222 
+182 
+133 
+Prepaid expenses 
+46 
+45 
+39 
+Other 
+8 
+9 
+11 
+ 
+276 
+236 
+183 
+ 
+ 
+ 
+As of September 30, 2017 miscellaneous tax receivables mainly consist of sales tax receivables amounting to €213 million 
+(September 30, 2016: €172 million, September 30, 2015: €126 million). 
+ 
+ 
+NOTE 7 Inventories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Raw materials and supplies 
+378 
+357 
+367 
+Work in progress 
+381 
+365 
+359 
+Costs of unbilled contracts 
+172 
+239 
+241 
+Finished goods and products held for resale 
+686 
+686 
+660  
+Advances to suppliers 
+28 
+24 
+18 
+ 
+  
+ 
+ 
+1,645 
+1,671 
+1,645 
+Advance payments received 
+(321) 
+(363) 
+(386) 
+ 
+1,323 
+1,308 
+1,259 
+ 
+ 
+ 
+ 
+ 
+Cost of sales includes inventories recognized as expense amounting to €7,842 million in fiscal 2017 (€7,850 million in fiscal 2016, 
+€7,588 million in fiscal 2015). Compared to prior year, write-downs increased (decreased) by €(58) million as of September 30, 2017 
+(€(11) million as of September 30, 2016 and €19 million as of September 30, 2015). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 22 
+NOTE 8 Goodwill 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Cost 
+ 
+ 
+ 
+Balance at beginning of year 
+9,593 
+9,560 
+8,898 
+Translation differences and other 
+(403) 
+18 
+659 
+Acquisitions and purchase accounting adjustments 
+41 
+15 
+3 
+Balance at year-end 
+9,231 
+9,593 
+9,560 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accumulated impairment losses and other changes 
+ 
+ 
+ 
+Balance at beginning of year 
+(1,292) 
+(1,287) 
+(1,181) 
+Translation differences and other 
+53 
+(5) 
+(106) 
+Balance at year-end 
+(1,239) 
+(1,292) 
+(1,287) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carrying amount 
+ 
+ 
+ 
+Balance at beginning of year 
+8,301 
+8,273 
+7,717 
+Balance at year-end 
+7,992 
+8,301 
+8,273 
+ 
+ 
+ 
+ 
+The goodwill included in the Combined Financial Statements is based on the goodwill attributable to the companies or businesses 
+that were transferred to Siemens Healthineers during the legal reorganization. Total amounts correspond to the historically reported 
+amounts in the IFRS Consolidated Financial Statements of Siemens (predecessor values). During the periods presented, goodwill was 
+tested for impairment based on the cash-generating unit structure used at that time by Siemens to monitor goodwill as the new 
+reporting structure did not exist in the past. No goodwill impairment was recognized. 
+Siemens Healthineers defined operating segments based on the announced new reporting structure. As a cash-generating unit or a 
+group of cash-generating units cannot be larger than an operating segment goodwill has been reallocated to the reorganized reporting 
+structure based on relative values. Accordingly, the reallocation did not result in any goodwill impairments. Siemens Healthineers’ 
+groups of cash-generating units to which goodwill is allocated are represented by a segment – see Note 23 – Segment information.  
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Imaging 
+5,651 
+5,870 
+5,850 
+Diagnostics 
+1,463 
+1,519 
+1,514 
+Advanced Therapies 
+878 
+912 
+909 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 23 
+NOTE 9 Other intangible assets and property, plant and equipment 
+ 
+ 
+(in millions of €) 
+Gross 
+carrying 
+amount 
+10/01/2014 
+Transfer 
+from 
+Siemens 
+Group 
+Translation 
+differences 
+Additions 
+through 
+business 
+combinations 
+Additions 
+Reclassi-
+fications 
+Retirements 
+Gross 
+Carrying 
+amount 
+09/30/2015 
+Accumulated 
+depreciation/ 
+amortization 
+and 
+impairment
+1 
+Carrying 
+amount 
+09/30/2015 
+Depreciation/ 
+amortization 
+and 
+impairment 
+in fiscal 2015 
+Internally generated 
+technology 
+778 
+- 
+36 
+- 
+172 
+- 
+(8) 
+977 
+(296) 
+681 
+(51) 
+Acquired technology 
+including patents, 
+licenses and similar rights 
+364 
+2 
+24 
+- 
+21 
+- 
+(6) 
+406 
+(291) 
+115 
+(36) 
+Customer relationships 
+and trademarks 
+2,098 
+- 
+163 
+- 
+- 
+- 
+(6) 
+2,255 
+(1,452) 
+803 
+(165) 
+Other intangible assets 
+3,240 
+2 
+222 
+- 
+192 
+- 
+(19) 
+3,638 
+(2,039) 
+1,599 
+(252) 
+Land and buildings 
+570 
+180 
+54 
+- 
+13 
+26 
+(17) 
+825 
+(383) 
+443 
+(20) 
+Technical machinery and 
+equipment 
+637 
+8 
+45 
+- 
+29 
+20 
+(21) 
+717 
+(508) 
+210 
+(41) 
+Furniture and office 
+equipment 
+714 
+11 
+35 
+1 
+86 
+20 
+(86) 
+781 
+(588) 
+193 
+(87) 
+Equipment leased to 
+others 
+1,423 
+- 
+6 
+- 
+190 
+(2) 
+(179) 
+1,438 
+(1,051) 
+387 
+(163) 
+Advances to suppliers 
+and construction in 
+progress 
+80 
+4 
+10 
+- 
+45 
+(64) 
+(3) 
+73 
+- 
+73 
+- 
+Property, plant and 
+equipment 
+3,424 
+203 
+150 
+1 
+364 
+- 
+(306) 
+3,835 
+(2,530) 
+1,305 
+(312) 
+ 
+ 
+ 
+ 
+1The accumulated depreciation related to asset transfers from Siemens Group amounts to €110 million 
+ 
+ 
+ 
+ 
+(in millions of €) 
+Gross 
+carrying 
+amount 
+10/01/2015 
+Transfer 
+from 
+Siemens 
+Group 
+Translation 
+differences 
+Additions 
+through 
+business 
+combinations 
+Additions 
+Reclassi-
+fications Retirements 
+Gross 
+Carrying 
+amount 
+09/30/2016 
+Accumulated 
+depreciation/ 
+Amortization 
+and 
+impairment
+1 
+Carrying 
+amount 
+09/30/2016 
+Depreciation/ 
+amortization 
+and 
+impairment in 
+fiscal 2016 
+Internally generated 
+technology 
+977
+2
+2
+-
+202
+-
+(4)
+1.178
+(351)
+827
+(56) 
+Acquired technology 
+including patents, licenses 
+and similar rights 
+406
+-
+6
+14
+19
+-
+(20)
+423
+(312)
+111
+(38) 
+Customer relationships and 
+trademarks 
+2,255
+-
+10
+-
+-
+-
+-
+2,265
+(1,618)
+646
+(165) 
+Other intangible assets 
+3,638
+2
+17
+14
+220
+-
+(25)
+3,866
+(2,282)
+1,585
+(259) 
+Land and buildings 
+825
+208
+(6)
+-
+34
+46
+2
+1,110
+(542)
+568
+(29) 
+Technical machinery and 
+equipment 
+717
+10
+(10)
+-
+27
+22
+(20)
+746
+(535)
+212
+(43) 
+Furniture and office 
+equipment 
+781
+17
+(2)
+2
+104
+25
+(64)
+862
+(641)
+222
+(100) 
+Equipment leased to others 
+1,438
+-
+(2)
+-
+216
+1
+(150)
+1,503
+(1,076)
+427
+(160) 
+Advances to suppliers and 
+construction in progress 
+73
+61
+(1)
+-
+58
+(94)
+(1)
+95
+-
+95
+- 
+Property, plant and 
+equipment 
+3,835
+295
+(21)
+2
+439
+-
+(232)
+4.317
+(2,793)
+1,524
+(332) 
+ 
+ 
+ 
+ 
+ 
+1The accumulated depreciation related to asset transfers from Siemens Group amounts to €152 million 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 24 
+ 
+ 
+ 
+ 
+ 
+(in millions of €) 
+Gross 
+carrying 
+amount 
+10/01/2016 
+Transfer 
+from 
+Siemens 
+Group 
+Translation 
+differences 
+Additions 
+through 
+business 
+combinations 
+Additions 
+Reclassi-
+fications 
+Retirements 
+Gross 
+Carrying 
+amount 
+09/30/2017 
+Accumulated 
+depreciation/ 
+amortization 
+and 
+impairment
+1 
+Carrying 
+amount 
+09/30/2017 
+Depreciation/ 
+amortization 
+and 
+impairment 
+in fiscal 2017 
+Internally generated 
+technology 
+1,178 
+- 
+(39) 
+- 
+189 
+- 
+(18) 
+1,310 
+(383) 
+927 
+(61) 
+Acquired technology 
+including patents, 
+licenses and similar 
+rights 
+423 
+- 
+(16) 
+3 
+30 
+- 
+(17) 
+422 
+(305) 
+118 
+(37) 
+Customer relationships 
+and trademarks 
+2,265 
+- 
+(101) 
+3 
+- 
+- 
+- 
+2,166 
+(1,685) 
+481 
+(132) 
+Other intangible 
+assets 
+3,866 
+- 
+(157) 
+5 
+219 
+- 
+(36) 
+3,898 
+(2,373) 
+1,525 
+(230) 
+Land and buildings 
+1,110 
+- 
+(36) 
+- 
+10 
+3 
+(3) 
+1,083 
+(551) 
+532 
+(35) 
+Technical machinery 
+and equipment 
+746 
+- 
+(28) 
+- 
+23 
+26 
+(23) 
+745 
+(538) 
+207 
+(43) 
+Furniture and office 
+equipment 
+863 
+1 
+(33) 
+- 
+106 
+23 
+(51) 
+909 
+(673) 
+237 
+(104) 
+Equipment leased to 
+others 
+1,503 
+- 
+(43) 
+- 
+220 
+8 
+(175) 
+1,513 
+(1,064) 
+448 
+(160) 
+Advances to suppliers 
+and construction in 
+progress 
+95 
+- 
+(5) 
+- 
+117 
+(60) 
+(3) 
+143 
+- 
+143 
+- 
+Property, plant and 
+equipment 
+4,317 
+1 
+(145) 
+- 
+476 
+- 
+(256) 
+4,393 
+(2,827) 
+1,566 
+(342) 
+ 
+ 
+ 
+ 
+1The accumulated depreciation related to asset transfers from Siemens Group amounts to €1 million 
+ 
+ 
+ 
+Minimum future lease payments under operating leases to be received are:  
+ 
+ 
+ 
+  
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Within 1 year 
+28  
+24  
+23  
+Between 1 and 5 years 
+64  
+77  
+49  
+After 5 years 
+2  
+6  
+2  
+93  
+107  
+73  
+ 
+ 
+ 
+ 
+In fiscal 2017, 2016 and 2015, the contingent rents amounted to €138 million, €129 million and €140 million, respectively.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 25 
+NOTE 10 Other financial assets  
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Receivables from finance leases 
+99 
+83 
+88 
+Available-for-sale financial assets 
+42 
+44 
+40 
+Other 
+21 
+25 
+19 
+ 
+162 
+151 
+147 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 26 
+NOTE 11 Other assets  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Deferred compensation assets 
+225 
+227 
+226 
+Prepaid expenses 
+31 
+16 
+16 
+Other 
+12 
+10 
+2 
+ 
+268 
+253 
+244 
+ 
+ 
+ 
+ 
+Deferred compensation assets mainly relate to a deferred compensation plan in the U.S., see also Note 13 – Other liabilities. 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 27 
+NOTE 12 Other current liabilities  
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Employee related accruals 
+297 
+235 
+207 
+Payroll obligations and other liabilities to employees 
+599 
+598 
+572 
+Sales and other taxes 
+203 
+210 
+227 
+Deferred income 
+551 
+551 
+531 
+Other 
+147 
+151 
+152 
+ 
+1,797 
+1,745 
+1,690 
+ 
+ 
+ 
+Employee related accruals primarily include accruals for vacation entitlements. 
+ 
+Sales and other taxes mainly comprise sales tax liabilities as of September 30, 2017 amounting to €162 million (September 30, 2016: 
+€166 million, September 30, 2015: €183 million).  
+ 
+Deferred income comprises prepayments with a remaining term of less than one year from leases and service business. 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 28 
+NOTE 13 Other liabilities  
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Employee related accruals 
+119 
+119 
+89 
+Deferred compensation liabilities 
+227 
+223 
+225 
+Deferred income 
+226 
+218 
+152 
+Other 
+18 
+30 
+29 
+ 
+590 
+591 
+495 
+ 
+ 
+ 
+Employee related accruals primarily include accruals for share-based compensation and jubilees shares.  
+ 
+Deferred compensation liabilities mainly relate to a deferred compensation plan in the U.S., see also Note 11 - Other assets. 
+ 
+Deferred income comprises prepayments with a remaining term of more than one year from leases and service business  
+ 
+ 
+ 
+NOTE 14 Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Debt portion of payables to Siemens Group (residual term  < 1 year) 
+3,990 
+4,070 
+8,484 
+Loans from banks  
+47 
+38 
+1 
+Obligations under finance leases (residual term < 1 year) 
+8 
+7 
+7 
+Total short-term debt 
+4,045 
+4,115 
+8,492 
+Other liabilities to Siemens Group (residual term > 1 year) 
+5,167 
+5,485 
+13 
+Obligations under finance leases (residual term > 1 year) 
+15 
+14 
+14 
+Total long-term debt  
+5,182 
+5,499 
+26 
+Total debt 
+9,227 
+9,614 
+8,519 
+ 
+ 
+ 
+Siemens Group provides short-term loans to Siemens Healthineers, amounting to €3,990 million as of September 30, 2017 
+(September 30, 2016: €4,070 million, September 30, 2015: €8,484 million). In September 2016, short-terms loans which related to 
+Siemens Healthineers business in the United States have been converted to a series of six long-term loans with Siemens Group and 
+with a maturity of 3 to 30 years. As of September 30, 2017 these long-term loans amounted to €5,052 million (September 30, 2016: 
+€5,343 million, September 30, 2015: €0). The interest range for fiscal 2017 was 1.47% to 3.44% (fiscal 2016: 1.11% to 3.44%, fiscal 
+2015: 0.74% to 0.94%).  
+Further long-term loans to Siemens Healthineers are provided by Siemens Group amounting to €115 million as of September 30, 
+2017 (September 30, 2016: €142 million, September 30, 2015: €13 million).  
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 29 
+NOTE 15 Provisions for pensions and similar obligations 
+Siemens Healthineers provides post-employment plans, which are accounted for either as defined benefit plans or defined 
+contribution plans, to almost all of the German employees and the majority of the foreign employees. 
+Defined benefit plans 
+The defined benefit plans open to new entrants are based predominantly on contributions made by Siemens Healthineers. Only to a 
+certain extent, those plans are affected by longevity, inflation and compensation increases and take into account country specific 
+differences. Siemens Healthineers’ major plans are funded with assets in segregated entities. In accordance with local laws and 
+bilateral agreements with benefit trusts (trust agreement) those plans are managed in the interest of the beneficiaries. The defined 
+benefit plans cover 48,000 participants, including 25,000 active employees, 10,500 former employees with vested benefits and 
+12,500 retirees and surviving dependents in 36 countries. 
+Where Siemens Healthineers employees participate in Siemens Group’s pension plans and the respective pension trusts, Siemens 
+Healthineers and Siemens Group bear the financial impact individually from pension obligations related to the respective employees. 
+As the majority of the Siemens Healthineers’ pension liabilities derive from four countries (ca. 95% in fiscal 2017), the pension 
+landscape in these countries are described detailed below. 
+Germany: 
+In Germany, Siemens Healthineers provides pension benefits through the following plans: BSAV (Beitragsorientierte Siemens 
+Altersversorgung), frozen legacy plans and deferred compensation plans. The majority of Siemens Healthineers’ active employees 
+participates in the BSAV. Those benefits are predominantly based on contributions made by Siemens Healthineers and returns earned 
+on such contributions, subject to a minimum return guaranteed by Siemens Healthineers. In connection with the implementation of 
+the BSAV, benefits provided under the frozen legacy plans were modified to substantially eliminate the effects of compensation 
+increases. However, these frozen plans still expose Siemens Healthineers to investment risk, interest rate risk and longevity risk. In 
+general, no legal or regulatory minimum funding requirements apply in Germany.  
+The BSAV as well as most of the frozen legacy plans are currently funded via contractual trust arrangements (CTA) whose sole 
+trustor is Siemens AG. For parts of the frozen legacy plans (Siemens Pensionsfonds AG) and the deferred compensation plans, plan 
+assets have been allocated to Siemens Healthineers and are therefore included in the numbers below. However, no plan assets have 
+been allocated to Siemens Healthineers for the BSAV and the majority of the frozen legacy plans.   
+U.S.: 
+U.S. Siemens Healthineers currently participate in the defined benefit and defined contribution plans sponsored by Siemens 
+Corporation.  The defined benefit plans sponsored by Siemens Corporation have been frozen to new entrants and to future benefit 
+accruals, except for interest credits on cash balance accounts. The pension plans are subject to the funding requirements under the 
+Employee Retirement Income Security Act of 1974 as amended, (ERISA). There is a regulatory requirement to maintain a minimum 
+funding level of 80% in defined benefit plans in order to avoid benefit restrictions. At their discretion, the sponsoring employers may 
+contribute in excess of this regulatory requirement. Annual contributions are calculated by independent actuaries. For all funded U.S. 
+pension plans, plan assets have been allocated to Siemens Healthineers.  
+U.K.: 
+Presently Siemens Healthineers offers defined benefit and defined contribution benefits through the Siemens Benefit Scheme for 
+which, until the start of retirement, an inflation increase of the majority of accrued (deferred and in payment) defined benefits is 
+mandatory. Siemens Healthineers is currently a participating employer in this pension trust established by Siemens plc. The required 
+annual funding of the defined benefit sections is determined by a funding valuation carried out at least every third year based on legal 
+requirements. For the Siemens Benefit Scheme as well as the smaller pension plans in U.K., plan assets have been allocated to 
+Siemens Healthineers. 
+Switzerland: 
+Following the Swiss law of occupational benefits (BVG) each employer has to grant post-employment benefits for qualifying 
+employees. Accordingly Siemens Healthineers in Switzerland sponsors several cash balance plans. These plans are administered by 
+external foundations. The board of the foundation is responsible for investment policy and the asset management, as well as for any 
+changes in the plan rules and the determination of contributions to finance the benefits. Siemens Healthineers is required to make 
+total contributions at least as high as the sum of the employee contributions set out in the plan rules. In case of an underfunded plan 
+the participating companies together with the employees may be asked to pay supplementary contributions according to a well-
+defined framework of recovery measures.  
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 30 
+Basis for allocation of Siemens Healthineers’ pension plans administrated by Siemens Group  
+During the periods presented, Siemens Healthineers employees in most countries participated in Siemens Group’s pension plans and 
+the respective pension trusts. For these plans, pension benefits are administrated by Siemens Group, but separated for each legal 
+entity. 
+The determination of defined benefit obligation at fiscal year-end of the respective carve-outs is based on the service of the 
+employees under the respective plan. This defined benefit obligation is also the basis for the proportional split of the defined benefit 
+obligation between Siemens Group and Siemens Healthineers for fiscal years prior to the respective carve outs.  
+Plan assets are not managed separately for each participating entities and are allocated to participating entities based on the allocated 
+defined benefit obligation or the plan beneficiaries. 
+The service costs are based on the service of the employees under the respective plans. The interest costs and interest income are 
+based on the allocated DBO and plan assets respectively. 
+The legal separation of the majority of the respective plan assets will take place during fiscal 2018 taking into account legal 
+requirements and therefore, might be different to the allocation applied in the Combined Financial Statements. 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 31 
+Development of the defined benefit plans 
+Defined benefit 
+obligation (DBO) 
+Fair value of plan assets 
+Effects of asset ceiling 
+Net defined benefit 
+balance 
+(I) 
+(II) 
+(III) 
+(I – II + III) 
+Fiscal year 
+Fiscal year 
+Fiscal year 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Balance at begin of fiscal year 
+4,558 
+3,258 
+3,032 
+2,436 
+2,027 
+1,927 
+9 
+11 
+12 
+2,131 
+1,243 
+1,116 
+Current service cost   
+66 
+54 
+55 
+- 
+- 
+- 
+- 
+- 
+- 
+66 
+54 
+55 
+Interest expenses   
+91 
+133 
+121 
+- 
+- 
+- 
+- 
+1 
+1 
+92 
+133 
+121 
+Interest income  
+- 
+- 
+- 
+60 
+83 
+89 
+- 
+- 
+- 
+(60) 
+(83) 
+(89) 
+Other1 
+(4) 
+(6) 
+(6) 
+(8) 
+(6) 
+(5) 
+- 
+- 
+- 
+4 
+- 
+(1) 
+Components of defined benefit costs 
+recognized in the Combined Statements of 
+income 
+154 
+181 
+170 
+52 
+78 
+84 
+0 
+1 
+1 
+102 
+104 
+86 
+Return on plan assets excluding amounts 
+included in net interest income and net interest 
+expenses 
+- 
+- 
+- 
+18 
+265 
+(1) 
+- 
+- 
+- 
+(18) 
+(265) 
+1 
+Actuarial (gains) losses 
+(381) 
+692 
+59 
+- 
+- 
+- 
+- 
+- 
+- 
+(381) 
+692 
+59 
+Effects of asset ceiling 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+(2) 
+(2) 
+3 
+(2) 
+(2) 
+Remeasurements recognized in the 
+Combined Statements of Comprehensive 
+Income 
+(381) 
+692 
+59 
+18 
+265 
+(1) 
+3 
+(2) 
+(2) 
+(396) 
+426 
+59 
+Employer contributions  
+- 
+- 
+- 
+81 
+44 
+20 
+- 
+- 
+- 
+(81) 
+(44) 
+(20) 
+Plan participants’ contributions   
+8 
+9 
+10 
+8 
+9 
+10 
+- 
+- 
+- 
+- 
+- 
+- 
+Benefits paid  
+(194) 
+(166) 
+(123) 
+(173) 
+(141) 
+(106) 
+- 
+- 
+- 
+(22) 
+(25) 
+(17) 
+Settlement payments  
+(3) 
+(2) 
+(44) 
+(3) 
+(2) 
+(44) 
+- 
+- 
+- 
+- 
+- 
+- 
+Business combinations,  disposals and other  
+24 
+708 
+(20) 
+21 
+283 
+(14) 
+- 
+- 
+- 
+3 
+426 
+(6) 
+Foreign currency translation effects   
+(98) 
+(124) 
+175 
+(76) 
+(127) 
+151 
+- 
+(1) 
+- 
+(22) 
+2 
+25 
+Other reconciling items 
+(263) 
+426 
+(2) 
+(141) 
+66 
+16 
+- 
+(1) 
+- 
+(122) 
+358 
+(18) 
+Balance at fiscal year-end 
+4,067 
+4,558 
+3,258 
+2,364 
+2,436 
+2,027 
+12 
+9 
+11 
+1,715 
+2,131 
+1,243 
+thereof: 
+Germany 
+1,722 
+1,966 
+866 
+339 
+357 
+64 
+- 
+- 
+- 
+1,383 
+1,609 
+803 
+U.S.   
+1,116 
+1,270 
+1,214 
+865 
+932 
+884 
+- 
+- 
+- 
+251 
+338 
+329 
+U.K.   
+928 
+984 
+894 
+952 
+953 
+903 
+12 
+9 
+11 
+(13) 
+39 
+2 
+CH 
+87 
+103 
+92 
+79 
+78 
+73 
+- 
+- 
+- 
+8 
+25 
+19 
+Other countries 
+215 
+235 
+192 
+129 
+115 
+103 
+- 
+- 
+1 
+85 
+120 
+90 
+Total 
+4,067 
+4,558 
+3,258 
+2,364 
+2,436 
+2,027 
+12 
+9 
+11 
+1,715 
+2,131 
+1,243 
+thereof provisions for pensions and similar 
+obligations 
+ 
+1,732 
+2,132 
+1,245 
+thereof net defined benefit assets  
+(presented in Other assets) 
+ 
+17 
+1 
+2 
+ 
+ 
+ 
+1 Includes past service benefit/costs, settlement gains/losses and administration costs related to liabilities 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 32 
+Net interest expenses related to provisions for pensions and similar obligations amounted to €31 million, €50 million and €32 
+million, respectively, in fiscal 2017, 2016 and 2015. The DBO is attributable to active employees 40%, 42% and 50%, to former 
+employees with vested rights 19%, 20% and 22%, to retirees and surviving dependents 41%, 38% and 28% respectively, in fiscal 
+2017, 2016 and 2015. 
+The position “business combinations, disposals and other” include a transfer of deferred plan members and retirees in Germany in 
+fiscal 2016 of DBO €704 million and plan assets of €281 million from Siemens AG to Siemens Healthcare GmbH decided on the 
+Siemens annual shareholder meeting January 26, 2016, effective of October 1, 2015. 
+The remeasurements comprise actuarial (gains) and losses resulting from:  
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Changes in demographic assumptions  
+  
+  
+  
+  
+  
+  
+  
+(20) 
+(23) 
+14 
+Changes in financial assumptions  
+  
+  
+  
+  
+  
+  
+  
+(361) 
+729 
+55 
+Experience (gains) losses  
+  
+  
+  
+  
+  
+  
+  
+(1) 
+(13) 
+(10) 
+Total  
+  
+  
+  
+  
+  
+  
+  
+(381) 
+692 
+59 
+ 
+ 
+ 
+Actuarial assumptions 
+The weighted-average discount rate used for the actuarial valuation of the DBO at period-end was as follows: 
+Sep, 30 
+2017 
+2016 
+2015 
+Discount rate 
+  
+  
+  
+  
+  
+  
+  
+2.8% 
+2.2% 
+3.7% 
+EUR 
+  
+  
+  
+  
+  
+  
+  
+2.1% 
+1.0% 
+2.7% 
+USD 
+  
+  
+  
+  
+  
+  
+  
+3.8% 
+3.6% 
+4.3% 
+GBP 
+  
+  
+  
+  
+  
+  
+  
+2.8% 
+2.4% 
+3.9% 
+CHF 
+  
+  
+  
+  
+  
+  
+  
+0.8% 
+0.4% 
+1.0% 
+ 
+ 
+ 
+The discount rate was derived from high-quality corporate bonds with an issuing volume of more than 100 million units in the 
+respective currency zones, which have been awarded an AA rating (or equivalent) by at least one of the three rating agencies 
+Moody’s Investor Service, Standard & Poor’s Rating Services or Fitch Ratings. 
+Applied mortality tables are:  
+Mortality 
+table 
+ 
+2017 
+2016 
+2015 
+Germany 
+  
+Heubeck Richttafeln 2005G (modified) 
+Heubeck Richttafeln 2005G (modified) 
+Heubeck Richttafeln 2005G (modified) 
+U.S. 
+  
+RP-2016 with generational projection from 
+the US Social Security Administration’s Long 
+Range Demographic Assumptions 
+RP-2015 mortality table with MP-2015 
+generational projection 
+RP2014 mortality table with MP2014 
+generational projection 
+U.K. 
+  
+SAPS S2 (Standard mortality tables for Self 
+Administered Pension Schemes with 
+allowance for future mortality improvements) 
+SAPS S2 (Standard mortality tables for Self 
+Administered Pension Schemes with 
+allowance for future mortality 
+improvements) 
+SAPS S2 (Standard mortality tables for Self 
+Administered Pension Schemes with 
+allowance for future mortality improvements) 
+CH 
+  
+BVG 2015G 
+BVG 2015G 
+BVG 2010G 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 33 
+The rates of compensation increase and pension progression for countries with significant effects are shown in the following table. 
+Inflation effects, if applicable, are included in the assumptions below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Sep 30, 
+ 
+ 
+ 
+2017 
+2016 
+2015 
+Compensation increase 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+U.K. 
+  
+  
+  
+  
+  
+  
+  
+3.7% 
+3.6% 
+3.6% 
+CH 
+  
+  
+  
+  
+  
+  
+  
+1.5% 
+1.5% 
+1.5% 
+Pension progression 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Germany 
+  
+  
+  
+  
+  
+  
+  
+1.4% 
+1.4% 
+1.7% 
+U.K. 
+  
+  
+  
+  
+  
+  
+  
+3.0% 
+2.9% 
+2.9% 
+ 
+ 
+ 
+Sensitivity analysis  
+An one-half-percentage-point change of the above assumptions would result in the following increase (decrease) of the DBO: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Effect on DBO due to a one-half percentage-point 
+  
+increase 
+decrease 
+increase 
+decrease 
+increase 
+decrease 
+(in millions of €) 
+  
+  
+  
+  
+  
+Sep 30, 2017 
+Sep 30, 2016 
+Sep 30, 2015 
+Discount rate 
+  
+  
+  
+  
+  
+(261) 
+293 
+(318) 
+366 
+(198) 
+225 
+Rate of compensation increase 
+  
+  
+  
+  
+  
+14 
+(13) 
+18 
+(17) 
+12 
+(11) 
+Rate of pension progression 
+  
+  
+  
+  
+  
+174 
+(165) 
+217 
+(204) 
+138 
+(112) 
+ 
+ 
+ 
+The DBO effect of a 10% reduction in mortality rates for all beneficiaries would be an increase of €105 million, €134 million and 
+€65 million as of September 30, 2017, 2016 and 2015, respectively. 
+During the periods presented, sensitivity determinations apply the same methodology as applied for the determination of the post-
+employment benefit obligation. Sensitivities reflect changes in the DBO solely for the assumption changed.  
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 34 
+Asset Liability Matching Strategies 
+A decline in the plans’ funded status due to adverse developments of plan assets and/or defined benefit obligations resulting from 
+changing parameters is considered as a significant risk. Accordingly, a risk management concept aligned with the defined benefit 
+obligations (Asset Liability Matching) has been implemented. Risk management is based on a worldwide defined risk threshold 
+(Value-at-Risk). The concept, the Value-at-Risk and the asset development including the investment strategy are monitored and 
+adjusted on an ongoing basis under consultation of senior external experts. Independent asset managers are selected based on 
+quantitative and qualitative analysis, which includes their performance and risk evaluation. Derivatives are used to reduce risks as 
+part of risk management.   
+Disaggregation of plan assets 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Equity securities 
+  
+  
+  
+  
+  
+  
+  
+517 
+557 
+495 
+Fixed income securities 
+  
+  
+  
+  
+  
+  
+  
+1,453 
+1,530 
+1,344 
+Government bonds 
+  
+  
+  
+  
+  
+  
+  
+613 
+575 
+526 
+Corporate bonds 
+  
+  
+  
+  
+  
+  
+  
+840 
+955 
+817 
+Alternative investments 
+  
+  
+  
+  
+  
+  
+  
+187 
+123 
+87 
+Multi strategy funds 
+  
+  
+  
+  
+  
+  
+  
+76 
+58 
+- 
+Derivatives 
+  
+  
+  
+  
+  
+  
+  
+10 
+8 
+9 
+Cash and cash equivalents 
+  
+  
+  
+  
+  
+  
+  
+44 
+54 
+24 
+Other assets 
+  
+  
+  
+  
+  
+  
+  
+77 
+104 
+68 
+Total 
+  
+  
+  
+  
+  
+  
+  
+2,364 
+2,436 
+2,027 
+ 
+ 
+ 
+As plan assets are not separately managed for participating entities, for each plan the respective plan assets have been allocated to the 
+different asset classes proportionally to the plan assts allocation of Siemens AG. 
+Virtually all equity securities have quoted prices in active markets. The fair value of fixed income securities is based on prices 
+provided by price service agencies. The fixed income securities are traded in highly liquid markets and almost all fixed income 
+securities are investment grade. Alternative investments mostly include hedge funds; additionally, private equity and real estate 
+investments are included. Multi strategy funds comprise absolute return funds and diversified growth funds that invest in various 
+asset classes within a single fund and aim to stabilize return and reduce volatility. Derivatives predominantly consist of financial 
+instruments for hedging interest rate risk. 
+Future cash flows 
+Employer contributions expected to be paid to defined benefit plans in fiscal 2018 are €92 million. Over the next ten fiscal years, 
+average annual benefit payments of €190 million, €200 million and €146 million, respectively, are expected as of September 30, 
+2017, 2016 and 2015. The weighted average duration of the DBO for Siemens Healthineers defined benefit plans was 14 years as of 
+September 30, 2017, 15 years as of September 30, 2016 and 13 years as of September 30, 2015. 
+Defined contribution plans and state plans 
+The amount recognized as expense for defined contribution plans amounts to €150 million, €153 million and €141 million in fiscal 
+2017, 2016, and 2015 respectively. Contributions to state plans amount to €244 million, €241 million and €243 million in fiscal 
+2017, 2016 and 2015, respectively. 
+ 
+ 
+    
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 35 
+NOTE 16 Provisions  
+ (in millions of €) 
+Warranties 
+Order 
+related 
+losses and 
+risks 
+Other 
+Total 
+Balance as of October 1, 2014 
+242 
+120 
+87 
+449 
+Thereof non-current 
+28 
+82 
+34 
+145 
+Additions 
+197 
+19 
+28 
+243 
+Usage 
+(150) 
+(28) 
+(20) 
+(198) 
+Reversals 
+(44) 
+(33) 
+(15) 
+(92) 
+Translation differences  
+7 
+7 
+2 
+15 
+Transfer from Siemens Group 
+- 
+- 
+7 
+7 
+Other changes  
+7 
+3 
+6 
+15 
+Balance as of September 30, 2015 
+258 
+87 
+94 
+439 
+Thereof non-current  
+32 
+68 
+46 
+145 
+ 
+ 
+ 
+(in millions of €) 
+Warranties 
+Order 
+related 
+losses and 
+risks 
+Other 
+Total 
+Balance as of October 1, 2015 
+258 
+87 
+94 
+439 
+Thereof non-current 
+32 
+68 
+46 
+145 
+Additions 
+200 
+12 
+25 
+236 
+Usage 
+(150) 
+(10) 
+(13) 
+(173) 
+Reversals 
+(34) 
+(3) 
+(10) 
+(47) 
+Translation differences  
+2 
+(1) 
+1 
+2 
+Transfer from Siemens Group 
+- 
+- 
+4 
+4 
+Other changes  
+- 
+2 
+3 
+5 
+Balance as of September 30, 2016 
+276 
+88 
+102 
+466 
+Thereof non-current  
+30 
+61 
+57 
+148 
+ 
+ 
+ 
+(in millions of €) 
+Warranties 
+Order 
+related 
+losses and 
+risks 
+Other 
+Total 
+Balance as of October 1, 2016 
+276 
+88 
+102 
+466 
+Thereof non-current 
+30 
+61 
+57 
+148 
+Additions 
+211 
+31 
+28 
+270 
+Usage 
+(175) 
+(11) 
+(7) 
+(193) 
+Reversals 
+(51) 
+(5) 
+(11) 
+(66) 
+Translation differences  
+(7) 
+(11) 
+(4) 
+(22) 
+Transfer from Siemens Group 
+- 
+- 
+13 
+13 
+Other changes  
+- 
+(1) 
+- 
+(1) 
+Balance as of September 30, 2017 
+253 
+91 
+122 
+467 
+Thereof non-current  
+30 
+62 
+61 
+153 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 36 
+The majority of the Siemens Healthineers’ provisions are expected to result in cash outflows during the next one to 15 years. 
+Warranties relate to products sold. Order related losses and risks are primarily provided for contracts in which the unavoidable costs 
+of meeting the obligations under the contracts exceed the economic benefits expected to be received under it. Other provisions 
+include various types of provisions, such as provisions for asset retirement obligations related to certain items of property, plant and 
+equipment as well as provisions for legal proceedings. 
+Siemens Healthineers is in the course of its normal business operations involved in Legal Proceedings in various jurisdictions. At 
+present, Siemens Healthineers does not expect any matters to have material effects on its financial position, the results of its operations 
+and/or its cash flows.  
+ 
+ 
+NOTE 17 Equity 
+As stated in Note 1 - Basis of preparation, Siemens Healthineers was not a legal group for Consolidated Financial Statements reporting 
+purposes in accordance with IFRS 10, Consolidated Financial Statements, in the periods presented. The equity was presented on the basis 
+of the aggregation of the net assets of the Siemens Healthineers business under the control of Siemens AG and centrally managed by the 
+Managing Board of Siemens Healthineers. 
+Since the combined group does not show any subscribed capital, a presentation of earnings per share in accordance with IAS 33, 
+Earnings per share, is not applicable.  
+Capital Management  
+Capital Management for Siemens Healthineers was performed by Siemens Group and includes the consideration of legal requirements 
+relating to the equity and liquidity requirements of Siemens AG and Siemens Group during the periods presented.  
+Other changes in equity 
+During the periods presented in the Combined Financial Statements, the line item Other changes in equity as included in the Combined 
+Statements of Changes in Equity mainly contains specifics in relation to the combination rules described in Note 1 - Basis of preparation. 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 37 
+NOTE 18 Commitments and other financial obligations  
+Guarantees and other contingent liabilities  
+Guarantees issued by Siemens Healthineers’ entities were centrally managed by Siemens Group. Guarantees issued under these 
+agreements on behalf of Siemens Healthineers’ entities and other contingent liabilities are deemed immaterial for fiscal 2017, 2016 
+and 2015.  
+Other financial obligations  
+Other financial obligations arose from operating leases. The maturity of the corresponding non-discounted minimum lease payments 
+are presented in the following table.   
+Future payment obligations under non-cancellable operating leases are:  
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Within 1 year 
+111  
+97  
+88  
+Between 1 and 5 years 
+206  
+156  
+125  
+After 5 years 
+93  
+45  
+35  
+410  
+298  
+248  
+ 
+ 
+ 
+ 
+Total operating rental expenses for the fiscal years ended September 30, 2017, 2016 and 2015 were €272 million, €287 million and 
+€320 million, respectively.  
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 38 
+NOTE 19 Financial instruments and hedging activities  
+Financial instruments  
+The following table discloses the carrying amounts of each category of financial assets and financial liabilities:  
+ 
+ 
+ 
+ 
+  
+ 
+Sep 30, 
+ 
+  
+ 
+2017 
+2016 
+2015 
+(in millions of €) 
+  
+Category of  
+financial assets  
+and financial liabilities 
+Measurement/  
+Fair Value 
+hierarchy  
+Carrying  
+amount 
+Carrying  
+amount 
+Carrying  
+amount 
+Loans and receivables 
+1)  LaR 
+Amortized cost 
+2,359 
+2,233 
+2,018 
+Cash and cash equivalents 
+  
+n.a. 
+- 
+184 
+206 
+73 
+Derivatives designated in a hedge accounting relationship 
+  
+n.a. 
+Level 2 
+4 
+11 
+19 
+Derivatives not designated in a hedge accounting relationship 
+  
+FAHfT 
+Level 2 
+7 
+7 
+18 
+Available-for-sale financial assets 
+2) AfS 
+At cost / Level 1 
+50 
+50 
+46 
+Receivables and other receivables from Siemens Group 
+  
+LaR 
+Amortized cost 
+4,356 
+3,952 
+4,056 
+Financial assets   
+  
+  
+  
+6,959 
+6,459 
+6,229 
+  
+  
+  
+  
+Financial liabilities measured at amortized costs  
+3) FLaC 
+Amortized cost 
+1,273 
+1,153 
+1,049 
+Derivatives designated in a hedge accounting relationship 
+  
+n.a. 
+Level 2 
+6 
+11 
+9 
+Derivatives not designated in a hedge accounting relationship 
+  
+FLHfT 
+Level 2 
+6 
+14 
+14 
+Payables and other liabilities to Siemens Group 
+FLaC 
+Amortized cost 
+10,962 
+11,466 
+10,493 
+Financial liabilities   
+  
+  
+  
+12,247 
+12,644 
+11,565 
+ 
+ 
+ 
+ 
+ 
+Categories of financial assets and financial liabilities:  
+LaR = Loans and receivables, FAHfT = Financial assets held-for-trading, AfS = Available-for-sale; FLaC = Financial liabilities measured at amortized cost; FLHfT = Financial liabilities held–
+for-trading  
+ 
+1) Reported in the following line items: Trade and other receivables, Other current financial assets, Other financial assets - except for separately disclosed derivative financial instruments and 
+available-for-sale financial assets; including trade receivables from the sale of goods and services and other trade receivables as of 2017, 2016 and 2015 amounting to €2,174 million, 
+€2,050 million and €1,845 million 
+ 
+2) Thereof including equity instruments classified as available-for-sale, for which a fair value could not be reliably measured and which are recognized at cost (2017: €42 million, 2016: 
+€44 million and 2015: €40 million). In addition, the fair value (Level 1) of available-for-sales financial assets as of September 30, 2017, 2016 and 2015 amounting to €8 million, €6 million and 
+€6 million  
+ 
+3) Reported in the following line items: Short-term debt and current maturities of long-term debt, Trade payables, Other current financial liabilities, Long-term debt, Other financial liabilities - 
+except for separately disclosed derivative financial instruments; including obligations under finance lease as of 2017, 2016 and 2015 amounting to €24 million, €22 million and €22 million 
+ 
+The loans and receivables and the financial liabilities measured at amortized costs also include receivables and liabilities under finance 
+leases in which Siemens Healthineers is the lessor or lessee and which therefore are accounted in accordance with IAS 17.  
+The fair values of cash and cash equivalents, trade and other receivables (all short-term), loans from banks, trade payables (all short-
+term), short-term payables to Siemens Group as well as other current financial assets and other current financial liabilities approximate 
+their carrying amount due to short-term maturities of these instruments.  
+The carrying amount of the other liabilities to Siemens Group (residual term > 1year) which related to Siemens Healthineers’ business in 
+the United States was €5,052 million and €5,343 million as of September 30, 2017 and 2016, respectively, (see Note 14 – Debt) while the 
+fair values amounted to €4,883 million and €5,327 million, respectively which are based on prices provided by price service agencies at 
+the period-end date (Level 2). The fair value of the remaining long-term loans to Siemens Healthineers provided by Siemens Group 
+approximate the carrying amount as the interest rates approximate market rates.  
+The fair values of obligations under finance lease as well as other financial liabilities are estimated by discounting future cash flows 
+using market rates. The fair values approximate the carrying amount because these obligations are mainly short-term.  
+Long-term receivables are evaluated by Siemens Healthineers based on parameters such as interest rates, specific country risk factors, 
+and individual creditworthiness of the customer. Based on this evaluation, allowances for these receivables are taken into account. The 
+carrying amounts of such receivables, net of allowances, approximate the fair value.  
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 39 
+Siemens Healthineers enters into derivative contracts with Siemens Corporate Treasury in accordance with Siemens Group policies. The 
+fair values of derivative financial instruments depend on the specific type of instrument.  
+The fair value of foreign currency exchange contracts is based on forward exchange rates. Options are generally valued based on quoted 
+market prices or based on option pricing models. In determining the fair values of the derivative financial instruments, no compensating 
+effects from underlying transactions are taken into consideration. 
+The levels of the fair value hierarchy and its application to the financial assets and financial liabilities are described below:  
+Level 1:   
+quoted prices in active markets for identical assets or liabilities; 
+Level 2:   
+ 
+inputs other than quoted prices that are observable for the asset or liability, either directly (i.e. as prices) or 
+indirectly (i.e. derived from prices); and 
+Level 3:  
+ 
+inputs for the asset or liability that are not based on observable market data. 
+ 
+Derivative financial instruments and hedging activities  
+As part of Siemens Healthineers’ risk management approach, derivative financial instruments are used to reduce the risks resulting 
+primarily from fluctuations in foreign currency exchange rates.  
+In fiscal 2017, 2016 and 2015, Siemens Healthineers does not have any material derivative financial instruments relating to interest rate 
+or commodity prices. Siemens Healthineers is mainly financed by Siemens Corporate Treasury of Siemens AG which is also actively 
+managing the interest rate risks.  
+For additional information regarding Siemens Healthineers’ risk management please refer to Note 20 – Financial Risk Management.  
+Foreign currency exchange rate risk management 
+Derivative financial instruments not designated in a hedging relationship 
+Risks associated with fluctuations in foreign currency denominated receivables, payables, debt, firm commitments and forecast 
+transactions were centrally managed by Siemens Corporate Treasury of Siemens AG in favor of Siemens Healthineers.  
+Under this approach the risks are aggregated centrally, and various derivative financial instruments, primarily foreign currency exchange 
+contracts, foreign currency swaps and options, are utilized to minimize such risks. Such a strategy does not qualify for hedge accounting 
+treatment.  
+Cash flow hedges 
+Siemens Healthineers’ operating units apply hedge accounting for certain significant transactions and firm commitments denominated in 
+foreign currencies. In particular, Siemens Healthineers has entered into foreign currency exchange contracts to reduce the risk of 
+variability of future cash flows resulting from forecast sales and purchases as well as firm commitments. 
+As of September 30, 2017, 2016 and 2015, the maximum maturity of the main portion of derivative financial instruments which are used 
+to hedge future cash flows is 12 months.  
+Changes in fair value of foreign exchange contracts that were designated as hedging instruments in foreign-currency cash flow hedges 
+are recorded in line item Other comprehensive income, net of income taxes.  
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 40 
+NOTE 20 Financial risk management 
+Siemens Healthineers is managed centrally by the Managing Board, which is responsible for the operating business of Siemens 
+Healthineers. It manages and controls its financial risks in accordance with Siemens Group policies. During the periods presented, 
+Siemens Healthineers delegated responsibilities to central functions of Siemens Group.  
+Market risks  
+Increasing market fluctuations may result in significant earnings and cash flow volatility risk for Siemens Healthineers. Its 
+worldwide operating business as well as its investment and financing activities are affected particularly by changes in foreign 
+exchange rates and interest rates.  
+In order to optimize the allocation of the financial resources across its segments and entities, as well as to achieve its aims, Siemens 
+Healthineers identifies, analyzes and manages the associated market risks. Siemens Healthineers seeks to manage and control these 
+risks primarily through its regular operating and financing activities, and uses derivative financial instruments when deemed 
+appropriate. Regarding financing activities monitoring and control was performed by Siemens AG in the reporting period.  
+The management of financial market risk is a priority for Siemens Healthineers’ management. As a member of management, the 
+Chief Financial Officer has specific responsibility for this part of the overall risk management system. For practical business 
+purposes, management delegates responsibilities to central functions, like the Siemens Corporate Treasury department, and to 
+individual Siemens Healthineers’ entities.  
+In order to quantify market risks Siemens Healthineers has implemented a system based on parametric variance-covariance Value at 
+Risk (VaR). The concept of VaR is also used for internal management of the treasury activities of Siemens Group. The VaR figures 
+are calculated based on historical volatilities and correlations of various risk factors, a ten day holding period, and a 99.5% 
+confidence level.  
+Actual results that are included in the Combined Statements of Income or Combined Statements of Comprehensive Income may 
+differ substantially from VaR figures due to fundamental conceptual differences. While the Combined Statements of Income and 
+Combined Statements of Comprehensive Income are prepared in accordance with IFRS, the VaR figures are the output of a model 
+with a purely financial perspective and represent the potential financial loss which will not be exceeded within ten days with a 
+probability of 99.5%.  
+Although VaR is an important tool for measuring market risk, the assumptions on which the model is based give rise to some 
+limitations including the following. A ten day holding period assumes that it is possible to dispose of the underlying positions within 
+this period. This may not be valid during continuing periods of illiquid markets. A 99.5% confidence level means, that there is a 0.5% 
+statistical probability that losses could exceed the calculated VaR. The use of historical data as a basis for estimating the statistic 
+behavior of the relevant markets and finally determining the possible range of the future outcomes on the basis of this statistic 
+behavior may not always cover all possible scenarios, especially those of an exceptional nature.  
+Any market sensitive instruments, including equity and interest bearing investments, that Siemens Healthineers’ pension plans hold 
+are not included in the following quantitative and qualitative disclosures.  
+ 
+Foreign currency exchange rate risk 
+Transaction risk 
+Each Siemens Healthineers entity conducting businesses with international counterparties leading to future cash flows denominated in a 
+currency other than its functional currency is exposed to risks from changes in foreign currency exchange rates. In the ordinary course of 
+business Siemens Healthineers’ entities are exposed to foreign currency exchange rate fluctuations, particularly between the U.S. dollar 
+and the euro.  
+Siemens Healthineers defines foreign exchange rate exposure as the net amount of foreign currency denominated monetary items of the 
+Combined Statements of Financial Position in addition to foreign currency denominated cash inflows and cash outflows from anticipated 
+transactions at least for the following three months. This foreign currency exposure is determined based on the respective functional 
+currencies of the exposed Siemens Healthineers entities. 
+Foreign currency exchange rate exposure is partly balanced by purchasing of goods, commodities and services in the respective 
+currencies as well as production activities and other contributions along the value chain in the local markets.  
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 41 
+Siemens Healthineers’ entities are prohibited from borrowing or investing in foreign currencies on a speculative basis. Financing from 
+Siemens Group or investments of operating units are preferably carried out in their functional currency.  
+Siemens Healthineers’ entities are bound by a foreign exchange risk management system established within the Siemens Group. Each 
+Siemens Healthineers’ entity is responsible for recording, assessing and monitoring its foreign currency transaction exposure.  
+The binding guideline provides the concept for the identification and determination of the single net currency position and commits the 
+entities to hedge at least 75% but no more than 100% of their net foreign currency exposure. Hedging transactions are carried out 
+primarily with the Siemens Corporate Treasury of Siemens Group as counterparty. 
+As of September 30, 2017, 2016 and 2015 the VaR relating to foreign currency exchange rates was €94 million, €64 million and 
+€119 million.   
+This VaR was calculated under consideration of items of the Combined Statements of Financial Position in addition to firm 
+commitments which are denominated in foreign currencies, as well as foreign currency denominated cash flows from forecast 
+transactions for the following twelve months.  
+Translation risk 
+Many Siemens Healthineers’ entities are located outside the euro zone. Since the financial reporting currency of Siemens Healthineers is 
+the euro, the financial statements of these entities are translated into euro for the preparation of the Combined Financial Statements. To 
+consider the effects of foreign currency translation in the risk management, the general assumption is that investments in foreign-based 
+operations are permanent and that reinvestment is continuous. Effects from foreign currency exchange rate fluctuations on the translation 
+of net asset amounts into euro are reflected in the Siemens Healthineers’ combined equity position.  
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 42 
+Interest rate risk  
+Siemens Healthineers’ exposure to the risk of changes in market interest rates relates to short-term bank loans and money market 
+borrowings and investments at Siemens Financial Services (“SFS”), mainly with fixed rates of interest. Long-term liabilities mainly 
+relate to loans with Siemens Group.   
+Siemens Healthineers is mainly financed by Siemens Group through SFS and interest rate risk management is performed at the level of 
+Siemens AG. Consequently, until the end of fiscal 2017, Siemens Healthineers did not actively manage its interest rate risk. As of 
+September 30, 2017, 2016 and 2015 the VaR relating to interest rates was €2 million, €1 million and €1 million.   
+Liquidity risk 
+Liquidity risk results from Siemens Healthineers’ inability to meet its financial liabilities. In the periods presented Siemens 
+Healthineers was therefore largely financed by Siemens Group through SFS and invested excess liquidity using Siemens AG’s cash 
+pooling and cash management systems.  
+In addition, Siemens Healthineers has implemented an effective working capital and cash management. 
+The Siemens Healthineers’ liquidity reserve as of September 30, 2017, 2016 and 2015 of cash and cash equivalents amounts to 
+€184 million, €206 million and €73 million, respectively.  
+The following table reflects the contractually fixed pay-offs for settlement, repayments and interest. The disclosed expected 
+undiscounted net cash outflows from derivative financial liabilities are determined based on each particular settlement date of an 
+instrument and based on the earliest date on which Siemens Healthineers could be required to pay. Cash outflows for financial 
+liabilities (including interest) without fixed amount or timing are based on the conditions existing as of September 30, 2017. 
+Fiscal year 
+  
+2018 
+2019  
+2020 to 2022 
+2023 and thereafter 
+Non-derivative financial liabilities 
+  
+  
+ 
+ 
+Loans from banks  
+47  
+- 
+- 
+- 
+Obligations under finance leases 
+8  
+8 
+8 
+- 
+Trade payables  
+1,120 
+- 
+- 
+- 
+Other financial liabilities 
+72  
+8 
+12 
+2 
+Payables and other liabilities to Siemens Group 
+5,918  
+1,347  
+1,314 
+3,713  
+Derivative financial liabilities 
+13  
+- 
+- 
+- 
+ 
+ 
+ 
+ 
+The risk implied from the values shown in the table above, reflects the one-sided scenario of cash outflows only. Obligations under 
+trade payables and other financial liabilities including finance leases, mainly originate from the financing of assets used in Siemens 
+Healthineers’ ongoing operations such as property, plant, equipment and investments in working capital – e.g. inventories and trade 
+receivables.  
+These assets are considered in Siemens Healthineers’ overall liquidity risk management. To monitor existing financial assets and 
+liabilities as well as to enable an effective controlling of future risks, Siemens Healthineers participates in a comprehensive risk 
+reporting established by Siemens Group, which covers its worldwide business. 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 43 
+Credit risk 
+Credit risk is defined as an unexpected loss in cash and earnings if the customer is unable to pay its obligations in due time or if the 
+value of collateral declines.  
+The effective monitoring and controlling of credit risk through credit evaluations and ratings is a core competency of Siemens 
+Healthineers’ risk management system. Siemens Healthineers is bound to the credit policy implemented by Siemens Group. In 
+principle, each Siemens Healthineers’ entity is responsible for managing credit risk in its operating activities. Depending on the 
+nature of the operating activities and the level of credit risk, additional credit risk monitoring and controls are performed both by 
+each entity and by Siemens Group which can perform further credit evaluations and ratings, if applicable. Ratings and individually 
+defined credit limits are mainly based on generally accepted rating methodologies, with the input consisting of information obtained 
+from the customer, external rating agencies, data service providers and credit default experiences. Ratings and credit limits are 
+carefully considered in determining the conditions under which direct or indirect financing will be offered to customers by Siemens 
+Healthineers.  
+ 
+For analysis and monitoring of the credit risk Siemens Healthineers applies different systems and processes developed by Siemens 
+Group. A central IT application is available that processes data from the operating units together with rating and default information 
+and calculates an estimate which may be used as a basis for individual bad debt provisions. In addition to this automated process, 
+qualitative information is considered in particular to incorporate the latest developments.  
+Certain operating entities of Siemens Healthineers transferred their current trade receivables along with the inherent credit risk to the 
+Siemens Credit Warehouse, but are still responsible for the administration of the trade receivables. The Siemens Credit Warehouse 
+actively identifies, quantifies and manages the credit risk in its portfolio, such as by selling or hedging exposure to specific 
+customers, countries and industries.  
+There were no significant concentrations of credit risk as of September 30, 2017, 2016 and 2015.  
+The maximum exposure to credit risk of financial assets, without taking account of any collateral, is represented by their carrying 
+amount.  
+As of September 30, 2017, 2016 and 2015 the collateral held for financial instruments classified as financial assets measured at 
+amortized costs amounted to €72 million, €51 million and €69 million, respectively.  
+Concerning trade receivables and other receivables, as well as loans or receivables which are neither impaired nor past due, there 
+were no indications that defaults in payment obligations will occur, lead to a decrease in the net assets. Overdue financial instruments 
+are generally impaired on a portfolio basis in order to reflect losses incurred within the respective portfolios. When substantial 
+expected payment delays become evident, overdue financial instruments are assessed individually for additional impairment and are 
+further allowed for as appropriate.  
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 44 
+NOTE 21 Share-based payments 
+Share-based payment awards may be settled in newly issued shares of capital stock of Siemens AG, in treasury shares or in cash. Share-
+based payment awards may forfeit if the employment of the beneficiary terminates prior to the expiration of the vesting period. At 
+Siemens Group level, these share-based payment plans are predominantly designed and accounted for as equity-settled plans and to a 
+limited extent as cash-settled plans. 
+In the Combined Financial Statements of Siemens Healthineers the classification of share-based payment plans has been adjusted to 
+fulfill the specific requirements for share-based payment transactions among group entities. In the majority of the cases, Siemens 
+Healthineers carries the contractual obligation against its employees to settle the share-based payment transactions at the end of the 
+vesting period. Consequently, Siemens Healthineers accounts for these share-based payment plans as cash-settled plans.  
+The carrying amount of liabilities from share-based payment transactions, included in the line item Other liabilities and Other current 
+liabilities in the Combined Financial Statements, is €143 million as of September 30, 2017 (€92 million and €50 million for the years 
+ended September 30, 2016 and 2015, respectively). Total pretax expense for share-based payment amounted to €81 million for the year 
+ended September 30, 2017 (€67 million and €18 million for the years ended September 30, 2016 and 2015, respectively). 
+Stock Awards 
+Siemens Healthineers grants stock awards to members of the senior management, and other eligible employees. Stock awards are subject 
+to a restriction period of about four years and entitle the beneficiary to receive Siemens AG shares without payment of consideration 
+following the restriction period. 
+Stock awards are tied to performance criteria of Siemens AG. The annual target amount for stock awards can be bound to the average of 
+earnings per share (EPS, basic) of the past three fiscal years and/or to the share price performance of Siemens AG relative to the share 
+price performance of five important competitors (SPAC) during the four-year restriction period. The target attainment for the 
+performance criteria SPAC ranges between 0% and 200%. If the target attainment of the prospective performance-based target of 
+Siemens AG stock relative to five competitors exceeds 100%, an additional cash payment results corresponding to the outperformance. 
+The vesting period is four years. 
+In fiscal 2017, 289,246 stock awards were granted contingent upon attaining the prospective performance-based target of Siemens AG 
+stock relative to five competitors (247,848 stock awards and 133,723 stock awards in fiscal 2016 and fiscal 2015, respectively). The fair 
+value of these stock awards amounting to €19 million in fiscal 2017 (€14 million and €7 million in fiscal 2016 and fiscal 2015, 
+respectively), was calculated by applying a valuation model. In fiscal 2017 inputs to that model include an expected weighted volatility 
+of Siemens AG shares of 22.79% (22% and 22% in fiscal 2016 and fiscal 2015, respectively) and a market price of €107.95 per Siemens 
+AG share (€92.86 and €88.03 in fiscal 2016 and fiscal 2015, respectively). Expected volatility was determined by reference to historic 
+volatilities. The model applies a risk-free interest rate of up to 0.03% in fiscal 2017 (up to 0.1% and up to 0.3% in fiscal 2016 and fiscal 
+2015, respectively) and an expected dividend yield of 3.33% in fiscal 2017 (3.8% and 3.8% in fiscal 2016 and fiscal 2015, respectively). 
+Assumptions concerning share price correlations were determined by reference to historic correlations. 
+Furthermore during fiscal 2017, 47,090 stock awards were granted to members of the senior management, and other eligible employees 
+for extraordinary achievements based on a special allocation from the CEO of the Siemens Group (58,470 stock awards and 35,638 stock 
+awards in fiscal 2016 and fiscal 2015, respectively). These stock awards are only subject to a restriction period of about four years. The 
+fair value amounts to €5 million in fiscal 2017 (€4 million and €3 million in fiscal 2016 and fiscal 2015, respectively). 
+Changes in the number of stock awards held by members of the senior management, and other eligible employees are: 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+ 
+2017 
+2016 
+2015 
+Non-vested, beginning of period 
+860,751 
+802,261 
+630,673 
+Granted 
+ 
+336,336 
+306,318 
+212,367 
+Vested and fulfilled 
+ 
+(189,957) 
+(109,557) 
+- 
+Forfeited 
+ 
+(46,267) 
+(133,931) 
+(20,164) 
+Settled 
+ 
+(63) 
+(4,340) 
+(20,615) 
+Non-vested, end of period 
+960,800 
+860,751 
+802,261 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 45 
+Share Matching Program and its underlying plans 
+In fiscal 2017, Siemens AG issued a new tranche under each of the plans of the Share Matching Program. 
+Share Matching Plan 
+Under the Share Matching Plan senior managers may invest a specified part of their variable compensation in Siemens AG shares 
+(investment shares). The shares are purchased at the market price at a predetermined date in the second quarter. Plan participants receive 
+the right to receive one Siemens AG share without payment of consideration (matching share) for every three investment shares 
+continuously held over a period of about three years (vesting period) provided the plan participant has been continuously employed by 
+Siemens Group including Siemens Healthineers until the end of the vesting period.  
+Monthly Investment Plan 
+Under the Monthly Investment Plan employees other than senior managers may invest a specified part of their compensation in Siemens 
+AG shares on a monthly basis over a period of twelve months. Shares are purchased at market price at a predetermined date once a 
+month. If the Managing Board of Siemens AG decides that shares acquired under the Monthly Investment Plan are transferred to the 
+Share Matching Plan, plan participants will receive the right to matching shares under the same conditions applying to the Share 
+Matching Plan described above with a vesting period of about two years since fiscal 2016 (in fiscal 2015 about three years). The 
+Managing Board of Siemens AG decided that shares acquired under the tranches issued in fiscal 2016, 2015 and 2014 are transferred to 
+the Share Matching Plan as of February 2017, February 2016 and February 2015, respectively. 
+Base Share Program 
+Under the Base Share Program employees of participating Siemens Healthineers companies may invest a fixed amount of their 
+compensation in Siemens AG shares. The shares are bought at market price at a predetermined date in the second quarter and grant the 
+right to receive matching shares under the same conditions applying to the Share Matching Plan described above. The fair value of the 
+Base Share Program amounted to €4 million in fiscal 2017 (€4 million and €4 million in fiscal 2016 and 2015, respectively).  
+Resulting Matching Shares 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+ 
+2017 
+2016 
+2015 
+Outstanding, beginning of period 
+230,810 
+219,521 
+239,845 
+Granted 
+ 
+94,914 
+102,064 
+75,532 
+Vested and fulfilled 
+ 
+(63,963) 
+(73,641) 
+(70,652) 
+Forfeited 
+ 
+(11,850) 
+(10,545) 
+(9,638) 
+Settled 
+ 
+(5,152) 
+(6,589) 
+(15,566) 
+Outstanding, end of period 
+244,759 
+230,810 
+219,521 
+ 
+ 
+ 
+ 
+The weighted average fair value of matching shares granted in fiscal 2017 amounting to €92.60 per share (€65.78 and €69.43 per share in 
+fiscal 2016 and fiscal 2015, respectively) was determined as the market price of Siemens AG shares less the present value of expected 
+dividends taking into account non-vesting conditions.  
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 46 
+Siemens Profit Sharing  
+The Managing Board of Siemens AG decides annually on the issuance of a new Siemens Profit Sharing tranche and determines the 
+targets to be met for the current fiscal year. At fiscal year-end, based on the actual target achievement, the Managing Board of Siemens 
+AG decides in its discretion on the amount to be transferred to the Profit-Sharing-Pool; this transfer is limited to a maximum of €400 
+million annually. If the Pool amounts to a minimum of €400 million after one or more fiscal years, it will be transferred to eligible 
+employees below senior management in full or partially through the grant of free Siemens AG shares. As of September 30, 2017, €300 
+million are in the Profit-Sharing-Pool, thereof €46 million have been allocated to Siemens Healthineers. Expense is recognized pro rata 
+over the estimated vesting period. 
+In November 2017, €100 million were transferred to the Profit-Sharing-Pool, thereof €15 million allocated to Siemens Healthineers; it 
+was decided that the Pool amounting to €400 million will be transferred to eligible Siemens Group and Siemens Healthineers’ employees 
+in March 2018. 
+Jubilee Share Program 
+For their 25th and 40th service anniversary, eligible employees receive jubilee shares. There were 432 thousand entitlements to jubilee 
+shares outstanding for Siemens Healthineers employees in Germany as of September 30, 2017 (417 thousand and 412 thousand as of 
+September 30, 2016 and 2015, respectively). 
+ 
+ 
+NOTE 22 Personnel costs  
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Wages and salaries 
+3,729 
+3,558 
+3,331 
+Statutory social welfare contributions and expenses for optional support 
+560 
+535 
+518 
+Expenses relating to post-employment benefits  
+240 
+221 
+210 
+Personnel costs 
+4,529 
+4,314 
+4,059 
+ 
+ 
+ 
+Severance charges amount to €57 million in fiscal 2017 (€61 million in fiscal 2016 and €62 million in fiscal 2015), respectively. Item 
+Expenses relating to post-employment benefits includes service costs for the period. 
+ 
+Employees were engaged in (averages; part time employees are included proportionally): 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in thousands) 
+2017 
+2016 
+2015 
+Manufacturing and services 
+27 
+26 
+26 
+Sales and marketing 
+10 
+10 
+10 
+Research and development 
+8 
+8 
+6 
+Administration and general services 
+2 
+2 
+1 
+ 
+47 
+46 
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 47 
+NOTE 23 Segment information  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+External Revenue 
+Intersegment Revenue 
+Total Revenue 
+Profit 
+ 
+Fiscal year 
+Fiscal year 
+Fiscal year 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Imaging 
+7,976 
+7,767 
+7,185 
+240 
+240 
+197 
+8,216 
+8,007 
+7,382 
+1,624 
+1,571 
+1,298 
+Diagnostics 
+4,161 
+4,138 
+4,138 
+- 
+- 
+- 
+4,162 
+4,138 
+4,138 
+562 
+514 
+621 
+Advanced Therapies 
+1,508 
+1,449 
+1,433 
+10 
+11 
+14 
+1,519 
+1,460 
+1,447 
+335 
+286 
+269 
+Total Segments 
+13,646 13,355 12,756 
+250 
+251 
+211 13,896 13,606 12,967 
+2,521 
+2,371 
+2,187 
+Reconciliation to Combined Financial Statements  
+150 
+192 
+181 
+(250) 
+(251) 
+(211) 
+(100) 
+(59) 
+(30) 
+(477) 
+(453) 
+(311) 
+Siemens Healthineers 
+13,796 13,547 12,936 
+- 
+- 
+- 13,796 13,547 12,936 
+2,044 
+1,918 
+1,876 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Assets 
+Free Cash Flow 
+Additions to intangible 
+assets and property, plant 
+and equipment and 
+additions to assets leased 
+to others in operating 
+leases 
+Amortization, 
+depreciation & 
+impairments 
+ 
+Sep 30, 
+Fiscal year 
+Fiscal year 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Imaging 
+6,025 
+6,253 
+6,201 
+1,596 
+1,599 
+1,484 
+125 
+122 
+91 
+137 
+140 
+128 
+Diagnostics 
+3,858 
+4,059 
+4,077 
+329 
+341 
+337 
+450 
+430 
+420 
+235 
+226 
+217 
+Advanced Therapies 
+879 
+873 
+959 
+298 
+323 
+281 
+10 
+10 
+10 
+10 
+10 
+12 
+Total Segments 
+10,761 11,185 11,238 
+2,222 
+2,263 
+2,103 
+585 
+562 
+521 
+383 
+376 
+358 
+Reconciliation to Combined Financial Statements 
+9,679 
+9,110 
+8,219 
+(713) 
+(838) 
+(558) 
+110 
+97 
+35 
+189 
+215 
+205 
+Siemens Healthineers  
+20,440 20,295 19,457 
+1,509 
+1,425 
+1,545 
+695 
+659 
+556 
+572 
+591 
+563 
+ 
+ 
+ 
+ 
+ 
+Description of reportable segments 
+Siemens Healthineers manages its business through three reportable segments as outlined below. For purposes of preparing these 
+Combined Financial Statements, the segment reporting as implemented is retrospectively applied to the periods presented:  
+ Imaging, which offers diagnostic imaging products and a broad portfolio of advanced imaging and ultrasound systems and solutions; 
+ Diagnostics offers products, services and solutions, including a broad array of  testing applications, in the areas of laboratory, point of 
+care and molecular diagnostics; 
+ Advanced Therapies is a supplier of advanced therapy products, services and solutions to the therapy departments of healthcare 
+providers. 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 48 
+Reconciliation to Combined Financial Statements 
+Pensions—includes the centrally carried income (expense) related to pension obligations not allocated to the segments as well as the 
+centrally managed pension assets and liabilities. 
+Siemens Healthineers Real Estate—Siemens Healthineers Real Estate manages Siemens Healthineers’ entire real estate business 
+portfolio, operates the properties, and is responsible for building projects and the purchase and sale of real estate. 
+Eliminations, Corporate Treasury, Corporate Items, and other items—comprise consolidation of transactions between the segments, 
+certain reconciliation and reclassification items and the activities of the Corporate Treasury. Corporate items includes corporate costs, 
+such as group managing costs, corporate projects, the amortization of intangible assets acquired in previous business combinations. In 
+addition, it includes the business activities and special topics which are not allocated directly to a Segment, because the Managing Board 
+does not consider them to be indicative of the Segment’s performance. It also includes interest income and expense, such as, for 
+example, interest not allocated to segments (referred to as financing interest), interest related to Corporate Treasury activities or resulting 
+consolidation and reconciliation effects on interest.  
+ 
+Measurement – Segments 
+Accounting policies for segment information are generally the same as those used for the Combined Financial Statements. Intersegment 
+transactions are based on market prices. 
+Profit 
+Siemens Healthineers’ Managing Board is responsible for assessing the performance of the segments (chief operating decision maker). 
+Siemens Healthineers’ profitability measure of the segments is income before income taxes, financing interest, certain pension costs and 
+amortization expenses of intangible assets acquired in business combinations as determined by the chief operating decision maker 
+(Profit). The major categories of items excluded from Profit are presented below. 
+Decisions on essential pension items are made centrally. Accordingly, Profit primarily includes amounts related to service cost of 
+pension plans only, while all other regularly recurring pension related costs are included in reconciliations in the line item Centrally 
+carried pension expense. 
+Financing interest, excluded from Profit, is any interest income or expense other than interest income related to receivables from 
+customers, from cash allocated to the segments and interest expenses on payables to suppliers. Financing interest is excluded from Profit 
+because decision-making regarding financing is typically made at the corporate level. 
+Amortization expenses of other intangible assets acquired in business combinations are not part of Profit. Furthermore, income taxes are 
+excluded from Profit since income tax is subject to legal structures, which typically do not correspond to the structure of the segments. 
+This may also be the case for items that refer to more than one reportable segment, Siemens Healthineers Real Estate and (or) have a 
+corporate or central character. Costs for support functions are primarily allocated to the segments.  
+Assets 
+Management determined Assets (Net capital employed) as a measure to assess capital intensity of the segments. Its definition 
+corresponds to the Profit measure except for amortization expenses of intangible assets acquired in business combinations which are not 
+part of Profit; however, the related intangible assets are included in the segments’ Assets. Segment Assets is based on Total assets of the 
+Combined Statements of Financial Position, primarily excluding financing receivables from Siemens Group and tax related assets, since 
+the corresponding positions are excluded from Profit. The remaining assets are reduced by non-interest-bearing liabilities other than tax 
+related liabilities, e.g. trade payables, to derive Assets. 
+Free cash flow 
+Free cash flow constitutes cash flows from operating activities less additions to intangible assets and property, plant and equipment. Free 
+Cash Flow on segment level, further excludes financing interest and income tax as well as certain other payments and proceeds. 
+Amortization, depreciation and impairments 
+Amortization, depreciation and impairments includes depreciation and impairments of property, plant and equipment as well as 
+amortization and impairments of intangible assets each net of reversals of impairment. 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 49 
+Reconciliation to Combined Financial Statements 
+ 
+Profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Total Segments  
+2,521 
+2,371 
+2,187 
+Centrally carried pension expense 
+(57) 
+(63) 
+(46) 
+Amortization of other intangible assets acquired in business combinations 
+(147) 
+(179) 
+(180) 
+Eliminations, Corporate Treasury, Corporate Items, other items 
+(274) 
+(210) 
+(85) 
+Reconciliation to Combined Financial Statements 
+(477) 
+(453) 
+(311) 
+Siemens Healthineers – Income before income taxes  
+2,044 
+1,918 
+1,876 
+ 
+ 
+ 
+ 
+In fiscal 2017, 2016 and 2015, Corporate Treasury includes interest expense of €246 million, €177 million and €82 million, respectively, 
+related to loans with Siemens Group. 
+ 
+ 
+Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Total Segments  
+10,761 
+11,185 
+11,238 
+Assets pensions 
+24 
+2 
+2 
+Assets Real Estate 
+578 
+615 
+449 
+Asset-based adjustments 
+  
+  
+  
+Receivables from Siemens Group 
+4,356 
+3,952 
+4,056 
+Tax-related assets 
+498 
+594 
+328 
+Liability-based adjustments 
+  
+  
+  
+Payables and other liabilities to Siemens Group 
+10,962 
+11,467 
+10,493 
+Tax-related liabilities 
+365 
+310 
+296 
+Eliminations, Corporate Treasury, Corporate Items, other items 
+(7,104) 
+(7,830) 
+(7,405) 
+Reconciliation to Combined Financial Statements 
+9,679 
+9,110 
+8,219 
+Siemens Healthineers – Total assets  
+20,440 
+20,295 
+19, 457 
+ 
+ 
+ 
+ 
+ 
+Free Cash Flow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+Total Segments 
+2,222 
+2,263 
+2,103 
+Central Items 
+(136) 
+(155) 
+(48) 
+Tax-related Cash Flows 
+(567) 
+(686) 
+(505) 
+Other items 
+(10) 
+2 
+(5) 
+Siemens Healthineers – Free Cash Flow 
+1,509 
+1,425 
+1,545 
+Remaining Cash Flows from investing activities¹ 
+13 
+(12) 
+367 
+Cash Flows from financing activities 
+(1,532) 
+(1,279) 
+(1,853) 
+Effect of foreign exchange rates on cash and cash equivalents 
+(12) 
+(1) 
+(5) 
+Change in cash and cash equivalents 
+(22) 
+133 
+54 
+ 
+ 
+ 
+ 
+¹ excluding additions to intangible assets and property, plant and equipment 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 50 
+NOTE 24 Information about geographies 
+ 
+ 
+Revenue by location of customers 
+ 
+Fiscal year 
+ 
+Revenue by location of companies 
+ 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Europe, C.I.S., Africa, Middle East 
+4,380 
+4,423 
+4,366 
+5,034 
+5,046 
+4,996 
+Americas 
+5,599 
+5,496 
+5,184 
+5,572 
+5,462 
+5,141 
+Asia, Australia 
+3,817 
+3,628 
+3,386 
+3,191 
+3,039 
+2,799 
+Siemens Healthineers 
+13,796 
+13,547 
+12,936 
+13,796 
+13,547 
+12,936 
+thereof Germany 
+885 
+859 
+848 
+1,727 
+1,713 
+1,703 
+thereof foreign countries 
+12,911 
+12,688 
+12,088 
+12,069 
+11,834 
+11,233 
+therein U.S. 
+4,687 
+4,656 
+4,276 
+4,709 
+4,681 
+4,311 
+ 
+ 
+ 
+ 
+ 
+Non-current assets 
+ 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+Europe, C.I.S., Africa, Middle East 
+3,504 
+3,525 
+3,383 
+Americas 
+6,883 
+7,149 
+7,109 
+Asia, Australia 
+697 
+735 
+684 
+Siemens Healthineers 
+11,083 
+11,409 
+11,177 
+thereof Germany 
+1,655 
+1,618 
+1,423 
+thereof foreign countries 
+9,429 
+9,791 
+9,754 
+therein U.S. 
+6,381 
+6,635 
+6,615 
+ 
+ 
+ 
+Non-current assets consist of property, plant and equipment, goodwill and other intangible assets. 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 51 
+NOTE 25 Related party transactions  
+Siemens Healthineers maintains business relations with Siemens Group and with associates of both Siemens Group and Siemens 
+Healthineers. The Siemens Group is a related party, as Siemens AG controls Siemens Healthineers. 
+Transactions with Siemens Group 
+Sales of goods and services and other income, as well as purchases of goods and services and other expense from transactions with 
+the Siemens Group in fiscal 2017, 2016 and 2015 are presented in the following table: 
+  
+Sales of goods and services  
+and other income 
+Purchases of goods and services and other 
+expenses 
+  
+Fiscal year 
+Fiscal year 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Siemens Group 
+290  
+275 
+257 
+658  
+679  
+707  
+ 
+ 
+ 
+ 
+Sales to and purchases from Siemens Group 
+Supply and delivery agreements exist between Siemens Healthineers and Siemens Group. Siemens Healthineers is supplied by 
+Siemens Group and delivers to Siemens Group goods and services on a case by case basis. The sale of goods and services to Siemens 
+Group mainly includes sale of equipment from Siemens Healthineers to SFS, who leases this equipment to external customers under 
+a finance lease agreement.  
+Other expenses 
+Siemens Group provides Siemens Healthineers with central corporate services, such as tax and legal, IT, corporate communications, 
+HR, accounting, financial services and treasury in the amount of €496 million, €492 million and €444 million in fiscal 2017, 2016 
+and 2015. 
+Share-based payments 
+Siemens Healthineers’ employees participate in share-based payment awards implemented by Siemens AG. Siemens AG delivers the 
+respective shares on behalf of Siemens Healthineers and is reimbursed by Siemens Healthineers (see Note 21 – Share-based 
+payments). 
+Insurances 
+Siemens Healthineers is covered by the group insurance of Siemens Group. Furthermore, there are additional contracts for individual 
+insurance services between entities of Siemens Healthineers and Siemens Group, the costs for which are borne by Siemens 
+Healthineers.  
+Receivables from and payables to Siemens Group 
+Siemens Healthineers’ receivables from and payables to Siemens Group are as follows: 
+  
+  
+Receivables 
+Payables 
+Sep 30, 
+Sep 30, 
+(in millions of €) 
+2017 
+2016 
+2015 
+2017 
+2016 
+2015 
+Siemens Group 
+4,356 
+3,952  
+4,056  
+10,962  
+11,466  
+10,493  
+   therein 
+     from Siemens Credit Warehouse  
+175  
+153  
+230  
+-  
+-  
+-  
+     from financing activities  
+4,163  
+3,780  
+3,799  
+10,040  
+10,507  
+9,644  
+     from other items  
+17  
+19  
+27  
+922  
+959  
+849  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 52 
+Siemens Credit Warehouse 
+Siemens Healthineers participates in the factoring program called “Siemens Credit Warehouse”. Siemens Healthineers transfers trade 
+receivables to Siemens Group including all relevant collection risks, but is still responsible for the administration of the trade 
+receivables.  
+Financing 
+Siemens Healthineers is included in Siemens Group’s cash pooling and cash management. Siemens Healthineers invests excess short-
+term liquidity and is granted overdraft facilities for financing its operating activities.  
+Siemens Healthineers has long-term receivables with Siemens Group amounting to €1,365 million as of September 30, 2017 
+(September 30, 2016: €0, and September, 30 2015: €0) with maturities in March 2021. 
+Siemens Group provides short- and long-term loans to Siemens Healthineers. For additional information, see Note 14 - Debt. 
+Other items 
+On November 26, 2014, Siemens AG and Siemens Healthcare GmbH concluded a domination and profit and loss transfer agreement 
+(“Beherrschungs- und Gewinnabführungsvertrag”). Other items include the payable in relation to this profit and loss transfer in fiscal 
+2017, 2016 and 2015. The profits transferred in fiscal 2017, 2016 and 2015 amounted to €815 million, €909 million and 
+€806 million, respectively. 
+Other material relationships with Siemens Group are described in the following: 
+Leasing 
+Siemens Healthineers has entered into leasing transactions with Siemens Group mainly relating to IT equipment. As of September 30, 
+2017, the outstanding minimum lease payments are €6 million (September 30, 2016: €5 million, and September, 30 2015: €4 
+million). The average weighted interest rate in fiscal 2017 is 5.0% (fiscal 2016: 5.0% and fiscal 2015: 4.5%). In addition, several 
+operating lease agreements exist between Siemens Healthineers and Siemens Group, in particular with respect to real estate.  
+Hedging 
+Siemens Healthineers’ hedging activities are performed mainly via Siemens Corporate Treasury of Siemens AG. The consideration is 
+based on market rates. The related receivables and payables are mainly disclosed in the line item Other current financial assets and 
+Other current financial liabilities in the Combined Financial Statements.  
+Collaterals/global letters of support/guarantees 
+Siemens Group issues collaterals and credit letters in favor of Siemens Healthineers. The guarantees issued by Siemens Group 
+amount to €446 million as of September 30, 2017 (September 30, 2016: €494 million and September 30, 2015: €619 million). 
+Transactions with pension schemes and pension entities 
+In some countries, mainly in the U.K. and U.S., Siemens Healthineers participates in Siemens Group pension plans and trusts.  
+For additional information, see Note 15 - Provisions for pensions and similar obligations. 
+Dividends proposed or declared 
+Dividends to the Siemens Group in an amount of €211 million are proposed or declared before the issuance of the Combined 
+Financial Statements, but not yet recognized as a distribution to owners in the Combined Financials Statements in the periods 
+presented.  
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 53 
+Joint Ventures and Associates 
+In fiscal 2017 Siemens Healthineers purchased goods and services from Siemens Healthineers joint ventures and associates in an 
+amount of €61 million (fiscal 2016: €62 million and fiscal 2015: €72 million). 
+Related individuals 
+In the periods presented, Siemens Healthineers had no parent company and was not a legal group for Consolidated Financial 
+Statement reporting purposes in accordance with IFRS 10. The key management of Siemens Healthineers is therefore defined as 
+those persons responsible for the worldwide operating business of Siemens Healthineers, based on their function within Siemens 
+Healthineers. These are the members of Managing Board and the Supervisory Board of Siemens Healthcare GmbH.  
+In addition, Siemens Healthineers is controlled by the ultimate parent, Siemens AG. Therefore, Siemens AG’s Management Board 
+and Supervisory Board are deemed key management. Information related to Siemens AG’s Management Board and Supervisory 
+Board can be found in Siemens AG’s publicly available financial statements. 
+In fiscal 2017, the members of the Managing Board of Siemens Healthineers received cash compensation of €4.3 million (fiscal 
+2016: €4.1 million and fiscal 2015 €4.2 million). The fair value of stock-based compensation amounts to €1.3 million in fiscal 2017 
+(fiscal 2016: €1.3 million and fiscal 2015: €0.7 million). In fiscal 2017, contributions under the BSAV are granted to members of the 
+Managing Board totaling €0.6 million (fiscal 2016: €0.6 million and fiscal 2015: €0.7 million). 
+Therefore, the total compensation and benefits attributable to the Managing Board of Siemens Healthineers amount to €6.2 million in 
+fiscal 2017 (fiscal 2016: €6.0 million and fiscal 2015 €5.6 million).  
+In fiscal 2017, expense related to share-based payments amounts to €2.2 million (fiscal 2016: €2.7 million and fiscal 2015: 
+€0.7 million). 
+The Supervisory Board of Siemens Healthcare GmbH consists of 16 members as of September 30, 2017, thereof 8 employees’ 
+representatives. In fiscal 2017, the remuneration of the Supervisory Board members amounts to €0.1 million (fiscal 2016: 
+€0.1 million and fiscal 2015 €0.0 million), whereby most of the shareholder’s representatives in the Supervisory Board waive their 
+right to compensation for their activities as members of the Supervisory Board in the periods presented. The employees’ 
+representatives on the Supervisory Board (with the exception of those members who are nominated by the labor union) have labor 
+contracts with the respective Siemens Healthineers’ entities.  
+Siemens Group maintains a directors and officers insurance (“D&O”) for the members of the Managing Board of Siemens 
+Healthineers. The insurance policy covers the personal liability risk, in the event that a claim for pecuniary damages is made against 
+a member of the Managing Board of Siemens Healthineers in conjunction with his or her performance of duties. The related costs are 
+charged by Siemens Group to Siemens Healthineers. 
+In fiscal 2017, 2016 and 2015, no other major transactions took place between Siemens Healthineers and members of the Managing 
+Board of Siemens Healthineers or between Siemens Healthineers and members of the Supervisory Board of Siemens Healthcare 
+GmbH. 
+Some of the board members hold, or in the last years have held, positions of significant responsibility with other entities. Siemens 
+Healthineers has relationships with almost all of these entities in the ordinary course of business. 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 54 
+NOTE 26 Effects from the adoption of IFRS 15 
+In May 2014, the IASB issued IFRS 15, Revenue from Contracts with Customers. According to the new standard, revenue is 
+recognized to depict the transfer of promised goods or services to a customer in an amount that reflects the consideration to which 
+Siemens Healthineers expects to be entitled in exchange for those goods or services. Revenue is recognized when, or as, the customer 
+obtains control of the goods or services. IFRS 15 supersedes IAS 11, Construction Contracts and IAS 18, Revenue as well as related 
+interpretations. The standard is effective for annual periods beginning on or after January 1, 2018; early application is permitted. 
+Siemens Healthineers will adopt the standard for the fiscal year beginning as of October 1, 2017 retrospectively, i.e. the comparable 
+period will be presented in accordance with IFRS 15.  
+ 
+The adoption of IFRS 15 as of October 1, 2017 and the preparation of the comparable period for fiscal 2017 confirmed that there will 
+be no significant impacts on Siemens Healthineers’ Financial Statements. Retained earnings as of October 1, 2016 will increase by 
+€98 million. The increase mainly arises from an earlier recognition of variable consideration components and as transfer of control 
+may occur before the transfer of significant risks and rewards for certain goods. As illustrated below, changes in the total amount of 
+revenue to be recognized for a customer contract are very limited. Besides, there will be changes to the Statement of Financial 
+Position, e.g. separate line items for contract assets and contract liabilities are required, and quantitative and qualitative disclosures 
+are added. 
+ 
+The following table illustrates the effects of IFRS 15 to the Combined Statements of Income, if the standard would have already been 
+applied in fiscal 2017: 
+ 
+ 
+Fiscal year 2017  
+(in millions of €) 
+Pre-adjustment 
+Adjustment 
+Post-adjustment 
+  
+  
+  
+  
+Revenue 
+13,796 
+(119) 
+13,677 
+Cost of sales 
+(8,034) 
+52 
+(7,982) 
+Gross profit 
+5,762 
+(67) 
+5,695 
+Research and development expenses 
+(1,253) 
+- 
+(1,253) 
+Selling and general administrative expenses 
+(2,222) 
+- 
+(2,222) 
+Other operating income 
+22 
+- 
+22 
+Other operating expenses 
+(19) 
+- 
+(19) 
+Income from investments accounted for using the equity method, net 
+9 
+- 
+9 
+Interest income 
+12 
+- 
+12 
+Interest expenses 
+(267) 
+- 
+(267) 
+Other financial income (expenses), net 
+- 
+- 
+- 
+Income before income taxes 
+2,044 
+(67) 
+1,977 
+Income tax expenses 
+(600) 
+19 
+(581) 
+Net income 
+1,444 
+(48) 
+1,396 
+ 
+ 
+Under IFRS 15 revenue is generally recognized earlier compared to legacy regulations as indicated by the increase of retained earnings 
+as of October 1, 2016. However, the effect from revenue acceleration in fiscal year 2017 under IFRS 15 would have been 
+overcompensated by a higher effect from revenue acceleration as of October 1, 2016. The difference in revenue of €119 million would 
+have been assigned to periods prior to fiscal 2017. 
+The following table illustrates the effects of IFRS 15 to the Combined Statements of Financial Position, if the standard would have 
+already been applied in fiscal 2017: 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 55 
+ 
+Sep 30, 2017  
+(in millions of €) 
+Pre-adjustment 
+Adjustment 
+Post-adjustment 
+ Assets 
+  
+  
+  
+Cash and cash equivalents 
+184 
+- 
+184 
+Trade and other receivables 
+2,200 
+108 
+2,308 
+Other current financial assets 
+57 
+- 
+57 
+Receivables from Siemens Group 
+2,991 
+- 
+2,991 
+Contract assets 
+- 
+294 
+294 
+Inventories 
+1,323 
+282 
+1,605 
+Current income tax assets 
+79 
+- 
+79 
+Other current assets 
+276 
+- 
+276 
+Total current assets 
+7,110 
+684 
+7,794 
+Goodwill 
+7,992 
+- 
+7,992 
+Other intangible assets 
+1,525 
+- 
+1,525 
+Property, plant and equipment 
+1,566 
+- 
+1,566 
+Investments accounted for using the equity method 
+33 
+- 
+33 
+Other financial assets 
+162 
+- 
+162 
+Other receivables from Siemens Group 
+1,365 
+- 
+1,365 
+Deferred tax assets 
+419 
+(11) 
+408 
+Other assets 
+268 
+- 
+268 
+Total non-current assets 
+13,330 
+(11) 
+13,319 
+Total assets 
+20,440 
+673 
+21,113 
+ Liabilities and equity 
+  
+  
+  
+Short-term debt and current maturities of long-term debt 
+55 
+- 
+55 
+Trade payables 
+1,120 
+- 
+1,120 
+Other current financial liabilities 
+72 
+- 
+72 
+Payables to Siemens Group 
+5,795 
+- 
+5,795 
+Contract liabilities 
+- 
+1,406 
+1,406 
+Current provisions 
+314 
+(24) 
+290 
+Current income tax liabilities 
+122 
+- 
+122 
+Other current liabilities 
+1,797 
+(547) 
+1,250 
+Total current liabilities 
+9,275 
+835 
+10,110 
+Long-term debt 
+15 
+- 
+15 
+Provisions for pensions and similar obligations 
+1,732 
+- 
+1,732 
+Deferred tax liabilities 
+243 
+16 
+259 
+Provisions 
+153 
+- 
+153 
+Other financial liabilities 
+23 
+- 
+23 
+Other liabilities 
+590 
+(225) 
+365 
+Other liabilities to Siemens Group 
+5,167 
+- 
+5,167 
+Total non-current liabilities 
+7,923 
+(209) 
+7,714 
+Total liabilities 
+17,198 
+626 
+17,824 
+ 
+ 
+ 
+ 
+Total equity 
+3,242 
+47 
+3,289 
+Total liabilities and equity 
+20,440 
+673 
+21,113 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 56 
+According to IFRS 15, once either party to an existing contract (i.e. the customer or Siemens Healthineers) has performed, the 
+contract is presented in the financial statements as a Contract asset or a Contract liability, depending on the relationship between 
+Siemens Healthineers’ performance and the customer’s payment.  
+Therefore mainly two effects from IFRS 15 would have been reflected in the Combined Statements of Financial Position of Siemens 
+Healthineers as of September 30, 2017: 
+ 
+Reclassifications due to the newly introduced balance sheet line items Contract assets and Contract liabilities, such as the 
+reclassification of advance payments received from the line item Inventories to the line item Contract liabilities or the 
+reclassification of customer advances for service business from the line item Other current liabilities to the line item 
+Contract liabilities. 
+ 
+An increase of Contract assets and a decrease of Contract liabilities resulting from the earlier revenue recognition under 
+IFRS 15. 
+ 
+ 
+NOTE 27 Subsequent events 
+On October 31, 2017, Siemens Healthineers successfully completed the acquisition of Epocal, Inc. (U.S.) from Abbott Laboratories. 
+Epocal develops and provides point-of-care blood diagnostic systems for healthcare enterprises and it allows Siemens Healthineers to 
+complete its blood gas portfolio. Epocal will be integrated in the Diagnostics segment. Because the process of fair valuing the Epocal 
+business has not been completed as of the date of issuance of these Combined Financial Statements, the initial accounting for the 
+business combination is incomplete.  
+On December 19, 2017, Siemens Healthineers successfully completed the acquisition of all shares in Luxembourg-based FTD 
+Investments S.à r.l. Fast Track Diagnostics (FTD) provides globally a broad range of diagnostic tests, covering major disease groups. 
+On December 22, 2017, the U.S. tax reform (the „Tax Cuts and Jobs Act“) was passed into Law. Siemens Healthineers expects that it 
+will have a significant one-time impact on the valuation of deferred taxes. 
+In the period after the reporting date but prior to the issuance of the Combined Financial Statements, further transactions have 
+occurred in connection with the formation as well as the future funding of the Siemens Healthineers Group. This process is still 
+ongoing as of the issuance date of the Combined Financial Statements. 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 57 
+NOTE 28 Scope of combination  
+a) List of legal entities fully included in the scope of combination 
+The shown shareholding in percentage refers to Siemens Healthineers. 
+ 
+ 
+ 
+Equity interest in % 
+  
+  
+Sep 30, 
+2017 
+ 
+Sep 30, 
+2016 
+ 
+Sep 30, 
+2015 
+Germany (Status as of 30.09.2017: 10 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Dade Behring Beteiligungs GmbH, Eschborn 
+  
+- 
+100 
+100 
+Dade Behring Grundstücks GmbH, Marburg 
+ 
+100 
+ 
+100 
+ 
+100 
+NEO New Oncology GmbH, Cologne 
+  
+100 
+100 
+- 
+Siemens Healthcare Diagnostics GmbH, Eschborn 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Holding GmbH, Eschborn 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Products GmbH, Marburg 
+  
+100 
+100 
+100 
+Siemens Healthcare GmbH, Erlangen 
+  
+100 
+100 
+100 
+Siemens Medical Solutions Health Services GmbH, Grünwald 
+  
+100 
+100 
+100 
+Siemens Real Estate GmbH & Co. KG, Grünwald1 
+ 
+94 
+ 
+94 
+ 
+- 
+Siemens Real Estate Management GmbH, Grünwald 
+ 
+941 
+ 
+941 
+ 
+- 
+Europe, Commonwealth of Independent States (C.I.S.), Africa, Middle East (without 
+Germany)  (Status as of 30.09.2017: 52 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Conworx Medical IT Ltd., Marlow, Buckinghamshire/United Kingdom 
+  
+100 
+- 
+- 
+ITH icoserve technology for healthcare GmbH, Innsbruck/Austria 
+  
+69 
+69 
+69 
+Petnet Soluciones, S.L., Sociedad Unipersonal, Madrid/Spain 
+  
+- 
+- 
+100 
+PETNET Solutions SAS, Lisses/France 
+  
+100 
+100 
+100 
+SCIENTIFIC MEDICAL SOLUTION DIAGNOSTICS S.A.R.L., Casablanca/Morocco 
+  
+- 
+100 
+100 
+Siemens Diagnostics Holding II B.V., The Hague/Netherlands 
+  
+100 
+100 
+100 
+Siemens Healthcare (Private) Limited, Lahore/Pakistan 
+  
+100 
+100 
+- 
+Siemens Healthcare A/S, Ballerup/Denmark 
+  
+100 
+100 
+100 
+Siemens Healthcare AB, Stockholm/Sweden 
+  
+100 
+100 
+100 
+Siemens Healthcare AG, Zurich/Switzerland 
+  
+100 
+100 
+100 
+Siemens Healthcare AS, Oslo/Norway 
+  
+100 
+100 
+100 
+Siemens Healthcare d.o.o, Ljubljana/Slovenia 
+  
+100 
+100 
+100 
+Siemens Healthcare d.o.o., Zagreb/Croatia 
+  
+100 
+100 
+- 
+Siemens Healthcare d.o.o. Beograd, Belgrade/Serbia 
+  
+100 
+100 
+- 
+Siemens Healthcare Diagnostics (Pty.) Limited, Isando/South Africa 
+  
+- 
+- 
+100 
+Siemens Healthcare Diagnostics GmbH, Vienna/Austria 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics GmbH, Zurich/Switzerland 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Ltd., Frimley, Surrey/United Kingdom 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Manufacturing Ltd., Frimley, Surrey/United Kingdom 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Products Ltd., Frimley, Surrey/United Kingdom 
+  
+100 
+100 
+100 
+Siemens Healthcare EOOD, Sofia/Bulgaria 
+  
+100 
+100 
+100 
+Siemens Healthcare FZ LLC, Dubai/United Arab Emirates 
+  
+100 
+100 
+- 
+Siemens Healthcare Industrial and Commercial Société Anonyme, Athens/Greece 
+  
+100 
+100 
+100 
+Siemens Healthcare Kft., Budapest/Hungary 
+  
+100 
+100 
+100 
+Siemens Healthcare L.L.C., Dubai/United Arab Emirates 
+  
+492 
+492 
+- 
+Siemens Healthcare Limited, Frimley, Surrey/United Kingdom 
+  
+100 
+100 
+1001 
+Siemens Healthcare Limited, Riyadh/Saudi Arabia 
+  
+51 
+- 
+- 
+                                                 
+1 Not consolidated due to immateriality. 
+4 Control due to a majority of voting rights. 
+2 Control due to rights to appoint, reassign or remove members of the key     
+dfmanagement personnel. 
+5 Not accounted for using the equity method due to immateriality. 
+3 Not used. 
+6 No significant influence due to contractual arrangements or legal   
+dfcircumstances. 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 58 
+Siemens Healthcare Limited Liability Company, Kiev/Ukraine 
+  
+100 
+100 
+- 
+Siemens Healthcare Limited Liability Company, Moscow/Russian Federation 
+  
+100 
+100 
+1001 
+Siemens Healthcare Limited Liability Partnership, Almaty/Kazakhstan 
+  
+100 
+100 
+1001 
+Siemens Healthcare Ltd., Rosh Ha'ayin/Israel 
+  
+100 
+100 
+- 
+Siemens Healthcare Medical Solutions Limited, Swords, County Dublin/Ireland 
+  
+100 
+100 
+1001 
+Siemens Healthcare Nederland B.V., The Hague/Netherlands 
+  
+100 
+100 
+100 
+Siemens Healthcare Oy, Espoo/Finland 
+  
+100 
+100 
+100 
+Siemens Healthcare Proprietary Limited, Halfway House/South Africa 
+  
+100 
+100 
+100 
+Siemens Healthcare S.A.E., Cairo/Egypt 
+  
+100 
+100 
+100 
+Siemens Healthcare S.r.l., Bucharest/Romania 
+  
+100 
+100 
+- 
+Siemens Healthcare S.r.l., Milan/Italy 
+  
+100 
+100 
+100 
+Siemens Healthcare s.r.o., Bratislava/Slovakia 
+  
+100 
+100 
+100 
+Siemens Healthcare SA/NV, Beersel/Belgium 
+  
+100 
+100 
+100 
+Siemens Healthcare Saglik Anonim Sirketi, Istanbul/Turkey 
+  
+100 
+100 
+1001 
+Siemens Healthcare SARL, Casablanca/Morocco 
+  
+100 
+1001 
+- 
+Siemens Healthcare SAS, Saint-Denis/France 
+  
+100 
+100 
+100 
+Siemens Healthcare Sp. z o.o., Warsaw/Poland 
+  
+100 
+100 
+100 
+Siemens Healthcare, Lda., Amadora/Portugal 
+  
+100 
+100 
+100 
+SIEMENS HEALTHCARE, S.L.U., Getafe/Spain 
+  
+100 
+100 
+100 
+Siemens Healthcare, s.r.o., Prague/Czech Republic 
+  
+100 
+100 
+100 
+Siemens Healthineers Holding III B.V., The Hague/Netherlands 
+  
+100 
+- 
+- 
+Siemens Medical Solutions Diagnostics Holding I B.V., The Hague/Netherlands 
+  
+100 
+100 
+100 
+Siemens Medicina d.o.o, Sarajevo/Bosnia and Herzegovina 
+  
+100 
+100 
+100 
+Siemens Limited for Trading, Cairo/Egypt 
+ 
+100 
+ 
+100 
+ 
+100 
+Steiermärkische Medizinarchiv GesmbH, Graz/Austria 
+  
+52 
+52 
+52 
+Americas  (Status as of 30.09.2017: 27 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+10367079 CANADA INC., Oakville/Canada 
+  
+100 
+- 
+- 
+Dade Behring Hong Kong Holdings Corporation, Tortola/Virgin Islands, British 
+  
+100 
+100 
+100 
+Dade Behring, S.A. de C.V., México, D.F./Mexico2 
+  
+- 
+- 
+100 
+Dedicated2Imaging LLC, Wilmington, DE/United States of America 
+  
+80 
+- 
+- 
+P.E.T.NET Houston, LLC, Austin, TX/United States of America 
+  
+51 
+51 
+51 
+PETNET Indiana LLC, Indianapolis, IN/United States of America 
+  
+504 
+504 
+504 
+PETNET Solutions Cleveland, LLC, Wilmington, DE/United States of America 
+  
+63 
+63 
+63 
+PETNET Solutions, Inc., Knoxville, TN/United States of America 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnósticos Ltda., São Paulo/Brazil 
+  
+100 
+100 
+100 
+SIEMENS HEALTHCARE DIAGNOSTICS GUATEMALA, S.A., Guatemala/Guatemala 
+  
+99 
+99 
+99 
+Siemens Healthcare Diagnostics Inc., Los Angeles, CA/United States of America 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Manufacturing Limited, Grand Cayman/Cayman Islands 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Panama, S.A., Panama City/Panama 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics S.A., San José/Costa Rica 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics, S. de R.L. de C.V., Mexico City/Mexico 
+  
+100 
+100 
+100 
+Siemens Healthcare Equipos Médicos Sociedad por Acciones, Santiago de Chile/Chile 
+  
+100 
+100 
+1001 
+Siemens Healthcare Laboratory, LLC, Wilmington/United States of America 
+  
+100 
+- 
+- 
+Siemens Healthcare Limited, Oakville/Canada 
+  
+100 
+100 
+1001 
+Siemens Healthcare S.A., Buenos Aires/Argentina 
+  
+100 
+100 
+1001 
+Siemens Healthcare S.A., Caracas/Venezuela 
+  
+1001 
+1001 
+1001 
+Siemens Healthcare S.A.C., Surquillo/Peru 
+  
+100 
+100 
+1001 
+Siemens Healthcare S.A.S., Tenjo/Colombia 
+  
+100 
+100 
+- 
+                                                 
+1 Not consolidated due to immateriality. 
+4 Control due to a majority of voting rights. 
+2 Control due to rights to appoint, reassign or remove members of the key     
+dfmanagement personnel. 
+5 Not accounted for using the equity method due to immateriality. 
+3 Not used. 
+6 No significant influence due to contractual arrangements or legal   
+dfcircumstances. 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 59 
+Siemens Healthcare Servicios S. de R.L. de C.V., Mexico City/Mexico 
+  
+100 
+100 
+1001 
+Siemens Healthcare, Sociedad Anónima, Antiguo Cuscatlán/El Salvador 
+  
+100 
+100 
+1001 
+Siemens Medical Solutions USA, Inc., Wilmington, DE/United States of America 
+  
+100 
+100 
+100 
+Siemens Molecular Imaging, Inc., Wilmington, DE/United States of America 
+  
+100 
+100 
+100 
+Siemens-Healthcare Cia. Ltda., Quito/Ecuador 
+  
+100 
+1001 
+- 
+Asia, Australia  (Status as of 30.09.2017: 24 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Acrorad Co., Ltd., Okinawa/Japan 
+  
+63 
+63 
+57 
+DPC (Tianjin) Co., Ltd., Tianjin/China 
+  
+100 
+100 
+100 
+PETNET Radiopharmaceutical Solutions Pvt. Ltd., New Delhi/India 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics (Shanghai) Co. Ltd., Shanghai/China 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics K.K., Tokyo/Japan 
+  
+100 
+100 
+100 
+Siemens Healthcare Diagnostics Manufacturing Ltd., Shanghai, Shanghai/China 
+  
+1001 
+- 
+- 
+Siemens Healthcare Inc., Manila/Philippines 
+  
+100 
+100 
+1001 
+Siemens Healthcare K.K., Tokyo/Japan 
+  
+100 
+100 
+- 
+Siemens Healthcare Limited, Auckland/New Zealand 
+  
+100 
+100 
+100 
+Siemens Healthcare Limited, Bangkok/Thailand 
+  
+100 
+100 
+100 
+Siemens Healthcare Limited, Ho Chi Minh City/Viet Nam 
+  
+100 
+100 
+1001 
+Siemens Healthcare Limited, Hong Kong/Hong Kong, China 
+  
+100 
+100 
+100 
+Siemens Healthcare Limited, Seoul/South Korea3 
+  
+100 
+100 
+- 
+Siemens Healthcare Limited, Taipei/Taiwan, Province of China 
+  
+100 
+100 
+100 
+Siemens Healthcare Ltd., Dhaka/Bangladesh 
+  
+100 
+1001 
+- 
+Siemens Healthcare Ltd., Shanghai/China 
+  
+100 
+100 
+- 
+Siemens Healthcare Private Limited, Mumbai/India 
+  
+100 
+100 
+1001 
+Siemens Healthcare Pte. Ltd., Singapore/Singapore 
+  
+100 
+100 
+100 
+Siemens Healthcare Pty. Ltd., Melbourne/Australia 
+  
+100 
+100 
+100 
+Siemens Healthcare Sdn. Bhd., Petaling Jaya/Malaysia 
+  
+100 
+100 
+100 
+Siemens Shanghai Medical Equipment Ltd., Shanghai/China 
+  
+100 
+100 
+100 
+Siemens Shenzhen Magnetic Resonance Ltd., Shenzhen/China 
+  
+100 
+100 
+100 
+Siemens Technology Development Co., Ltd. of Beijing, Beijing/China 
+  
+90 
+90 
+90 
+Siemens X-Ray Vacuum Technology Ltd., Wuxi, Wuxi/China 
+  
+100 
+100 
+100 
+ 
+ 
+b) List of associates, joint ventures and other investments included in the scope of combination. 
+The shown shareholding in percentage refers to Siemens Healthineers. 
+ 
+ 
+ 
+Equity interest in % 
+  
+  
+Sep 30, 
+2017 
+ 
+Sep 30, 
+2016 
+ 
+Sep 30, 
+2015 
+ASSOCIATED COMPANIES AND JOINT VENTURES 
+  
+ 
+ 
+ 
+ 
+ 
+Germany  (Status as of 30.09.2017: 2 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+MeVis BreastCare GmbH & Co. KG, Bremen 
+  
+49 
+49 
+49 
+MeVis BreastCare Verwaltungsgesellschaft mbH, Bremen 
+  
+495 
+ 
+495 
+ 
+495 
+Europe, Commonwealth of Independent States (C.I.S.), Africa, Middle East (without 
+Germany) (Status as of 30.09.2017: 3 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Impilo Consortium (Pty.) Ltd., La Lucia/South Africa 
+  
+31 
+31 
+31 
+Meomed s.r.o., Prerov/Czech Republic 
+ 
+475 
+ 
+475 
+ 
+475 
+TRIXELL SAS, Moirans/France 
+  
+25 
+25 
+25 
+Americas  (Status as of 30.09.2017: 2 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+                                                 
+1 Not consolidated due to immateriality. 
+4 Control due to a majority of voting rights. 
+2 Control due to rights to appoint, reassign or remove members of the key     
+dfmanagement personnel. 
+5 Not accounted for using the equity method due to immateriality. 
+3 Not used. 
+6 No significant influence due to contractual arrangements or legal   
+dfcircumstances. 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 60 
+PhSiTh LLC, New Castle, DE/United States of America4 
+  
+33 
+33 
+33 
+USARAD Holdings, Inc., Fort Lauderdale, FL/United States of America 
+  
+305 
+ 
+305 
+ 
+255 
+Asia, Australia  (Status as of 30.09.2017: 1 company) 
+  
+ 
+ 
+ 
+ 
+ 
+Xi’An X-Ray Target Ltd., Xi'an/China 
+  
+43 
+43 
+43 
+ 
+OTHER INVESTMENTS 
+  
+ 
+ 
+ 
+ 
+ 
+Europe, Commonwealth of Independent States (C.I.S.), Africa, Middle East (without 
+Germany)  (Status as of 30.09.2017: 2 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+STAT Diagnostica & Innovation, S.L., Barcelona/Spain 
+  
+6 
+- 
+- 
+Medical Systems S.p.A., Genoa/Italy 
+  
+456 
+456 
+456 
+Americas  (Status as of 30.09.2017: 2 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Adarza BioSystems, Inc., West Henrietta, NY/United States of America 
+  
+18 
+19 
+16 
+Seventh Sense Biosystems, Inc., Cambridge, MA/United States of America 
+  
+5 
+6 
+5 
+ 
+ 
+c) List of legal entities partially included in the scope of combination with material Siemens Healthineers business 
+The illustrated crosses mark those years, in which there has been material Healthineers business in the respective entities.  
+ 
+ 
+ 
+Sep 30, 
+2017 
+ 
+Sep 30, 
+2016 
+ 
+Sep 30, 
+2015 
+Germany (Status as of 30.09.2017: 1 company) 
+  
+ 
+ 
+ 
+ 
+ 
+Siemens AG - Sector Healthcare, Erlangen/Germany 
+  
+- 
+- 
+X 
+Europe, Commonwealth of Independent States (C.I.S.), Africa, Middle East (without 
+Germany)  (Status as of 30.09.2017: 31 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Siemens Ltd., Riad/Saudi Arabia 
+  
+X 
+X 
+X 
+Siemens LLC, Abu Dhabi/United Arab Emirates 
+  
+- 
+X 
+X 
+Siemens S.A., Casablanca/Morocco 
+  
+- 
+- 
+X 
+Siemens Israel Ltd., Rosh Ha'ayin/Israel 
+  
+- 
+X 
+X 
+Siemens S.A./N.V., Beersel/Belgium 
+  
+- 
+- 
+X 
+Siemens A/S, Ballerup/Denmark 
+  
+- 
+- 
+X 
+Siemens Osakeyhtiö, Espoo/Finland 
+  
+- 
+- 
+X 
+Siemens A.E., Elektrotechnische Projekte und Erzeugnisse, Athens/Greece 
+  
+- 
+X 
+X 
+Siemens plc, Frimley, Surrey/United Kingdom 
+  
+- 
+- 
+X 
+Siemens Limited, Dublin/Ireland 
+  
+- 
+- 
+X 
+Siemens S.p.A., Milan/Italy 
+  
+- 
+- 
+X 
+Siemens Nederland N.V., The Hague/Netherlands 
+  
+- 
+- 
+X 
+Siemens AS, Oslo/Norway 
+  
+- 
+- 
+X 
+Siemens Aktiengesellschaft Österreich, Vienna/Austria 
+  
+- 
+X 
+X 
+Siemens S.A., Amadora/Portugal 
+  
+- 
+X 
+X 
+Siemens AB, Upplands Väsby/Sweden 
+  
+- 
+X 
+X 
+Siemens d.d., Zagreb/Croatia 
+  
+- 
+X 
+X 
+Siemens S.A., Madrid/Spain 
+  
+- 
+- 
+X 
+Siemens Sanayi ve Ticaret A.S., Istanbul/Turkey 
+  
+- 
+X 
+X 
+OOO Siemens, Moscow/Russian Federation 
+  
+X 
+X 
+X 
+Siemens Technologies S.A.E., Cairo/Egypt 
+  
+X 
+X 
+X 
+Siemens Proprietary Limited, Midrand/South Africa 
+  
+- 
+- 
+X 
+Siemens S.R.L., Bucharest/Romania 
+  
+- 
+X 
+X 
+Siemens, s.r.o., Prague/Czech Republic 
+  
+- 
+- 
+X 
+Siemens W.L.L., Manama/Bahrain 
+  
+- 
+- 
+X 
+                                                 
+1 Not consolidated due to immateriality. 
+4 Control due to a majority of voting rights. 
+2 Control due to rights to appoint, reassign or remove members of the key     
+dfmanagement personnel. 
+5 Not accounted for using the equity method due to immateriality. 
+3 Not used. 
+6 No significant influence due to contractual arrangements or legal   
+dfcircumstances. 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 61 
+Siemens Middle East Limited, Masdar City/United Arab Emirates 
+  
+- 
+X 
+X 
+Siemens SAS, Saint-Denis/France 
+  
+- 
+- 
+X 
+Siemens Schweiz AG, Zurich/Switzerland 
+  
+- 
+- 
+X 
+Siemens Zrt., Budapest/Hungary 
+  
+- 
+- 
+X 
+Siemens s.r.o., Bratislava/Slovakia 
+  
+- 
+- 
+X 
+Siemens Sp. z o.o., Warsaw/Poland 
+  
+- 
+- 
+X 
+Americas  (Status as of 30.09.2017: 12 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Siemens S.A.C., Lima/Peru 
+  
+- 
+X 
+X 
+Siemens S.A., Santiago de Chile/Chile 
+  
+- 
+X 
+X 
+Siemens S.A., Buenos Aires/Argentina 
+  
+- 
+- 
+X 
+Siemens S.A., San José/Costa Rica 
+  
+- 
+X 
+X 
+Siemens S.A., Antiguo Cuscatlán/El Salvador 
+  
+- 
+X 
+X 
+Siemens Canada Limited, Oakville/Canada 
+  
+- 
+- 
+X 
+Siemens S.A., Tenjo/Colombia 
+  
+- 
+X 
+X 
+Siemens, S.A. de C.V., Mexico City/Mexico 
+  
+- 
+X 
+X 
+Siemens S.A., Caracas/Venezuela 
+  
+- 
+X 
+X 
+Siemens S.A., Quito/Ecuador 
+  
+- 
+X 
+X 
+Siemens S.A., Montevideo/Uruguay 
+  
+X 
+X 
+X 
+Siemens Ltda., São Paulo/Brazil 
+  
+- 
+X 
+X 
+Asia, Australia (Status as of 30.09.2017: 16 companies) 
+  
+ 
+ 
+ 
+ 
+ 
+Siemens International Trading Ltd., Shanghai, Shanghai/China 
+  
+- 
+X 
+X 
+Siemens, Inc., Manila/Philippines 
+  
+- 
+X 
+X 
+Siemens Ltd., China, Beijing/China 
+  
+- 
+X 
+X 
+Siemens Bangladesh Ltd., Dhaka/Bangladesh 
+  
+- 
+X 
+X 
+Siemens Ltd., Mumbai/India 
+  
+- 
+X 
+X 
+P.T. Siemens Indonesia, Jakarta/Indonesia 
+  
+X 
+X 
+X 
+Siemens Healthcare K.K., Tokyo/Japan 
+  
+- 
+- 
+X 
+Siemens Ltd. Seoul, Seoul/South Korea 
+  
+- 
+- 
+X 
+Siemens Ltd., Taipei/Taiwan 
+  
+- 
+X 
+X 
+Siemens Ltd., Ho Chi Minh City/Viet Nam 
+  
+- 
+- 
+X 
+Siemens Limited, Bangkok/Thailand 
+  
+- 
+- 
+X 
+Siemens Ltd., Hong Kong/Hong Kong 
+  
+- 
+- 
+X 
+Siemens Malaysia Sdn. Bhd., Petaling Jaya/Malaysia 
+  
+- 
+- 
+X 
+Siemens Ltd., Bayswater/Australia 
+  
+- 
+- 
+X 
+Siemens Pte. Ltd., Singapore/Singapore 
+  
+- 
+- 
+X 
+Siemens (N.Z.) Limited, Auckland/New Zealand 
+  
+- 
+- 
+X 
+ 
+ 
+ 
+ 
+
+Siemens Healthineers 
+Notes to the Combined Financial Statements 
+for the fiscal years ended September 30, 2017, 2016 and 2015 
+F | 62 
+Munich, January 8, 2018  
+ 
+Siemens Healthineers  
+ 
+ 
+ 
+__________________________________ 
+ 
+__________________________________ 
+Dr. Bernd Montag   
+ 
+ 
+ 
+Dr. Jochen Schmitz  
+CEO 
+ 
+ 
+ 
+ 
+ 
+CFO  
+ 
+ 
+ 
+ 
