@@ -1,54 +1,98 @@
-import os
+"""Retrieve and score relevant documents using a Weaviate vector store."""
+
 import json
 import logging
-from tqdm import tqdm
-from typing import List, Dict
+import os
+from typing import Dict, List, Optional
 
 import weaviate
+from langchain.docstore.document import Document
 from langchain_openai import OpenAIEmbeddings
 from langchain_weaviate.vectorstores import WeaviateVectorStore
-from langchain.docstore.document import Document
+from tqdm import tqdm
 
 # --- Logging setup ---
 logger = logging.getLogger(__name__)
 logging.basicConfig(
     filename=os.path.join("src", "rag", "retriever.log"),
     level=logging.INFO,
-    filemode='w'
+    filemode="w",
 )
 
+
 def load_docs_from_embedding_filter(json_path: str) -> List[Document]:
+    """Create Document objects from an ``embedding_filter.json`` file.
+
+    Args:
+        json_path: Path to ``embedding_filter.json``.
+
+    Returns:
+        List[Document]: Documents ready for indexing in Weaviate.
     """
-    Loads Document objects from a given embedding_filter.json file.
-    """
+
     with open(json_path, "r") as f:
         data = json.load(f)
     docs = [
         Document(
             page_content=entry["sentence"],
-            metadata={"chunk_id": entry["chunk_id"]}
-        ) for entry in data if entry["sentence"].strip()
+            metadata={"chunk_id": entry["chunk_id"]},
+        )
+        for entry in data
+        if entry["sentence"].strip()
     ]
     return docs
 
+
 class Retrieve:
-    def __init__(self, embeddings, weaviate_client):
+    """Helper class to index and query documents in Weaviate."""
+
+    def __init__(self, embeddings, weaviate_client) -> None:
+        """Initialize the retriever with embeddings and a client.
+
+        Args:
+            embeddings: Embedding model or callable.
+            weaviate_client: Active Weaviate client connection.
+        """
+
         self.embeddings = embeddings
         self.weaviate_client = weaviate_client
 
-    def get_db(self, json_path: str) -> WeaviateVectorStore:
+    def get_db(self, json_path: str) -> Optional[WeaviateVectorStore]:
+        """Create a Weaviate vector store from filtered sentences.
+
+        Args:
+            json_path: Path to ``embedding_filter.json``.
+
+        Returns:
+            Optional[WeaviateVectorStore]: Vector store of documents or ``None``
+            if no documents are found.
+        """
+
         docs = load_docs_from_embedding_filter(json_path)
         if not docs:
             logger.warning(f"No docs found in {json_path}")
             return None
         db = WeaviateVectorStore.from_documents(
-            docs,
-            self.embeddings,
-            client=self.weaviate_client
+            docs, self.embeddings, client=self.weaviate_client
         )
         return db
 
-    def retrieve_docs(self, db: WeaviateVectorStore, keywords: List, similarity_threshold: float = 0.75) -> Dict:
+    def retrieve_docs(
+        self,
+        db: WeaviateVectorStore,
+        keywords: List[str],
+        similarity_threshold: float = 0.75,
+    ) -> Dict:
+        """Search ``db`` for documents similar to provided keywords.
+
+        Args:
+            db: Weaviate vector store containing documents.
+            keywords: List of keywords to query.
+            similarity_threshold: Minimum similarity score to accept a document.
+
+        Returns:
+            Dict: Mapping of keyword to retrieved document metadata and counts.
+        """
 
         kw_data = {}
         for keyword in keywords:
@@ -61,7 +105,7 @@ class Retrieve:
                     retrieved_docs.append([score, doc.metadata["chunk_id"], doc.page_content])
             kw_data[keyword] = {
                 "total_docs": count,
-                "retrieved_docs": retrieved_docs
+                "retrieved_docs": retrieved_docs,
             }
 
         return kw_data

@@ -1,34 +1,57 @@
+"""Helpers to track missing PDF and RAG outputs for each company/year."""
 
 import os
 
 import pandas as pd
 
 
-def get_missing_files(company_dir):
+def get_missing_files(company_dir: str) -> list:
+    """Return PDF paths missing from ``company_dir``.
+
+    Args:
+        company_dir: Directory containing yearly PDF reports for a company.
+
+    Returns:
+        list: Paths to missing PDFs.
+    """
+
     missing_files = []
-    years = list(range(2014,2024))
-    result_paths = [os.path.join(company_dir, str(year)+".pdf") for year in years]
+    years = list(range(2014, 2024))
+    result_paths = [os.path.join(company_dir, f"{year}.pdf") for year in years]
     for pth in result_paths:
         if not os.path.exists(pth):
             missing_files.append(pth)
 
     return missing_files
 
-def get_filtered_files(company_dir_texts, company_dir_pdfs):
+
+def get_filtered_files(company_dir_texts: str, company_dir_pdfs: str) -> list:
+    """Identify years without filtered RAG output despite existing PDFs.
+
+    Args:
+        company_dir_texts: Path to the company's text directory.
+        company_dir_pdfs: Path to the company's PDF directory.
+
+    Returns:
+        list: Years for which ``rag_filter_ai.json`` is missing.
+    """
+
     filtered_file_years = []
-    years = list(range(2014,2024))
+    years = list(range(2014, 2024))
 
     for year in years:
-        # replace with embedding_filter.json, to get first filtered data
+        # Replace with embedding_filter.json to get first filtered data
         result_paths = os.path.join(company_dir_texts, str(year), "rag_filter_ai.json")
-        pdf_path = os.path.join(company_dir_pdfs, str(year)+".pdf")
+        pdf_path = os.path.join(company_dir_pdfs, f"{year}.pdf")
         if not os.path.exists(result_paths) and os.path.exists(pdf_path):
             filtered_file_years.append(year)
 
     return filtered_file_years
 
 
-def generate_missing_files_list():
+def generate_missing_files_list() -> None:
+    """Create ``results/missing_data.csv`` listing missing company PDFs."""
+
     companies = []
     years = []
     base_dir = os.path.join("data", "cleaned_reports")
@@ -41,16 +64,13 @@ def generate_missing_files_list():
                     companies.append(splits[-2])
                     years.append(int(splits[-1].replace(".pdf", "")))
 
-    df = pd.DataFrame(
-        {
-            "Company": companies,
-            "Year": years
-        }
-    )
-
+    df = pd.DataFrame({"Company": companies, "Year": years})
     df.to_csv(os.path.join("results", "missing_data.csv"), index=False)
 
-def generate_filtered_files_list():
+
+def generate_filtered_files_list() -> None:
+    """Create ``results/filtered_data_2.csv`` for missing filtered outputs."""
+
     companies = []
     years = []
     base_dir = os.path.join("data", "cleaned_reports")
@@ -64,14 +84,10 @@ def generate_filtered_files_list():
                     companies.append(company_dir)
                     years.append(year)
 
-    df = pd.DataFrame(
-        {
-            "Company": companies,
-            "Year": years
-        }
-    )
+    df = pd.DataFrame({"Company": companies, "Year": years})
     df.to_csv(os.path.join("results", "filtered_data_2.csv"), index=False)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     generate_missing_files_list()
     generate_filtered_files_list()
