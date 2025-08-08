@@ -1,53 +1,59 @@
-# Process PDFs via a faster alternative to OCR.
-# Idea is to check garbage PDFs (likely scanned), and use OCR on only those PDFs.
-# These are annual reports, so all pdfs can be processed without need for an OCR pipeline, however
-# some PDFs do produce garbage output likely due to their encoding, handle those separately
+"""Utilities for extracting text from PDF reports without OCR."""
 
-# NOTE: Requires the PDFs to be saved in the following format - data/reports/COMPANY_NAME/YEAR.pdf
-
-import os
-from tqdm import tqdm
 import logging
+import os
+
 import fitz
+from tqdm import tqdm
+
+# Expected PDF layout: data/reports/COMPANY_NAME/YEAR.pdf
 
 # Setup a base logger
 logging.basicConfig(
     filename=os.path.join("src", "data_processing", "pdf2text.log"),
     level=logging.INFO,
-    filemode='w'
+    filemode="w",
 )
 
+
 def get_txt_content(file: str = "temp") -> str:
-    """
-    Get the txt content from a given PDF using PyMuPDF
+    """Extract text content from a PDF using PyMuPDF.
 
     Args:
-        file: PDF file path
+        file: Path to the PDF file.
+
     Returns:
-        txt content: Processed PDF content in text format (str)
+        str: Extracted text content.
     """
+
     txt_content = ""
     with fitz.open(file) as doc:
         for page in doc:
             txt_content += "\n" + page.get_text()
 
-    # Sanity check for valid pdf content
+    # Sanity check for valid PDF content
     logging.info(f"Doc content for {file}::\n {txt_content[:250]}")
     logging.info("*" * 50)
     return txt_content
 
 
-def write_txt(content: str = "temp", file: str = "temp.txt"):
-    """
-    Save the txt content in a results.txt file. Format - data/texts/company/year/results.txt
+def write_txt(content: str = "temp", file: str = "temp.txt") -> None:
+    """Save text content to disk.
+
+    The file is saved as ``results.txt`` in the directory
+    ``data/texts/COMPANY/YEAR``.
 
     Args:
-        content: Text content to be saved
-        file: File path to save the txt content
+        content: Text content to be saved.
+        file: Destination path for the ``.txt`` file.
+
+    Raises:
+        AssertionError: If ``file`` does not end with ``.txt``.
     """
 
-    assert file.endswith('.txt') == True, "File path is not valid. Path should end with .txt"
-    with open(file, 'w') as f:
+    # Ensure the output file path is sensible
+    assert file.endswith(".txt"), "File path is not valid. Path should end with .txt"
+    with open(file, "w") as f:
         f.write(content)
     logging.info(f"Saved file : {file}")
     logging.info("*" * 50)

@@ -1,3 +1,5 @@
+"""Aggregate RAG retrieval counts for AI and SDG keywords."""
+
 import json
 import os
 
@@ -5,12 +7,32 @@ import pandas as pd
 
 base_dir = os.path.join("data", "texts")
 
-def load_json(json_path):
+
+def load_json(json_path: str) -> dict:
+    """Load JSON content from ``json_path``.
+
+    Args:
+        json_path: Path to the JSON file.
+
+    Returns:
+        dict: Parsed JSON data.
+    """
+
     with open(json_path, "r") as f:
         return json.load(f)
 
 
-def get_threshold_scores(json_data, threshold):
+def get_threshold_scores(json_data: dict, threshold: float) -> int:
+    """Count retrieved docs with scores above ``threshold``.
+
+    Args:
+        json_data: Retrieved document data.
+        threshold: Minimum score to count a document.
+
+    Returns:
+        int: Number of documents meeting the threshold.
+    """
+
     total_docs = 0
     for kw in json_data:
         kw_dict = json_data[kw]["retrieved_docs"]
@@ -19,12 +41,29 @@ def get_threshold_scores(json_data, threshold):
                 total_docs += 1
     return total_docs
 
-def save_csv(ai_scores, sdg_scores, companies, years, save_path):
+
+def save_csv(
+    ai_scores: list,
+    sdg_scores: list,
+    companies: list,
+    years: list,
+    save_path: str,
+) -> None:
+    """Write AI and SDG scores to ``save_path``.
+
+    Args:
+        ai_scores: Aggregated AI scores.
+        sdg_scores: Aggregated SDG scores.
+        companies: Company names.
+        years: Corresponding years.
+        save_path: Output CSV path.
+    """
+
     data = {
         "Company": companies,
         "Year": years,
         "AI_Score": ai_scores,
-        "SDG_Score": sdg_scores
+        "SDG_Score": sdg_scores,
     }
 
     df = pd.DataFrame(data)
