@@ -4,6 +4,12 @@ A collection of utilities for processing company annual reports, retrieving ESG-
 
 ## Data Processing
 
+Run the following commands to convert PDFs into text. Uses Tesseract OCR for failed cases.
+```python
+python3 src/data_processing/pdf2text.py
+python3 src/data_processing/tesseract.py
+```
+
 ### `pdf2text.py`
 Extracts text directly from PDFs using [PyMuPDF](https://pymupdf.readthedocs.io). The script walks through `data/reports/COMPANY/YEAR.pdf`, converts each file to text, and saves the output under `data/texts/COMPANY/YEAR/results.txt`.
 
@@ -11,6 +17,16 @@ Extracts text directly from PDFs using [PyMuPDF](https://pymupdf.readthedocs.io)
 Performs OCR on PDFs that cannot be parsed normally. Each page is rendered to an image with `pdf2image`, then processed by `pytesseract`; results are written alongside the original PDF in `data/reports_corrupted`.
 
 ## Retrieval-Augmented Generation (RAG)
+
+Run the following command to extract sentences from each report depending on the AI and SDG keywords.
+
+```python
+python3 src/rag/splitter.py
+python3 src/rag/fuzzy_search.py
+python3 src/rag/embedding_retirever.py
+python3 src/rag/embedding_filter.py
+python3 src/rag/rag_filter.py
+```
 
 ### `splitter.py`
 Cleans raw text, removes artifacts such as page numbers, and splits documents into individual sentences stored as `splits.json` files under `data/texts`.
@@ -29,10 +45,14 @@ Loads filtered sentences, indexes them in Weaviate using OpenAI embeddings, and 
 
 ## Sentiment
 
+```python
+python3 src/sentiment/classify_sentiment.py
+```
+
 ### `classify_sentiment.py`
 Demonstrates sentiment classification with a DistilBERT model fine-tuned on SST-2, returning the predicted label for a sample string.
 
-## Analysis
+## Analysis (WIP)
 
 ### `embedding_scores.py`
 Aggregates AI and SDG scores from all `sentence_scores.csv` files using DuckDB, producing a per-company, per-year CSV of embedding-based counts.
@@ -45,7 +65,3 @@ Summarises retrieved document counts for AI and SDG keywords across multiple sim
 
 ### `rag_individual_scores.py`
 Generates per-SDG and AI scores per company/year for different thresholds, outputting to the `results` directory.
-
----
-
-This README summarises the repository’s structure and key scripts for processing and analysing ESG-related documents.
