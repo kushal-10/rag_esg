@@ -14,7 +14,7 @@ nltk.download("punkt")
 logging.basicConfig(
     format="%(asctime)s : %(levelname)s : %(message)s",
     level=logging.INFO,
-    filename=os.path.join("src", "rag", "splitter.log"),
+    filename=os.path.join("src", "data_processing", "splitter.log"),
     filemode="w",
 )
 
@@ -91,21 +91,28 @@ def split_texts(base_dir: str) -> None:
     txt_files: List[str] = []
     for dirname, _, filenames in os.walk(base_dir):
         for filename in filenames:
-            if filename.endswith("results.de.de.txt"):
+            if filename.endswith("results.txt"):
                 file_path = os.path.join(dirname, filename)
                 txt_files.append(file_path)
 
     for file_path in tqdm(txt_files):
-        save_path = file_path.replace("results.de.de.txt", "splits_de.json")
-        sentences = sentence_splitter(file_path)
-        save_splits_df(sentences, save_path)
+        save_path = file_path.replace("results.txt", "splits.json")
+        if not os.path.exists(save_path):
+            sentences = sentence_splitter(file_path)
+            save_splits_df(sentences, save_path)
+        else:
+            with open(save_path, "r", encoding="utf-8") as f:
+                json_data = json.load(f)
+            if not json_data:
+                sentences = sentence_splitter(file_path)
+                save_splits_df(sentences, save_path)
 
     logging.info('Saved all splits as dataframes in respective "splits.json"')
 
 
 
 if __name__ == "__main__":
-    BASE_DIR = "data/textsv3"
+    BASE_DIR = "data/texts"
     split_texts(BASE_DIR)
 
 

@@ -18,6 +18,15 @@ ai_terms = [
     "Computer Vision",
     "Natural Language Processing",
 ]
+
+ai_terms_de = [
+    "Künstliche Intelligenz",       # Artificial Intelligence
+    "Maschinelles Lernen",          # Machine Learning
+    "Bestärkendes Lernen",          # Reinforcement Learning
+    "Tiefes Lernen",                # Deep Learning
+    "Computer Vision",              # Computer Vision (often used untranslated)
+    "Natürliche Sprachverarbeitung" # Natural Language Processing
+]
 ai_colnames = [f"{term} Fuzzy" for term in ai_terms]
 fuzzy_threshold = 90  # Now stricter!
 

@@ -1,20 +1,22 @@
+import json
 import os
 
-base_dirs = ["data/texts", "data/textsv2", "data/textsv3", "data/reports_corrupted"]
+base_dir = "data/texts"
 
-counter = 0
-blanks = 0
-for base_dir in base_dirs:
-    for dirpath, _, filenames in os.walk(base_dir):
-        for filename in filenames:
-            if filename.endswith("results.txt"):
-                counter += 1
-                with open(os.path.join(dirpath, filename), "r") as f:
-                    text = f.read()
-                if not text:
-                    blanks += 1
-                    print(f"{counter}: {filename, dirpath}")
+no_json = 0
+empty_json = 0
+total = 0 # 1410 text files
+for dirname, _, filenames in os.walk(base_dir):
+    for filename in filenames:
+        if filename.endswith(".txt"):
+            filepath = os.path.join(dirname, filename)
+            if "results.txt" not in filepath:
+                print(filepath)
+            else:
+                total += 1
+print(total)
 
 
-print(counter, blanks)
+
+
 
