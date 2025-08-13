@@ -18,7 +18,7 @@ def get_tokens(csv_path, json_path):
 
     df = pd.read_csv(csv_path)
 
-    T = 0.4
+    T = 0.5
 
 
     cols = list(df.columns)
@@ -32,8 +32,8 @@ def get_tokens(csv_path, json_path):
                 sent_id = int(df.iloc[i]["sentence_id"])
                 sentence = data[str(sent_id)]
                 sentences += 1
-                toks = len(enc.encode(str(sentence)))
-                tokens += toks
+                # toks = len(enc.encode(str(sentence)))
+                # tokens += toks
                 break
 
     return tokens, sentences
@@ -58,7 +58,7 @@ if __name__ == "__main__":
         total_toks += tokens
         total_sentences += sents
 
-        print(total_toks, total_sentences)
+    print(total_toks, total_sentences)
 
     # Toks, Sents for T=0.4 est on 50 reports
     # -> 628321, 160774 -> 161k sents, 630k tokens, so for 1410 report it is:
@@ -68,3 +68,10 @@ if __name__ == "__main__":
     # Nano - IP cost - $0.4, OP Cost - $4
     # ~5$ total cost
 
+    """
+    For T=0.5 
+    108502 tokens  3187 sentences on 50 reports
+    
+    3.1M, 100k sentences
+
+    """

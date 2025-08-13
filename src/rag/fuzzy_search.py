@@ -28,7 +28,7 @@ ai_terms_de = [
     "Natürliche Sprachverarbeitung" # Natural Language Processing
 ]
 ai_colnames = [f"{term} Fuzzy" for term in ai_terms]
-fuzzy_threshold = 90  # Now stricter!
+fuzzy_threshold = 90
 
 
 def add_fuzzy_scores(

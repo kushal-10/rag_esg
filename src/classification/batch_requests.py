@@ -1,6 +1,7 @@
 import os
 import json
 from typing import List, Dict, Any
+import logging
 
 import pandas as pd
 from openai import OpenAI
@@ -8,14 +9,27 @@ from tqdm import tqdm
 
 from src.classification.prompts import get_classifications, create_batch_object
 from src.utils.file_utils import load_json
+from src.filtering.fuzzy_search import is_ai_related
+
+logging.basicConfig(
+    filename=os.path.join("src", "classification", "submit_requests.log"),  # log file path
+    filemode="w",                     # "w" overwrite, "a" append
+    level=logging.INFO,            # only WARNING+ messages
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+logger = logging.getLogger(__name__)
 
 client = OpenAI()
+MODEL = "gpt-4.1-mini"
 BASE_DIR = os.path.join("data", "texts")
-T = 0.4
-BATCH_DIR = os.path.join("data", "batches")
+
+T = 0.5
+BATCH_DIR = os.path.join("data", "batches_41_mini")
+PATCH_DIR = os.path.join(BATCH_DIR, "patched_max_tokens_50")
+
 if not os.path.exists(BATCH_DIR):
     os.makedirs(BATCH_DIR)
-
 
 def save_batch(batches: List, batch_num: int):
     jsonl_path = os.path.join(BATCH_DIR, f"batch_{batch_num}.jsonl")
@@ -25,10 +39,13 @@ def save_batch(batches: List, batch_num: int):
             file.write(json.dumps(obj) + '\n')
 
 
-def create_batches(split_paths: List):
+def _create_batches(split_paths: List):
 
     batches = []
     batch_num = 0
+
+    embedding_sentences = 0
+    fuzzy_sentences = 0
 
     for sp in tqdm(split_paths):
         csv_path = sp.replace("splits.json", "similarity_scores.csv").replace("texts", "scores_csv")
@@ -40,69 +57,83 @@ def create_batches(split_paths: List):
         columns = list(csv_df.columns)
 
         for i in range(len(csv_df)):
+            sentence_id = str(int(csv_df.iloc[i][columns[0]]))
+            sentence = json_data[sentence_id]
             for j in range(1, len(columns)):
                 score = csv_df.iloc[i][columns[j]]
                 if score >= T:
-                    sentence_id = str(int(csv_df.iloc[i][columns[0]]))
-                    sentence = json_data[sentence_id]
-                    batch_obj = create_batch_object(sentence, sentence_id, csv_path, model="gpt-5-nano")
+                    batch_obj = create_batch_object(sentence, sentence_id, csv_path, model=MODEL)
                     batches.append(batch_obj)
+                    embedding_sentences += 1
 
-                    if len(batches) >= 40000:
+                    if len(batches) >= 20000:
                         save_batch(batches, batch_num)
                         batch_num += 1
                         batches = []
                     break
 
+                if j == len(columns) - 1: # Last value, sentence did not clear threshold
+                    if is_ai_related(sentence): # Handle lost context cases
+                        batch_obj = create_batch_object(sentence, sentence_id, csv_path, model=MODEL)
+                        batches.append(batch_obj)
+                        fuzzy_sentences += 1
+
+                        if len(batches) >= 20000:
+                            save_batch(batches, batch_num)
+                            batch_num += 1
+                            batches = []
+
+
     save_batch(batches, batch_num)
 
     print(f"Created {batch_num} batches")
+    print(f"Embedding sentences: {embedding_sentences}")
+    print(f"Fuzzy sentences: {fuzzy_sentences}")
 
 
+def create_batches():
+
+    splits = []
+    for dirname, _, filenames in os.walk(BASE_DIR):
+        for filename in filenames:
+            filepath = os.path.join(dirname, filename)
+            if filename.endswith("splits.json"):
+                splits.append(filepath)
+
+    _create_batches(splits)
 
 
-if __name__ == "__main__":
+def submit_requests():
+    BATCH_DIR = PATCH_DIR
+    batch_files = [
+        os.path.join(BATCH_DIR, f)
+        for f in os.listdir(BATCH_DIR)
+        if f.endswith(".jsonl")
+    ]
 
-    # 1 - Create Batches
-    # splits = []
-    # for dirname, _, filenames in os.walk(BASE_DIR):
-    #     for filename in filenames:
-    #         filepath = os.path.join(dirname, filename)
-    #         if filename.endswith("splits.json"):
-    #             splits.append(filepath)
-
-    # create_batches(splits)
-
-    # 2 - Submit requests
-
-    batches = os.listdir(BATCH_DIR)
-    batches = [os.path.join(BATCH_DIR, batches) for batches in batches if batches.endswith(".jsonl")]
-
-    for i in tqdm(range(len(batches)-1)):
-
+    for path in tqdm(batch_files):
         batch_file = client.files.create(
-            file=open(batches[i], "rb"),
+            file=open(path, "rb"),
             purpose="batch"
         )
-        print("/" * 50)
-        print(f"BATCH - {batch_file}")
-        print("/"*50)
+        logger.info("/" * 50)
+        logger.info(f"BATCH - {batch_file}")
+        logger.info(f"For path - {path}")
+        logger.info("/" * 50)
 
-        print(f"batch_file: {batch_file}")
-        print(f"batch_file.id: {batch_file.id}")
+        logger.info(f"batch_file: {batch_file}")
+        logger.info(f"batch_file.id: {batch_file.id}")
 
         batch_job = client.batches.create(
             input_file_id=batch_file.id,
             endpoint="/v1/chat/completions",
             completion_window="24h"
         )
-        print(f"batch_job.id: {batch_job.id}")
-        print(f"batch_job.output_file_id: {batch_job.output_file_id}")
+        logger.info(f"batch_job.id: {batch_job.id}")
+        logger.info(f"batch_job.output_file_id: {batch_job.output_file_id}")
 
 
+if __name__ == "__main__":
 
-
-
-
-
-
+    # create_batches()
+    submit_requests()

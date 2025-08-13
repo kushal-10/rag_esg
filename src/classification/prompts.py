@@ -1,3 +1,5 @@
+from openai import OpenAI
+
 SYS_PROMPT = """
 Your goal is to classify a given SENTENCE in the following order:
 1) Generate a classification for the SENTENCE into one or more Sustainable Development Goals as a list. 
@@ -15,13 +17,9 @@ example3 - [0, False, Positive]
 """
 
 
-def get_classifications(client, sentence, model="gpt-5-nano"):
+def get_classifications(client, sentence, model="gpt-4.1-mini"):
     response = client.chat.completions.create(
         model=model,
-        # This is to enable JSON mode, making sure responses are valid json objects
-        # response_format={
-        #     "type": "json_object"
-        # },
         messages=[
             {
                 "role": "system",
@@ -32,8 +30,9 @@ def get_classifications(client, sentence, model="gpt-5-nano"):
                 "content": sentence
             }
         ],
+        max_tokens = 50
     )
-
+    print(response)
     return response.choices[0].message.content.strip()
 
 def create_batch_object(sentence: str, sentence_id: str, csv_path: str, model="gpt-5-nano"):
@@ -56,8 +55,15 @@ def create_batch_object(sentence: str, sentence_id: str, csv_path: str, model="g
                     "content": sentence
                 }
             ],
+            "max_output_tokens": 50
         }
     }
 
     return batch_obj
+
+if __name__ == "__main__":
+    client = OpenAI()
+    sent = "We want to improve people\u2019s quality of life by preventing and combating disease (health), promoting educational equality, employability and economic participation (skills), and \nconserving natural resources (resources)."
+    classification = get_classifications(client, sent, model="gpt-4.1-mini")
+    print(classification)
 
