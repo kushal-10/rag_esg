@@ -1,14 +1,13 @@
 import os
 import glob
 import json
-import csv
 
 import pandas as pd
 from tqdm import tqdm
 
 BATCH_OBJS_DIR = "data/batches_41_mini/patched_max_tokens_50"  # original requests
 RESULTS_DIR    = "data/batch_results"                          # completed results
-OUT_CSV        = os.path.join("src", "classification", "results", "merged_classifications.csv")
+OUT_JSON       = os.path.join("src", "classification", "results", "merged_classifications.json")
 
 def iter_jsonl(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -69,13 +68,9 @@ for res_path in res_files:
             "completion_tokens": completion_tokens,
         })
 
-# 3) Save CSV
-df = pd.DataFrame(rows, columns=[
-    "custom_id", "user_content", "assistant_content",
-    "prompt_tokens", "completion_tokens"
-])
-os.makedirs(RESULTS_DIR, exist_ok=True)
+# 3) Save JSON
+os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
+with open(OUT_JSON, "w", encoding="utf-8") as f:
+    json.dump(rows, f, ensure_ascii=False, indent=2)
 
-df.to_csv(OUT_CSV, index=False, encoding="utf-8",
-          quoting=csv.QUOTE_NONE, escapechar="\\")
-print(f"Wrote {len(df)} rows to {OUT_CSV}")
+print(f"Wrote {len(rows)} rows to {OUT_JSON}")
