@@ -10,7 +10,7 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 batches = client.batches.list(limit=100)
 
 for b in batches.data:
-    if b.status == "completed" and b.output_file_id:
+    if b.status == "finalizing" and b.output_file_id:
         print(f"Downloading results for {b.id} ...")
 
         # Retrieve the file content
@@ -18,7 +18,8 @@ for b in batches.data:
 
         # Save locally
         save_path = os.path.join(SAVE_DIR, f"{b.id}.jsonl")
-        with open(save_path, "w", encoding="utf-8") as f:
-            f.write(content)
+        if not os.path.exists(save_path):
+            with open(save_path, "w", encoding="utf-8") as f:
+                f.write(content)
 
-        print(f"Saved: {save_path}")
+            print(f"Saved: {save_path}")

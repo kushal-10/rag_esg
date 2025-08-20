@@ -25,8 +25,9 @@ MODEL = "gpt-4.1-mini"
 BASE_DIR = os.path.join("data", "texts")
 
 T = 0.5
-BATCH_DIR = os.path.join("data", "batches_41_mini")
-PATCH_DIR = os.path.join(BATCH_DIR, "patched_max_tokens_50")
+BATCH_DIR = os.path.join("data", "batches_41_mini_pse")
+# PATCH_DIR = os.path.join(BATCH_DIR, "patched_max_tokens_50")
+PATCH_DIR = BATCH_DIR # hotfix Porsche SE
 
 if not os.path.exists(BATCH_DIR):
     os.makedirs(BATCH_DIR)
@@ -98,7 +99,8 @@ def create_batches():
         for filename in filenames:
             filepath = os.path.join(dirname, filename)
             if filename.endswith("splits.json"):
-                splits.append(filepath)
+                if "Porsche SE" in dirname:
+                    splits.append(filepath)
 
     _create_batches(splits)
 

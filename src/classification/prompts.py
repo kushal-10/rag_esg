@@ -35,7 +35,7 @@ def get_classifications(client, sentence, model="gpt-4.1-mini"):
     print(response)
     return response.choices[0].message.content.strip()
 
-def create_batch_object(sentence: str, sentence_id: str, csv_path: str, model="gpt-5-nano"):
+def create_batch_object(sentence: str, sentence_id: str, csv_path: str, model="gpt-4.1-mini"):
 
     splits = csv_path.split("/")
     batch_obj = {
